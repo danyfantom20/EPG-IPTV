@@ -170,6 +170,11 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/star_tve_hd-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="tve">
+    <display-name lang="es">tve</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="El Gourmet">
     <display-name lang="es">El Gourmet</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png" />
@@ -213,6 +218,11 @@
   <channel id="TVC">
     <display-name lang="es">TVC</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Atres Series">
+    <display-name lang="es">Atres Series</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/atreseries-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Multimedios Monterrey">
@@ -595,6 +605,16 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/exa_tv-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Telemusica">
+    <display-name lang="es">Telemusica</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/much_music-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Teleritmo">
+    <display-name lang="es">Teleritmo</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/claro_musica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Foro TV">
     <display-name lang="es">Foro TV</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" />
@@ -743,9 +763,6 @@
   <programme start="20201202233000 -0600" stop="20201203000000 -0600" channel="Azteca Uno">
     <title lang="es">Los protagonistas</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203001500 -0600" channel="Azteca Uno">
-    <title lang="es">Himno Nacional</title>
-  </programme>
   <programme start="20201203003000 -0600" stop="20201203010000 -0600" channel="Azteca Uno">
     <title lang="es">Yetzali</title>
   </programme>
@@ -818,6 +835,12 @@
   </programme>
   <programme start="20201203233000 -0600" stop="20201204000000 -0600" channel="Azteca Uno">
     <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20201204090000 -0600" stop="20201204110000 -0600" channel="Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20201204193000 -0600" stop="20201204223000 -0600" channel="Azteca Uno">
     <title lang="es">MasterChef</title>
@@ -898,69 +921,69 @@
   <programme start="20201202213000 -0600" stop="20201203003000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Exatlón Titanes vs. Héroes</title>
   </programme>
-  <programme start="20201203213000 -0600" stop="20201204003000 -0600" channel="Azteca Uno -2Hrs">
-    <title lang="es">Exatlón Titanes vs. Héroes</title>
-  </programme>
-  <programme start="20201204023000 -0600" stop="20201204030000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203023000 -0600" stop="20201203030000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Yetzali</title>
   </programme>
-  <programme start="20201204030000 -0600" stop="20201204060000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203030000 -0600" stop="20201203060000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20201204060000 -0600" stop="20201204061500 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203060000 -0600" stop="20201203061500 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Azteca Uno</title>
   </programme>
-  <programme start="20201204061500 -0600" stop="20201204070000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203061500 -0600" stop="20201203070000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20201204070000 -0600" stop="20201204073000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203070000 -0600" stop="20201203073000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Que Cotorreo</title>
   </programme>
-  <programme start="20201204073000 -0600" stop="20201204081500 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203073000 -0600" stop="20201203081500 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20201204081500 -0600" stop="20201204090000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203081500 -0600" stop="20201203090000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Primera Línea</title>
   </programme>
-  <programme start="20201204090000 -0600" stop="20201204100000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203090000 -0600" stop="20201203100000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Hechos AM</title>
   </programme>
-  <programme start="20201204100000 -0600" stop="20201204110000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203100000 -0600" stop="20201203110000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Hechos Aquí entre nos</title>
   </programme>
-  <programme start="20201204110000 -0600" stop="20201204130000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203110000 -0600" stop="20201203130000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20201204130000 -0600" stop="20201204150000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203130000 -0600" stop="20201203150000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20201204150000 -0600" stop="20201204160000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203150000 -0600" stop="20201203160000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20201204160000 -0600" stop="20201204170000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203160000 -0600" stop="20201203170000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Hechos meridiano</title>
   </programme>
-  <programme start="20201204170000 -0600" stop="20201204183000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203170000 -0600" stop="20201203183000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Ventaneando</title>
     <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
     <date>1996</date>
     <category lang="es">Programa</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
   </programme>
-  <programme start="20201204183000 -0600" stop="20201204193000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203183000 -0600" stop="20201203193000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Todos quieren fama</title>
   </programme>
-  <programme start="20201204193000 -0600" stop="20201204213000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20201203193000 -0600" stop="20201203213000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20201204100000 -0600" stop="20201204110000 -0600" channel="Azteca Uno -2Hrs">
+    <title lang="es">Hechos Aquí entre nos</title>
   </programme>
   <programme start="20201204213000 -0600" stop="20201205003000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">MasterChef</title>
@@ -1250,11 +1273,11 @@
   <programme start="20201203193000 -0600" stop="20201203200000 -0600" channel="AZ Clic">
     <title lang="es">Just drive</title>
   </programme>
-  <programme start="20201204000000 -0600" stop="20201204003000 -0600" channel="AZ Clic">
-    <title lang="es">Hoyo 19</title>
-  </programme>
   <programme start="20201204083000 -0600" stop="20201204090000 -0600" channel="AZ Clic">
     <title lang="es">Cocina angelical</title>
+  </programme>
+  <programme start="20201204100000 -0600" stop="20201204110000 -0600" channel="AZ Clic">
+    <title lang="es">Mis doctores</title>
   </programme>
   <programme start="20201204173000 -0600" stop="20201204180000 -0600" channel="AZ Clic">
     <title lang="es">Cocina angelical</title>
@@ -1304,8 +1327,8 @@
   <programme start="20201202223000 -0600" stop="20201203000000 -0600" channel="AZ Corazon">
     <title lang="es">Gata salvaje - Parte 2</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203013000 -0600" channel="AZ Corazon">
-    <title lang="es">3 familias - Parte 2</title>
+  <programme start="20201203090000 -0600" stop="20201203103000 -0600" channel="AZ Corazon">
+    <title lang="es">Cielo rojo - Parte 2</title>
   </programme>
   <programme start="20201202020000 -0600" stop="20201202030000 -0600" channel="AZ Mundo">
     <title lang="es">Detrás del personaje</title>
@@ -1381,11 +1404,14 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="AZ Mundo">
     <title lang="es">Latin Angels</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203020000 -0600" channel="AZ Mundo">
-    <title lang="es">Los Rey</title>
-  </programme>
   <programme start="20201203020000 -0600" stop="20201203030000 -0600" channel="AZ Mundo">
     <title lang="es">En sus Batallas</title>
+  </programme>
+  <programme start="20201203090000 -0600" stop="20201203110000 -0600" channel="AZ Mundo">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20201202013000 -0600" stop="20201202050000 -0600" channel="A+">
     <title lang="es">Infomerciales</title>
@@ -1453,6 +1479,9 @@
   <programme start="20201203000000 -0600" stop="20201203013000 -0600" channel="A+">
     <title lang="es">Paid Programing</title>
   </programme>
+  <programme start="20201203100000 -0600" stop="20201203103000 -0600" channel="A+">
+    <title lang="es">Naturista Naturalmente</title>
+  </programme>
   <programme start="20201203120000 -0600" stop="20201203134500 -0600" channel="A+">
     <title lang="es">Que me maten en tus brazos</title>
   </programme>
@@ -1464,9 +1493,6 @@
   </programme>
   <programme start="20201203193000 -0600" stop="20201203203000 -0600" channel="A+">
     <title lang="es">Trampas Mentales</title>
-  </programme>
-  <programme start="20201204000000 -0600" stop="20201204013000 -0600" channel="A+">
-    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20201204013000 -0600" stop="20201204050000 -0600" channel="A+">
     <title lang="es">Paid Programing</title>
@@ -1595,9 +1621,6 @@
   </programme>
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="Las Estrellas">
     <title lang="es">Tercer Grado</title>
-  </programme>
-  <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="Las Estrellas">
-    <title lang="es">Pare de sufrir</title>
   </programme>
   <programme start="20201203050000 -0600" stop="20201203053000 -0600" channel="Las Estrellas">
     <title lang="es">Infomerciales</title>
@@ -1783,8 +1806,16 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="Televisa Monterrey">
     <title lang="es">La guarida del perro Guarumo</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203003000 -0600" channel="Televisa Monterrey">
-    <title lang="es">Inova</title>
+  <programme start="20201203090000 -0600" stop="20201203110000 -0600" channel="Televisa Monterrey">
+    <title lang="es">Gente Regia</title>
+    <desc lang="es">Fernando Lozano, Mizada Mohamed y Silvia Elizondo.  Un programa de televisión, creado para informar al espectador de temas populares.</desc>
+    <credits>
+      <actor>Fernando Lozano</actor>
+      <actor>Mizada Mohamed</actor>
+      <actor>Silva Elizondo</actor>
+    </credits>
+    <date>2002</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/gente_regia.jpg" />
   </programme>
   <programme start="20201203220000 -0600" stop="20201204000000 -0600" channel="Televisa Monterrey">
     <title lang="es">Proyectese</title>
@@ -1984,8 +2015,8 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20201204000000 -0600" stop="20201204010000 -0600" channel="Canal 5">
-    <title lang="es">Infomerciales</title>
+  <programme start="20201203100000 -0600" stop="20201203110000 -0600" channel="Canal 5">
+    <title lang="es">Danny Phantom</title>
   </programme>
   <programme start="20201204010000 -0600" stop="20201204020000 -0600" channel="Canal 5">
     <title lang="es">México Nuevo Siglo</title>
@@ -2321,9 +2352,6 @@
   </programme>
   <programme start="20201203223000 -0600" stop="20201203233000 -0600" channel="Azteca 7">
     <title lang="es">Fbi</title>
-  </programme>
-  <programme start="20201203233000 -0600" stop="20201204003000 -0600" channel="Azteca 7">
-    <title lang="es">Macgyver</title>
   </programme>
   <programme start="20201204003000 -0600" stop="20201204021500 -0600" channel="Azteca 7">
     <title lang="es">Infomerciales</title>
@@ -2822,9 +2850,6 @@
   <programme start="20201202230000 -0600" stop="20201203000500 -0600" channel="Mexiquense TV">
     <title lang="es">Historias del Más Allá</title>
   </programme>
-  <programme start="20201203000500 -0600" stop="20201203020000 -0600" channel="Mexiquense TV">
-    <title lang="es">Pelicula del Cine Mexicano</title>
-  </programme>
   <programme start="20201203020000 -0600" stop="20201203043000 -0600" channel="Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
   </programme>
@@ -3055,9 +3080,6 @@
   <programme start="20201202233000 -0600" stop="20201203000000 -0600" channel="Bitme">
     <title lang="es">Arpeggio of Blue Steel</title>
     <episode-num system="onscreen">E8</episode-num>
-  </programme>
-  <programme start="20201203000000 -0600" stop="20201203003000 -0600" channel="Bitme">
-    <title lang="es">El chapulin colorado animado</title>
   </programme>
   <programme start="20201203020000 -0600" stop="20201203033000 -0600" channel="Bitme">
     <title lang="es">Future World</title>
@@ -5610,37 +5632,40 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20201203233000 -0600" stop="20201204010000 -0600" channel="Unicable">
-    <title lang="es">El Señor de los Cielos</title>
-    <desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc>
-    <credits>
-      <actor>Rafael Amaya</actor>
-      <actor>Ximena Herrera</actor>
-      <actor>Carmen Villalobos</actor>
-      <actor>Mauricio Ochmann</actor>
-      <actor>Raúl Méndez</actor>
-      <actor>Fernanda Castillo</actor>
-      <actor>Marlene Favela</actor>
-      <actor>Robinson Díaz</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Novela</category>
-    <category lang="es">Telenovela</category>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/el_senor_de_los_cielos.jpg" />
-    <country lang="es">México</country>
-    <country lang="es">Estados Unidos</country>
-    <country lang="es">Colombia</country>
-  </programme>
-  <programme start="20201204033500 -0600" stop="20201204044000 -0600" channel="Unicable">
+  <programme start="20201203033500 -0600" stop="20201203044000 -0600" channel="Unicable">
     <title lang="es">Netas divinas</title>
   </programme>
+  <programme start="20201203094000 -0600" stop="20201203111000 -0600" channel="Unicable">
+    <title lang="es">Sin Senos Sí Hay Paraíso</title>
+    <title lang="xx">Sin Senos Sí Hay Paraíso</title>
+    <desc lang="es">Ha llegado la hora de elegir a la joven más bella de la región. La pasarela se ha convertido en un campo de batalla donde habrá muchos aliados y enemigos.</desc>
+    <credits>
+      <actor>Catherine Siachoque</actor>
+      <actor>Fabián Ríos</actor>
+      <actor>Carolina Gaitán</actor>
+      <actor>Juan Pablo Urrego</actor>
+      <actor>Majida Issa</actor>
+      <actor>Johanna Fadul</actor>
+      <actor>César Mora</actor>
+      <actor>Juan Pablo Llano</actor>
+      <producer>Nelson Martínez</producer>
+      <composer>Robert Taylor</composer>
+      <composer>Gustavo Bolívar</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/sin_senos_si_hay_paraiso.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201203213000 -0600" stop="20201203223000 -0600" channel="Unicable">
+    <title lang="es">Miembros al aire</title>
+  </programme>
+  <programme start="20201204033500 -0600" stop="20201204044000 -0600" channel="Unicable">
+    <title lang="es">Miembros al aire</title>
+  </programme>
   <programme start="20201204213000 -0600" stop="20201204223000 -0600" channel="Unicable">
-    <title lang="es">Miembros al aire</title>
-  </programme>
-  <programme start="20201205033500 -0600" stop="20201205044000 -0600" channel="Unicable">
-    <title lang="es">Miembros al aire</title>
-  </programme>
-  <programme start="20201205213000 -0600" stop="20201205223000 -0600" channel="Unicable">
     <title lang="es">Con permiso</title>
   </programme>
   <programme start="20201202002000 -0600" stop="20201202005000 -0600" channel="Telemundo Internacional">
@@ -5745,11 +5770,11 @@
   <programme start="20201202224000 -0600" stop="20201202233000 -0600" channel="Telemundo Internacional">
     <title lang="es">Suelta la Sopa</title>
   </programme>
-  <programme start="20201202233000 -0600" stop="20201203002000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Suelta la Sopa</title>
-  </programme>
   <programme start="20201203023000 -0600" stop="20201203041000 -0600" channel="Telemundo Internacional">
     <title lang="es">Bajo el mismo cielo</title>
+  </programme>
+  <programme start="20201203095000 -0600" stop="20201203104500 -0600" channel="Telemundo Internacional">
+    <title lang="es">Al Rojo Vivo</title>
   </programme>
   <programme start="20201203160000 -0600" stop="20201203165000 -0600" channel="Telemundo Internacional">
     <title lang="es">12 corazones</title>
@@ -7878,9 +7903,6 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="Comedy Central">
     <title lang="es">Comedy Central Presenta</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203010500 -0600" channel="Comedy Central">
-    <title lang="es">La culpa es de la Malinche</title>
-  </programme>
   <programme start="20201203015500 -0600" stop="20201203022000 -0600" channel="Comedy Central">
     <title lang="es">Ren &amp; Stimpy</title>
   </programme>
@@ -7895,6 +7917,9 @@
   </programme>
   <programme start="20201203090000 -0600" stop="20201203093000 -0600" channel="Comedy Central">
     <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203103000 -0600" channel="Comedy Central">
+    <title lang="es">Todo el mundo odia a Chris</title>
   </programme>
   <programme start="20201203110000 -0600" stop="20201203112500 -0600" channel="Comedy Central">
     <title lang="es">Vecinos</title>
@@ -8187,6 +8212,10 @@
   <programme start="20201203040500 -0600" stop="20201203043500 -0600" channel="Distrito Comedia">
     <title lang="es">Renta congelada T.3 (final)</title>
   </programme>
+  <programme start="20201203092000 -0600" stop="20201203101500 -0600" channel="Distrito Comedia">
+    <title lang="es">María de todos los Angeles</title>
+    <episode-num system="onscreen">S2</episode-num>
+  </programme>
   <programme start="20201203113000 -0600" stop="20201203123000 -0600" channel="Distrito Comedia">
     <title lang="es">40 y 20</title>
     <episode-num system="onscreen">S4</episode-num>
@@ -8213,10 +8242,6 @@
   </programme>
   <programme start="20201204212500 -0600" stop="20201204230000 -0600" channel="Distrito Comedia">
     <title lang="es">La Familia Peluche</title>
-  </programme>
-  <programme start="20201204230000 -0600" stop="20201205001000 -0600" channel="Distrito Comedia">
-    <title lang="es">40 y 20</title>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20201202003000 -0600" stop="20201202012000 -0600" channel="E! Entertainment">
     <title lang="es">Keeping up with Kardashians</title>
@@ -8305,112 +8330,112 @@
   <programme start="20201202234000 -0600" stop="20201203003000 -0600" channel="E! Entertainment">
     <title lang="es">Keeping up with Kardashians</title>
   </programme>
-  <programme start="20201203234000 -0600" stop="20201204003000 -0600" channel="E! Entertainment">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20201204012000 -0600" stop="20201204021000 -0600" channel="E! Entertainment">
+  <programme start="20201203012000 -0600" stop="20201203021000 -0600" channel="E! Entertainment">
     <title lang="es">Celebrity game face</title>
   </programme>
-  <programme start="20201204021000 -0600" stop="20201204023500 -0600" channel="E! Entertainment">
+  <programme start="20201203021000 -0600" stop="20201203023500 -0600" channel="E! Entertainment">
     <title lang="es">The Bradshaw Bunch</title>
   </programme>
-  <programme start="20201204023500 -0600" stop="20201204030000 -0600" channel="E! Entertainment">
+  <programme start="20201203023500 -0600" stop="20201203030000 -0600" channel="E! Entertainment">
     <title lang="es">The Bradshaw Bunch</title>
   </programme>
-  <programme start="20201204030000 -0600" stop="20201204034500 -0600" channel="E! Entertainment">
+  <programme start="20201203030000 -0600" stop="20201203034500 -0600" channel="E! Entertainment">
     <title lang="es">Botched</title>
   </programme>
-  <programme start="20201204034500 -0600" stop="20201204043000 -0600" channel="E! Entertainment">
+  <programme start="20201203034500 -0600" stop="20201203043000 -0600" channel="E! Entertainment">
     <title lang="es">Hollywood medium with Tyler</title>
   </programme>
-  <programme start="20201204043000 -0600" stop="20201204051500 -0600" channel="E! Entertainment">
+  <programme start="20201203043000 -0600" stop="20201203051500 -0600" channel="E! Entertainment">
     <title lang="es">Bajo cubierta mediterráneo</title>
+  </programme>
+  <programme start="20201203051500 -0600" stop="20201203060000 -0600" channel="E! Entertainment">
+    <title lang="es">Bajo cubierta mediterráneo</title>
+  </programme>
+  <programme start="20201203060000 -0600" stop="20201203070000 -0600" channel="E! Entertainment">
+    <title lang="es">Made in chelsea</title>
+  </programme>
+  <programme start="20201203070000 -0600" stop="20201203075500 -0600" channel="E! Entertainment">
+    <title lang="es">Made in chelsea</title>
+  </programme>
+  <programme start="20201203075500 -0600" stop="20201203085000 -0600" channel="E! Entertainment">
+    <title lang="es">Hollywood medium with Tyler</title>
+  </programme>
+  <programme start="20201203085000 -0600" stop="20201203094500 -0600" channel="E! Entertainment">
+    <title lang="es">Hollywood medium with Tyler</title>
+  </programme>
+  <programme start="20201203094500 -0600" stop="20201203104000 -0600" channel="E! Entertainment">
+    <title lang="es">Bajo cubierta mediterráneo</title>
+  </programme>
+  <programme start="20201203104000 -0600" stop="20201203113500 -0600" channel="E! Entertainment">
+    <title lang="es">Bajo cubierta mediterráneo</title>
+  </programme>
+  <programme start="20201203113500 -0600" stop="20201203123000 -0600" channel="E! Entertainment">
+    <title lang="es">Keeping up with Kardashians</title>
+  </programme>
+  <programme start="20201203123000 -0600" stop="20201203132500 -0600" channel="E! Entertainment">
+    <title lang="es">Keeping up with Kardashians</title>
+  </programme>
+  <programme start="20201203132500 -0600" stop="20201203142000 -0600" channel="E! Entertainment">
+    <title lang="es">Botched</title>
+  </programme>
+  <programme start="20201203142000 -0600" stop="20201203151500 -0600" channel="E! Entertainment">
+    <title lang="es">Botched</title>
+  </programme>
+  <programme start="20201203151500 -0600" stop="20201203161000 -0600" channel="E! Entertainment">
+    <title lang="es">Made in chelsea</title>
+  </programme>
+  <programme start="20201203161000 -0600" stop="20201203170000 -0600" channel="E! Entertainment">
+    <title lang="es">Hollywood medium with Tyler</title>
+  </programme>
+  <programme start="20201203170000 -0600" stop="20201203175000 -0600" channel="E! Entertainment">
+    <title lang="es">Bajo cubierta mediterráneo</title>
+  </programme>
+  <programme start="20201203175000 -0600" stop="20201203184000 -0600" channel="E! Entertainment">
+    <title lang="es">Bajo cubierta</title>
+  </programme>
+  <programme start="20201203184000 -0600" stop="20201203193000 -0600" channel="E! Entertainment">
+    <title lang="es">Keeping up with Kardashians</title>
+  </programme>
+  <programme start="20201203193000 -0600" stop="20201203202000 -0600" channel="E! Entertainment">
+    <title lang="es">Keeping up with Kardashians</title>
+  </programme>
+  <programme start="20201203202000 -0600" stop="20201203211000 -0600" channel="E! Entertainment">
+    <title lang="es">Botched</title>
+  </programme>
+  <programme start="20201203211000 -0600" stop="20201203220000 -0600" channel="E! Entertainment">
+    <title lang="es">Botched</title>
+  </programme>
+  <programme start="20201203220000 -0600" stop="20201203225000 -0600" channel="E! Entertainment">
+    <title lang="es">Cuidate de la camara</title>
+  </programme>
+  <programme start="20201203225000 -0600" stop="20201203234000 -0600" channel="E! Entertainment">
+    <title lang="es">Project Runway</title>
+  </programme>
+  <programme start="20201204012000 -0600" stop="20201204021000 -0600" channel="E! Entertainment">
+    <title lang="es">Project Runway</title>
+  </programme>
+  <programme start="20201204021000 -0600" stop="20201204030000 -0600" channel="E! Entertainment">
+    <title lang="es">Project Runway</title>
   </programme>
   <programme start="20201204051500 -0600" stop="20201204060000 -0600" channel="E! Entertainment">
-    <title lang="es">Bajo cubierta mediterráneo</title>
-  </programme>
-  <programme start="20201204060000 -0600" stop="20201204070000 -0600" channel="E! Entertainment">
-    <title lang="es">Made in chelsea</title>
-  </programme>
-  <programme start="20201204070000 -0600" stop="20201204075500 -0600" channel="E! Entertainment">
-    <title lang="es">Made in chelsea</title>
-  </programme>
-  <programme start="20201204075500 -0600" stop="20201204085000 -0600" channel="E! Entertainment">
-    <title lang="es">Hollywood medium with Tyler</title>
-  </programme>
-  <programme start="20201204085000 -0600" stop="20201204094500 -0600" channel="E! Entertainment">
-    <title lang="es">Hollywood medium with Tyler</title>
+    <title lang="es">Bajo cubierta</title>
   </programme>
   <programme start="20201204094500 -0600" stop="20201204104000 -0600" channel="E! Entertainment">
     <title lang="es">Bajo cubierta mediterráneo</title>
   </programme>
   <programme start="20201204104000 -0600" stop="20201204113500 -0600" channel="E! Entertainment">
-    <title lang="es">Bajo cubierta mediterráneo</title>
-  </programme>
-  <programme start="20201204113500 -0600" stop="20201204123000 -0600" channel="E! Entertainment">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20201204123000 -0600" stop="20201204132500 -0600" channel="E! Entertainment">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20201204132500 -0600" stop="20201204142000 -0600" channel="E! Entertainment">
-    <title lang="es">Botched</title>
-  </programme>
-  <programme start="20201204142000 -0600" stop="20201204151500 -0600" channel="E! Entertainment">
-    <title lang="es">Botched</title>
-  </programme>
-  <programme start="20201204151500 -0600" stop="20201204161000 -0600" channel="E! Entertainment">
-    <title lang="es">Made in chelsea</title>
+    <title lang="es">Bajo cubierta</title>
   </programme>
   <programme start="20201204161000 -0600" stop="20201204170000 -0600" channel="E! Entertainment">
-    <title lang="es">Hollywood medium with Tyler</title>
+    <title lang="es">Cuidate de la camara</title>
   </programme>
   <programme start="20201204170000 -0600" stop="20201204175000 -0600" channel="E! Entertainment">
-    <title lang="es">Bajo cubierta mediterráneo</title>
+    <title lang="es">Bajo cubierta</title>
   </programme>
   <programme start="20201204175000 -0600" stop="20201204184000 -0600" channel="E! Entertainment">
     <title lang="es">Bajo cubierta</title>
   </programme>
-  <programme start="20201204184000 -0600" stop="20201204193000 -0600" channel="E! Entertainment">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20201204193000 -0600" stop="20201204202000 -0600" channel="E! Entertainment">
-    <title lang="es">Keeping up with Kardashians</title>
-  </programme>
-  <programme start="20201204202000 -0600" stop="20201204211000 -0600" channel="E! Entertainment">
-    <title lang="es">Botched</title>
-  </programme>
-  <programme start="20201204211000 -0600" stop="20201204220000 -0600" channel="E! Entertainment">
-    <title lang="es">Botched</title>
-  </programme>
-  <programme start="20201204220000 -0600" stop="20201204225000 -0600" channel="E! Entertainment">
-    <title lang="es">Cuidate de la camara</title>
-  </programme>
-  <programme start="20201204225000 -0600" stop="20201204234000 -0600" channel="E! Entertainment">
-    <title lang="es">Project Runway</title>
-  </programme>
-  <programme start="20201205012000 -0600" stop="20201205021000 -0600" channel="E! Entertainment">
-    <title lang="es">Project Runway</title>
-  </programme>
-  <programme start="20201205021000 -0600" stop="20201205030000 -0600" channel="E! Entertainment">
-    <title lang="es">Project Runway</title>
-  </programme>
-  <programme start="20201205051500 -0600" stop="20201205060000 -0600" channel="E! Entertainment">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20201205104000 -0600" stop="20201205113500 -0600" channel="E! Entertainment">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20201205161000 -0600" stop="20201205170000 -0600" channel="E! Entertainment">
-    <title lang="es">Cuidate de la camara</title>
-  </programme>
-  <programme start="20201205170000 -0600" stop="20201205175000 -0600" channel="E! Entertainment">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20201205175000 -0600" stop="20201205184000 -0600" channel="E! Entertainment">
-    <title lang="es">Bajo cubierta</title>
-  </programme>
-  <programme start="20201205220000 -0600" stop="20201206000500 -0600" channel="E! Entertainment">
+  <programme start="20201204220000 -0600" stop="20201205000500 -0600" channel="E! Entertainment">
     <title lang="es">Step Up todas a bailar</title>
   </programme>
   <programme start="20201202000200 -0600" stop="20201202002600 -0600" channel="Discovery Turbo">
@@ -9414,6 +9439,9 @@
   </programme>
   <programme start="20201203090000 -0600" stop="20201203100000 -0600" channel="Zee Mundo">
     <title lang="es">Jodha Akbar Romance real</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203103000 -0600" channel="Zee Mundo">
+    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20201203103000 -0600" stop="20201203130000 -0600" channel="Zee Mundo">
     <title lang="es">Muerte en China Town</title>
@@ -12084,6 +12112,9 @@
   <programme start="20201203093000 -0600" stop="20201203100000 -0600" channel="Mas Chic">
     <title lang="es">Fashion week Madrid 2019</title>
   </programme>
+  <programme start="20201203100000 -0600" stop="20201203103000 -0600" channel="Mas Chic">
+    <title lang="es">Deco Hogar</title>
+  </programme>
   <programme start="20201203103000 -0600" stop="20201203110000 -0600" channel="Mas Chic">
     <title lang="es">Look de fiesta Colombia</title>
   </programme>
@@ -12315,6 +12346,186 @@
   <programme start="20201203171000 -0600" stop="20201203180500 -0600" channel="Star tve">
     <title lang="es">Servir y proteger</title>
   </programme>
+  <programme start="20201202001000 -0600" stop="20201202020500 -0600" channel="tve">
+    <title lang="es">La Noche en 24H</title>
+  </programme>
+  <programme start="20201202020500 -0600" stop="20201202023500 -0600" channel="tve">
+    <title lang="es">Repor</title>
+  </programme>
+  <programme start="20201202023500 -0600" stop="20201202030000 -0600" channel="tve">
+    <title lang="es">Camara abierta</title>
+  </programme>
+  <programme start="20201202030000 -0600" stop="20201202043000 -0600" channel="tve">
+    <title lang="es">La hora de la 1</title>
+  </programme>
+  <programme start="20201202043000 -0600" stop="20201202052000 -0600" channel="tve">
+    <title lang="es">Viaje al centro de la tele</title>
+  </programme>
+  <programme start="20201202052000 -0600" stop="20201202062000 -0600" channel="tve">
+    <title lang="es">La aventura del saber</title>
+  </programme>
+  <programme start="20201202062000 -0600" stop="20201202071000 -0600" channel="tve">
+    <title lang="es">Servir y proteger</title>
+  </programme>
+  <programme start="20201202071000 -0600" stop="20201202080000 -0600" channel="tve">
+    <title lang="es">Acacias, 38</title>
+  </programme>
+  <programme start="20201202080000 -0600" stop="20201202085500 -0600" channel="tve">
+    <title lang="es">Telediario 1ª edición</title>
+  </programme>
+  <programme start="20201202085500 -0600" stop="20201202113500 -0600" channel="tve">
+    <title lang="es">La hora de la 1</title>
+  </programme>
+  <programme start="20201202113500 -0600" stop="20201202131500 -0600" channel="tve">
+    <title lang="es">Las cosas claras</title>
+  </programme>
+  <programme start="20201202131500 -0600" stop="20201202140000 -0600" channel="tve">
+    <title lang="es">Saber y ganar</title>
+  </programme>
+  <programme start="20201202140000 -0600" stop="20201202150500 -0600" channel="tve">
+    <title lang="es">Telediario 2ª edición</title>
+  </programme>
+  <programme start="20201202150500 -0600" stop="20201202155500 -0600" channel="tve">
+    <title lang="es">Servir y proteger</title>
+  </programme>
+  <programme start="20201202155500 -0600" stop="20201202165000 -0600" channel="tve">
+    <title lang="es">Acacias, 38</title>
+  </programme>
+  <programme start="20201202165000 -0600" stop="20201202174000 -0600" channel="tve">
+    <title lang="es">El Cazador</title>
+  </programme>
+  <programme start="20201202174000 -0600" stop="20201202180500 -0600" channel="tve">
+    <title lang="es">Activa2</title>
+  </programme>
+  <programme start="20201202180500 -0600" stop="20201202183000 -0600" channel="tve">
+    <title lang="es">España directo</title>
+  </programme>
+  <programme start="20201202183000 -0600" stop="20201202190000 -0600" channel="tve">
+    <title lang="es">Aqui la tierra</title>
+  </programme>
+  <programme start="20201202190000 -0600" stop="20201202193000 -0600" channel="tve">
+    <title lang="es">TD Internacional 24 horas</title>
+  </programme>
+  <programme start="20201202193000 -0600" stop="20201202201000 -0600" channel="tve">
+    <title lang="es">Tvemos</title>
+  </programme>
+  <programme start="20201202201000 -0600" stop="20201202221500 -0600" channel="tve">
+    <title lang="es">Comando actualidad</title>
+  </programme>
+  <programme start="20201202221500 -0600" stop="20201203012500 -0600" channel="tve">
+    <title lang="es">MasterChef Celebrity</title>
+  </programme>
+  <programme start="20201203221500 -0600" stop="20201204012500 -0600" channel="tve">
+    <title lang="es">MasterChef Celebrity</title>
+  </programme>
+  <programme start="20201204012500 -0600" stop="20201204022500 -0600" channel="tve">
+    <title lang="es">Comando actualidad</title>
+  </programme>
+  <programme start="20201204022500 -0600" stop="20201204030000 -0600" channel="tve">
+    <title lang="es">Activa2</title>
+  </programme>
+  <programme start="20201204030000 -0600" stop="20201204043000 -0600" channel="tve">
+    <title lang="es">La hora de la 1</title>
+  </programme>
+  <programme start="20201204043000 -0600" stop="20201204052000 -0600" channel="tve">
+    <title lang="es">Viaje al centro de la tele</title>
+  </programme>
+  <programme start="20201204052000 -0600" stop="20201204062000 -0600" channel="tve">
+    <title lang="es">La aventura del saber</title>
+  </programme>
+  <programme start="20201204062000 -0600" stop="20201204071000 -0600" channel="tve">
+    <title lang="es">Servir y proteger</title>
+  </programme>
+  <programme start="20201204071000 -0600" stop="20201204080000 -0600" channel="tve">
+    <title lang="es">Acacias, 38</title>
+  </programme>
+  <programme start="20201204080000 -0600" stop="20201204085500 -0600" channel="tve">
+    <title lang="es">Telediario 1ª edición</title>
+  </programme>
+  <programme start="20201204085500 -0600" stop="20201204113500 -0600" channel="tve">
+    <title lang="es">La hora de la 1</title>
+  </programme>
+  <programme start="20201204113500 -0600" stop="20201204131500 -0600" channel="tve">
+    <title lang="es">Las cosas claras</title>
+  </programme>
+  <programme start="20201204131500 -0600" stop="20201204140000 -0600" channel="tve">
+    <title lang="es">Saber y ganar</title>
+  </programme>
+  <programme start="20201204140000 -0600" stop="20201204150500 -0600" channel="tve">
+    <title lang="es">Telediario 2ª edición</title>
+  </programme>
+  <programme start="20201204150500 -0600" stop="20201204155500 -0600" channel="tve">
+    <title lang="es">Servir y proteger</title>
+  </programme>
+  <programme start="20201204155500 -0600" stop="20201204165000 -0600" channel="tve">
+    <title lang="es">Acacias, 38</title>
+  </programme>
+  <programme start="20201204165000 -0600" stop="20201204174000 -0600" channel="tve">
+    <title lang="es">El Cazador</title>
+  </programme>
+  <programme start="20201204174000 -0600" stop="20201204180500 -0600" channel="tve">
+    <title lang="es">Zoom tendencias</title>
+  </programme>
+  <programme start="20201204180500 -0600" stop="20201204183000 -0600" channel="tve">
+    <title lang="es">España directo</title>
+  </programme>
+  <programme start="20201204183000 -0600" stop="20201204190000 -0600" channel="tve">
+    <title lang="es">Aqui la tierra</title>
+  </programme>
+  <programme start="20201204190000 -0600" stop="20201204193000 -0600" channel="tve">
+    <title lang="es">TD Internacional 24 horas</title>
+  </programme>
+  <programme start="20201204193000 -0600" stop="20201204201000 -0600" channel="tve">
+    <title lang="es">Tvemos</title>
+  </programme>
+  <programme start="20201204201000 -0600" stop="20201204212500 -0600" channel="tve">
+    <title lang="es">Promesas de arena</title>
+  </programme>
+  <programme start="20201204212500 -0600" stop="20201204221500 -0600" channel="tve">
+    <title lang="es">Titanes Sin Fronteras</title>
+  </programme>
+  <programme start="20201204221500 -0600" stop="20201204231500 -0600" channel="tve">
+    <title lang="es">Comando actualidad</title>
+  </programme>
+  <programme start="20201204231500 -0600" stop="20201205001500 -0600" channel="tve">
+    <title lang="es">Comando actualidad</title>
+  </programme>
+  <programme start="20201205001500 -0600" stop="20201205021000 -0600" channel="tve">
+    <title lang="es">La Noche en 24H</title>
+  </programme>
+  <programme start="20201205021000 -0600" stop="20201205024000 -0600" channel="tve">
+    <title lang="es">Conversatorios en casa</title>
+  </programme>
+  <programme start="20201205024000 -0600" stop="20201205030000 -0600" channel="tve">
+    <title lang="es">Zoom net</title>
+  </programme>
+  <programme start="20201205052000 -0600" stop="20201205062000 -0600" channel="tve">
+    <title lang="es">Uned</title>
+  </programme>
+  <programme start="20201205085500 -0600" stop="20201205113500 -0600" channel="tve">
+    <title lang="es">La hora de la 1</title>
+  </programme>
+  <programme start="20201205140000 -0600" stop="20201205145500 -0600" channel="tve">
+    <title lang="es">Telediario 2ª edición</title>
+  </programme>
+  <programme start="20201205145500 -0600" stop="20201205151000 -0600" channel="tve">
+    <title lang="es">La suerte en tus manos</title>
+  </programme>
+  <programme start="20201205151000 -0600" stop="20201205160000 -0600" channel="tve">
+    <title lang="es">Servir y proteger</title>
+  </programme>
+  <programme start="20201205160000 -0600" stop="20201205165500 -0600" channel="tve">
+    <title lang="es">Acacias, 38</title>
+  </programme>
+  <programme start="20201205165500 -0600" stop="20201205180500 -0600" channel="tve">
+    <title lang="es">El Cazador</title>
+  </programme>
+  <programme start="20201205190000 -0600" stop="20201205231000 -0600" channel="tve">
+    <title lang="es">TD Internacional 24 horas</title>
+  </programme>
+  <programme start="20201205231000 -0600" stop="20201206002500 -0600" channel="tve">
+    <title lang="es">Promesas de arena</title>
+  </programme>
   <programme start="20201202003000 -0600" stop="20201202010000 -0600" channel="El Gourmet">
     <title lang="es">Sonia en su huerta</title>
   </programme>
@@ -12453,14 +12664,14 @@
   <programme start="20201202233000 -0600" stop="20201203000000 -0600" channel="El Gourmet">
     <title lang="es">Contigo, pan y cebolla</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203003000 -0600" channel="El Gourmet">
-    <title lang="es">Maestros del asado</title>
-  </programme>
   <programme start="20201203013000 -0600" stop="20201203020000 -0600" channel="El Gourmet">
     <title lang="es">Navidad más sana, más rica</title>
   </programme>
   <programme start="20201203063000 -0600" stop="20201203070000 -0600" channel="El Gourmet">
     <title lang="es">Supera esto</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203103000 -0600" channel="El Gourmet">
+    <title lang="es">Dulces detalles con Paulina A</title>
   </programme>
   <programme start="20201203120000 -0600" stop="20201203123000 -0600" channel="El Gourmet">
     <title lang="es">Navidad más sana, más rica</title>
@@ -12941,6 +13152,9 @@
   </programme>
   <programme start="20201203043000 -0600" stop="20201203050000 -0600" channel="Hola TV">
     <title lang="es">#HolaTV</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203110000 -0600" channel="Hola TV">
+    <title lang="es">La Hora Hola</title>
   </programme>
   <programme start="20201203110000 -0600" stop="20201203120000 -0600" channel="Hola TV">
     <title lang="es">Íntimo y personal</title>
@@ -15470,9 +15684,6 @@
   <programme start="20201202231500 -0600" stop="20201203000000 -0600" channel="TruTV">
     <title lang="es">Los vídeos mas tontos</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203004500 -0600" channel="TruTV">
-    <title lang="es">Los vídeos mas tontos</title>
-  </programme>
   <programme start="20201203032500 -0600" stop="20201203035000 -0600" channel="TruTV">
     <title lang="es">Impractical Jokers</title>
     <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.</desc>
@@ -15694,8 +15905,8 @@
   <programme start="20201202230000 -0600" stop="20201203003500 -0600" channel="TLNovelas">
     <title lang="es">La mentira</title>
   </programme>
-  <programme start="20201203230000 -0600" stop="20201204003500 -0600" channel="TLNovelas">
-    <title lang="es">La mentira</title>
+  <programme start="20201203091000 -0600" stop="20201203104500 -0600" channel="TLNovelas">
+    <title lang="es">El Color de la Pasión</title>
   </programme>
   <programme start="20201202003000 -0600" stop="20201202013000 -0600" channel="TVC">
     <title lang="es">Meganoticias TVC con Francisco Ramírez</title>
@@ -15790,9 +16001,6 @@
   <programme start="20201202233000 -0600" stop="20201203000000 -0600" channel="TVC">
     <title lang="es">Televenta</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203003000 -0600" channel="TVC">
-    <title lang="es">Reporte Meganoticias TVC con Alex Piñón</title>
-  </programme>
   <programme start="20201203053000 -0600" stop="20201203060000 -0600" channel="TVC">
     <title lang="es">Para Opinar con Raúl Frías</title>
   </programme>
@@ -15859,6 +16067,9 @@
   <programme start="20201204065800 -0600" stop="20201204075800 -0600" channel="TVC">
     <title lang="es">Meganoticias TVC con Francisco Ramírez</title>
   </programme>
+  <programme start="20201204100000 -0600" stop="20201204103000 -0600" channel="TVC">
+    <title lang="es">Televenta</title>
+  </programme>
   <programme start="20201204175800 -0600" stop="20201204185800 -0600" channel="TVC">
     <title lang="es">Expedientes TVC con Leonardo Ferrera O Antonio Jiménez En Vivo</title>
   </programme>
@@ -15876,6 +16087,159 @@
   </programme>
   <programme start="20201204220700 -0600" stop="20201204230000 -0600" channel="TVC">
     <title lang="es">Expedientes TVC con Leonardo Ferrera O Antonio Jiménez</title>
+  </programme>
+  <programme start="20201202001500 -0600" stop="20201202005500 -0600" channel="Atres Series">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20201202005500 -0600" stop="20201202022500 -0600" channel="Atres Series">
+    <title lang="es">Mis adorables vecinos</title>
+  </programme>
+  <programme start="20201202022500 -0600" stop="20201202040000 -0600" channel="Atres Series">
+    <title lang="es">Allí abajo</title>
+  </programme>
+  <programme start="20201202040000 -0600" stop="20201202063000 -0600" channel="Atres Series">
+    <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20201202063000 -0600" stop="20201202094500 -0600" channel="Atres Series">
+    <title lang="es">Crimen en el paraíso</title>
+  </programme>
+  <programme start="20201202094500 -0600" stop="20201202131000 -0600" channel="Atres Series">
+    <title lang="es">El Mentalista</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20201202131000 -0600" stop="20201202154000 -0600" channel="Atres Series">
+    <title lang="es">Ley y Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.</desc>
+    <credits>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Dann Florek</actor>
+      <actor>Michelle Hurd</actor>
+      <actor>Stephanie March</actor>
+      <actor>Ice-T</actor>
+      <actor>BD Wong</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ley_y_orden_unidad_de_victimas_especiales.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201202154000 -0600" stop="20201202194500 -0600" channel="Atres Series">
+    <title lang="es">Einstein</title>
+  </programme>
+  <programme start="20201202194500 -0600" stop="20201202223500 -0600" channel="Atres Series">
+    <title lang="es">Policías, en el corazón de la calle</title>
+  </programme>
+  <programme start="20201202223500 -0600" stop="20201202230000 -0600" channel="Atres Series">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20201202230000 -0600" stop="20201203001500 -0600" channel="Atres Series">
+    <title lang="es">Con El Culo Al Aire</title>
+  </programme>
+  <programme start="20201203001500 -0600" stop="20201203010000 -0600" channel="Atres Series">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20201203010000 -0600" stop="20201203022000 -0600" channel="Atres Series">
+    <title lang="es">Mis adorables vecinos</title>
+  </programme>
+  <programme start="20201203022000 -0600" stop="20201203040000 -0600" channel="Atres Series">
+    <title lang="es">Allí abajo</title>
+  </programme>
+  <programme start="20201203094500 -0600" stop="20201203131000 -0600" channel="Atres Series">
+    <title lang="es">El Mentalista</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20201203154000 -0600" stop="20201203192500 -0600" channel="Atres Series">
+    <title lang="es">Navy: Investigación Criminal</title>
+    <title lang="xx">NCIS</title>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar.</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>David McCallum</actor>
+      <actor>Sean Murray</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Lauren Holly</actor>
+      <producer>David Bellisario</producer>
+      <producer>Avery C. Drewe</producer>
+      <composer>Numeriklab</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20201203192500 -0600" stop="20201203215000 -0600" channel="Atres Series">
+    <title lang="es">Policías, en el corazón de la calle</title>
+  </programme>
+  <programme start="20201203215000 -0600" stop="20201203215500 -0600" channel="Atres Series">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20201203215500 -0600" stop="20201203230000 -0600" channel="Atres Series">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20201203230000 -0600" stop="20201204030000 -0600" channel="Atres Series">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20201204030000 -0600" stop="20201204070000 -0600" channel="Atres Series">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20201204070000 -0600" stop="20201204110000 -0600" channel="Atres Series">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20201204110000 -0600" stop="20201204150000 -0600" channel="Atres Series">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20201204150000 -0600" stop="20201204190000 -0600" channel="Atres Series">
+    <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20201204190000 -0600" stop="20201204230000 -0600" channel="Atres Series">
+    <title lang="es">Programa a determinar</title>
   </programme>
   <programme start="20201202010000 -0600" stop="20201202020000 -0600" channel="Multimedios Monterrey">
     <title lang="es">El Chiringuito</title>
@@ -15939,6 +16303,9 @@
   </programme>
   <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="Multimedios Monterrey">
     <title lang="es">Adrián Marcelo presenta</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203120000 -0600" channel="Multimedios Monterrey">
+    <title lang="es">Vivalavi</title>
   </programme>
   <programme start="20201203223000 -0600" stop="20201204000000 -0600" channel="Multimedios Monterrey">
     <title lang="es">SNSerio</title>
@@ -16014,6 +16381,9 @@
   </programme>
   <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="Multimedios Plus">
     <title lang="es">Adrián Marcelo presenta</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203120000 -0600" channel="Multimedios Plus">
+    <title lang="es">Vivalavi</title>
   </programme>
   <programme start="20201203223000 -0600" stop="20201204000000 -0600" channel="Multimedios Plus">
     <title lang="es">SNSerio</title>
@@ -16335,7 +16705,7 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="Glitz">
     <title lang="es">¿Quién tiene la razón</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="Glitz">
+  <programme start="20201203100000 -0600" stop="20201203110000 -0600" channel="Glitz">
     <title lang="es">Casos de Familia</title>
   </programme>
   <programme start="20201202002500 -0600" stop="20201202011500 -0600" channel="SyFy">
@@ -17600,112 +17970,67 @@
   <programme start="20201204235700 -0600" stop="20201205002100 -0600" channel="El Garage TV">
     <title lang="es">Buscando autos clásicos</title>
   </programme>
-  <programme start="20201202015500 -0600" stop="20201202020000 -0600" channel="Antena 3">
-    <title lang="es">Previo Espejo Público</title>
+  <programme start="20201202000700 -0600" stop="20201202010000 -0600" channel="Antena 3">
+    <title lang="es">Zapeando</title>
   </programme>
-  <programme start="20201202020000 -0600" stop="20201202062000 -0600" channel="Antena 3">
+  <programme start="20201202010000 -0600" stop="20201202020000 -0600" channel="Antena 3">
+    <title lang="es">Noticias de la mañana</title>
+  </programme>
+  <programme start="20201202020000 -0600" stop="20201202040000 -0600" channel="Antena 3">
     <title lang="es">Espejo público</title>
     <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
     <date>1996</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
-    <episode-num system="onscreen">S15 E3390</episode-num>
   </programme>
-  <programme start="20201202062000 -0600" stop="20201202064500 -0600" channel="Antena 3">
-    <title lang="es">Cocina abierta de Karlos</title>
-    <episode-num system="onscreen">S10 E2041</episode-num>
+  <programme start="20201202040000 -0600" stop="20201202060000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
+    <date>1996</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
   </programme>
-  <programme start="20201202064500 -0600" stop="20201202080000 -0600" channel="Antena 3">
-    <title lang="es">La ruleta de la suerte</title>
-    <desc lang="es">Tres concursantes deben de adivinar las letras que forman una palabra o frase con la ayuda de una ruleta que tiene 24 opciones diferentes.</desc>
-    <credits>
-      <producer>Martingala</producer>
-    </credits>
-    <date>2006</date>
-    <category lang="es">Concursos</category>
-    <category lang="es">Programa</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/la_ruleta_de_la_suerte.jpg" />
-    <episode-num system="onscreen">S2020 E3422</episode-num>
+  <programme start="20201202060000 -0600" stop="20201202062900 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
+    <date>1996</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
   </programme>
-  <programme start="20201202080000 -0600" stop="20201202084500 -0600" channel="Antena 3">
-    <title lang="es">Antena 3 Noticias 1</title>
+  <programme start="20201202062900 -0600" stop="20201202065800 -0600" channel="Antena 3">
+    <title lang="es">Cocina abierta</title>
   </programme>
-  <programme start="20201202084500 -0600" stop="20201202090000 -0600" channel="Antena 3">
-    <title lang="es">Deportes 1</title>
+  <programme start="20201202065800 -0600" stop="20201202080000 -0600" channel="Antena 3">
+    <title lang="es">El chiringuito internacional</title>
   </programme>
-  <programme start="20201202090000 -0600" stop="20201202090200 -0600" channel="Antena 3">
-    <title lang="es">Cocina abierta de Karlos</title>
-    <episode-num system="onscreen">S10 E2041</episode-num>
+  <programme start="20201202080000 -0600" stop="20201202084600 -0600" channel="Antena 3">
+    <title lang="es">Noticias 1</title>
   </programme>
-  <programme start="20201202090200 -0600" stop="20201202093000 -0600" channel="Antena 3">
+  <programme start="20201202084600 -0600" stop="20201202120000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
+    <date>1996</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
+  </programme>
+  <programme start="20201202120000 -0600" stop="20201202122800 -0600" channel="Antena 3">
     <title lang="es">Tu tiempo con Roberto Brasero</title>
   </programme>
-  <programme start="20201202093000 -0600" stop="20201202104500 -0600" channel="Antena 3">
+  <programme start="20201202122800 -0600" stop="20201202125700 -0600" channel="Antena 3">
+    <title lang="es">Cocina abierta</title>
+  </programme>
+  <programme start="20201202125700 -0600" stop="20201202140000 -0600" channel="Antena 3">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201202140000 -0600" stop="20201202144100 -0600" channel="Antena 3">
+    <title lang="es">Noticias 2</title>
+  </programme>
+  <programme start="20201202144100 -0600" stop="20201202153600 -0600" channel="Antena 3">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20201202153600 -0600" stop="20201202160500 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+  </programme>
+  <programme start="20201202160500 -0600" stop="20201202171800 -0600" channel="Antena 3">
     <title lang="es">Amar es para siempre</title>
   </programme>
-  <programme start="20201202104500 -0600" stop="20201202120000 -0600" channel="Antena 3">
-    <title lang="es">¡Ahora caigo</title>
-  </programme>
-  <programme start="20201202120000 -0600" stop="20201202130000 -0600" channel="Antena 3">
-    <title lang="es">¡Boom</title>
-    <episode-num system="onscreen">S2020 E1488</episode-num>
-  </programme>
-  <programme start="20201202130000 -0600" stop="20201202140000 -0600" channel="Antena 3">
-    <title lang="es">Pasapalabra</title>
-    <episode-num system="onscreen">S1 E144</episode-num>
-  </programme>
-  <programme start="20201202140000 -0600" stop="20201202143000 -0600" channel="Antena 3">
-    <title lang="es">Antena 3 Noticias 2</title>
-  </programme>
-  <programme start="20201202143000 -0600" stop="20201202143500 -0600" channel="Antena 3">
-    <title lang="es">Deportes 2</title>
-  </programme>
-  <programme start="20201202143500 -0600" stop="20201202144500 -0600" channel="Antena 3">
-    <title lang="es">La previsión de las 9</title>
-  </programme>
-  <programme start="20201202144500 -0600" stop="20201202154500 -0600" channel="Antena 3">
-    <title lang="es">El hormiguero 3.0</title>
-    <episode-num system="onscreen">S15 E1449</episode-num>
-  </programme>
-  <programme start="20201202154500 -0600" stop="20201202174500 -0600" channel="Antena 3">
-    <title lang="es">Mask Singer adivina</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20201202174500 -0600" stop="20201202184500 -0600" channel="Antena 3">
-    <title lang="es">Mask Singer Detrás</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20201202184500 -0600" stop="20201202191500 -0600" channel="Antena 3">
-    <title lang="es">Masked Singer</title>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20201202191500 -0600" stop="20201202194500 -0600" channel="Antena 3">
-    <title lang="es">Masked Singer</title>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20201202194500 -0600" stop="20201202203000 -0600" channel="Antena 3">
-    <title lang="es">Live Casino</title>
-  </programme>
-  <programme start="20201202203000 -0600" stop="20201202220000 -0600" channel="Antena 3">
-    <title lang="es">Creo que sí quiero</title>
-  </programme>
-  <programme start="20201202220000 -0600" stop="20201202231500 -0600" channel="Antena 3">
-    <title lang="es">Minutos musicales</title>
-  </programme>
-  <programme start="20201202231500 -0600" stop="20201203015500 -0600" channel="Antena 3">
-    <title lang="es">Las noticias de la mañana</title>
-  </programme>
-  <programme start="20201203020000 -0600" stop="20201203062000 -0600" channel="Antena 3">
-    <title lang="es">Espejo público</title>
-    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
-    <date>1996</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
-    <episode-num system="onscreen">S15 E3391</episode-num>
-  </programme>
-  <programme start="20201203062000 -0600" stop="20201203064500 -0600" channel="Antena 3">
-    <title lang="es">Cocina abierta de Karlos</title>
-    <episode-num system="onscreen">S10 E2042</episode-num>
-  </programme>
-  <programme start="20201203064500 -0600" stop="20201203080000 -0600" channel="Antena 3">
+  <programme start="20201202171800 -0600" stop="20201202183000 -0600" channel="Antena 3">
     <title lang="es">La ruleta de la suerte</title>
     <desc lang="es">Tres concursantes deben de adivinar las letras que forman una palabra o frase con la ayuda de una ruleta que tiene 24 opciones diferentes.</desc>
     <credits>
@@ -17715,45 +18040,107 @@
     <category lang="es">Concursos</category>
     <category lang="es">Programa</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/la_ruleta_de_la_suerte.jpg" />
-    <episode-num system="onscreen">S2020 E3423</episode-num>
   </programme>
-  <programme start="20201203090000 -0600" stop="20201203090200 -0600" channel="Antena 3">
-    <title lang="es">Cocina abierta de Karlos</title>
-    <episode-num system="onscreen">S10 E2042</episode-num>
+  <programme start="20201202183000 -0600" stop="20201202193000 -0600" channel="Antena 3">
+    <title lang="es">Pasapalabra</title>
   </programme>
-  <programme start="20201203093000 -0600" stop="20201203104500 -0600" channel="Antena 3">
+  <programme start="20201202193000 -0600" stop="20201202201500 -0600" channel="Antena 3">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20201202201500 -0600" stop="20201202230000 -0600" channel="Antena 3">
+    <title lang="es">Policias en Acción</title>
+  </programme>
+  <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="Antena 3">
+    <title lang="es">El chiringuito internacional</title>
+  </programme>
+  <programme start="20201203000000 -0600" stop="20201203011500 -0600" channel="Antena 3">
+    <title lang="es">Zapeando</title>
+  </programme>
+  <programme start="20201203011500 -0600" stop="20201203014500 -0600" channel="Antena 3">
+    <title lang="es">Noticias de la mañana</title>
+  </programme>
+  <programme start="20201203014500 -0600" stop="20201203034500 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
+    <date>1996</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
+  </programme>
+  <programme start="20201203034500 -0600" stop="20201203054500 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
+    <date>1996</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
+  </programme>
+  <programme start="20201203054500 -0600" stop="20201203060000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
+    <date>1996</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
+  </programme>
+  <programme start="20201203060000 -0600" stop="20201203070000 -0600" channel="Antena 3">
+    <title lang="es">Cocina abierta</title>
+  </programme>
+  <programme start="20201203070000 -0600" stop="20201203080000 -0600" channel="Antena 3">
+    <title lang="es">El chiringuito internacional</title>
+  </programme>
+  <programme start="20201203080000 -0600" stop="20201203084500 -0600" channel="Antena 3">
+    <title lang="es">Noticias 1</title>
+  </programme>
+  <programme start="20201203084500 -0600" stop="20201203114500 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
+    <date>1996</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
+  </programme>
+  <programme start="20201203114500 -0600" stop="20201203121500 -0600" channel="Antena 3">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+  </programme>
+  <programme start="20201203121500 -0600" stop="20201203124500 -0600" channel="Antena 3">
+    <title lang="es">Cocina abierta</title>
+  </programme>
+  <programme start="20201203124500 -0600" stop="20201203140000 -0600" channel="Antena 3">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20201203140000 -0600" stop="20201203144500 -0600" channel="Antena 3">
+    <title lang="es">Noticias 2</title>
+  </programme>
+  <programme start="20201203144500 -0600" stop="20201203153000 -0600" channel="Antena 3">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20201203153000 -0600" stop="20201203163000 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+  </programme>
+  <programme start="20201203163000 -0600" stop="20201203173000 -0600" channel="Antena 3">
     <title lang="es">Amar es para siempre</title>
   </programme>
-  <programme start="20201203120000 -0600" stop="20201203130000 -0600" channel="Antena 3">
-    <title lang="es">¡Boom</title>
-    <episode-num system="onscreen">S2020 E1489</episode-num>
+  <programme start="20201203173000 -0600" stop="20201203183000 -0600" channel="Antena 3">
+    <title lang="es">La ruleta de la suerte</title>
+    <desc lang="es">Tres concursantes deben de adivinar las letras que forman una palabra o frase con la ayuda de una ruleta que tiene 24 opciones diferentes.</desc>
+    <credits>
+      <producer>Martingala</producer>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Concursos</category>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/la_ruleta_de_la_suerte.jpg" />
   </programme>
-  <programme start="20201203130000 -0600" stop="20201203140000 -0600" channel="Antena 3">
+  <programme start="20201203183000 -0600" stop="20201203193000 -0600" channel="Antena 3">
     <title lang="es">Pasapalabra</title>
-    <episode-num system="onscreen">S1 E145</episode-num>
   </programme>
-  <programme start="20201203144500 -0600" stop="20201203154500 -0600" channel="Antena 3">
+  <programme start="20201203193000 -0600" stop="20201203201500 -0600" channel="Antena 3">
     <title lang="es">El hormiguero 3.0</title>
-    <episode-num system="onscreen">S15 E1450</episode-num>
   </programme>
-  <programme start="20201203154500 -0600" stop="20201203171000 -0600" channel="Antena 3">
-    <title lang="es">La valla</title>
-    <episode-num system="onscreen">S1 E13</episode-num>
+  <programme start="20201203201500 -0600" stop="20201203214500 -0600" channel="Antena 3">
+    <title lang="es">Algo que celebrar</title>
   </programme>
-  <programme start="20201203171000 -0600" stop="20201203185000 -0600" channel="Antena 3">
-    <title lang="es">Cuidado con lo que deseas</title>
+  <programme start="20201203214500 -0600" stop="20201203230000 -0600" channel="Antena 3">
+    <title lang="es">Enviado especial</title>
   </programme>
-  <programme start="20201203185000 -0600" stop="20201203200000 -0600" channel="Antena 3">
-    <title lang="es">La elección de una madre</title>
+  <programme start="20201204201500 -0600" stop="20201204230000 -0600" channel="Antena 3">
+    <title lang="es">La voz</title>
   </programme>
-  <programme start="20201203200000 -0600" stop="20201203204500 -0600" channel="Antena 3">
-    <title lang="es">Live Casino</title>
-  </programme>
-  <programme start="20201203204500 -0600" stop="20201203221500 -0600" channel="Antena 3">
-    <title lang="es">Amor a todo riesgo</title>
-  </programme>
-  <programme start="20201203221500 -0600" stop="20201203231500 -0600" channel="Antena 3">
-    <title lang="es">Minutos musicales</title>
+  <programme start="20201204230000 -0600" stop="20201205020000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quién viva</title>
   </programme>
   <programme start="20201202002600 -0600" stop="20201202005500 -0600" channel="Discovery Channel">
     <title lang="es">Ant Anstead, maestro...T.1</title>
@@ -20422,9 +20809,6 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="Ingenio TV">
     <title lang="es">Probabilidad y Estadística II</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203003000 -0600" channel="Ingenio TV">
-    <title lang="es">Exploración y Comprensión</title>
-  </programme>
   <programme start="20201203003000 -0600" stop="20201203010000 -0600" channel="Ingenio TV">
     <title lang="es">Educación y saberes Digitales</title>
   </programme>
@@ -20439,6 +20823,9 @@
   </programme>
   <programme start="20201203052000 -0600" stop="20201203060000 -0600" channel="Ingenio TV">
     <title lang="es">Probabilidad y Estadística II</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203103000 -0600" channel="Ingenio TV">
+    <title lang="es">Responsabilidad Social</title>
   </programme>
   <programme start="20201203103000 -0600" stop="20201203110000 -0600" channel="Ingenio TV">
     <title lang="es">Vida Saludable</title>
@@ -20731,8 +21118,8 @@
   <programme start="20201202233000 -0600" stop="20201203000000 -0600" channel="BabyFirst">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203003000 -0600" channel="BabyFirst">
-    <title lang="es">Programas para el desarrollo del bebé</title>
+  <programme start="20201203100000 -0600" stop="20201203103000 -0600" channel="BabyFirst">
+    <title lang="es">Favoritos de Baby First</title>
   </programme>
   <programme start="20201202003000 -0600" stop="20201202010000 -0600" channel="BabyTV">
     <title lang="es">Dulces Sueños</title>
@@ -20875,8 +21262,8 @@
   <programme start="20201202233000 -0600" stop="20201203000000 -0600" channel="BabyTV">
     <title lang="es">La luna y las estrellas</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203003000 -0600" channel="BabyTV">
-    <title lang="es">Las melodías nocturnas de Baby TV</title>
+  <programme start="20201203100000 -0600" stop="20201203103000 -0600" channel="BabyTV">
+    <title lang="es">A bailar</title>
   </programme>
   <programme start="20201202002500 -0600" stop="20201202005000 -0600" channel="Discovery Kids">
     <title lang="es">Viva el rey Julien, en el exi</title>
@@ -21160,8 +21547,8 @@
   <programme start="20201202233400 -0600" stop="20201203000000 -0600" channel="Discovery Kids">
     <title lang="es">Jorge, el curioso</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203002500 -0600" channel="Discovery Kids">
-    <title lang="es">Miss Moon</title>
+  <programme start="20201203101500 -0600" stop="20201203104200 -0600" channel="Discovery Kids">
+    <title lang="es">Jorge, el curioso</title>
   </programme>
   <programme start="20201203104200 -0600" stop="20201203113500 -0600" channel="Discovery Kids">
     <title lang="es">La navidad de Peppa</title>
@@ -21704,9 +22091,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="Nick">
-    <title lang="es">Noobees</title>
-  </programme>
   <programme start="20201203100000 -0600" stop="20201203103000 -0600" channel="Nick">
     <title lang="es">The Loud House</title>
     <title lang="xx">The Loud House</title>
@@ -22241,8 +22625,27 @@
   <programme start="20201202233000 -0600" stop="20201202235500 -0600" channel="Nick 2">
     <title lang="es">Big Time Rush</title>
   </programme>
-  <programme start="20201202235500 -0600" stop="20201203002000 -0600" channel="Nick 2">
-    <title lang="es">The Bureau of Magical Things</title>
+  <programme start="20201203101000 -0600" stop="20201203103500 -0600" channel="Nick 2">
+    <title lang="es">The Thundermans</title>
+    <title lang="xx">The Thundermans</title>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor.</desc>
+    <credits>
+      <actor>Kira Kosarin</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Diego Velázquez</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Rosa Blasi</actor>
+      <actor>Maya Le Clark</actor>
+      <producer>Dan Cross</producer>
+      <producer>David Hoge</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_thundermans.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20201203195000 -0600" stop="20201203201500 -0600" channel="Nick 2">
     <title lang="es">School of Rock</title>
@@ -22656,8 +23059,23 @@
   <programme start="20201202233000 -0600" stop="20201203000000 -0600" channel="Nick JR">
     <title lang="es">Blaze and the Monster Machine</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203003000 -0600" channel="Nick JR">
-    <title lang="es">Rusty Rivets</title>
+  <programme start="20201203094400 -0600" stop="20201203103100 -0600" channel="Nick JR">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay.</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country lang="es">Canadá</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20201202002500 -0600" stop="20201202010000 -0600" channel="Cartoon Network">
     <title lang="es">Mob Psycho 100</title>
@@ -22874,9 +23292,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203002500 -0600" channel="Cartoon Network">
-    <title lang="es">Dragon ball super</title>
-  </programme>
   <programme start="20201203040000 -0600" stop="20201203041500 -0600" channel="Cartoon Network">
     <title lang="es">La Vaca y el Pollito</title>
     <title lang="xx">Cow and Chicken</title>
@@ -22900,6 +23315,22 @@
   </programme>
   <programme start="20201203073500 -0600" stop="20201203080000 -0600" channel="Cartoon Network">
     <title lang="es">Mao Mao Héroes de puro</title>
+  </programme>
+  <programme start="20201203093000 -0600" stop="20201203103000 -0600" channel="Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20201203110000 -0600" stop="20201203113000 -0600" channel="Cartoon Network">
     <title lang="es">DC Super Hero Girls</title>
@@ -25473,8 +25904,8 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203003000 -0600" channel="Boomerang">
-    <title lang="es">El Show de Peabody y Sherman</title>
+  <programme start="20201203101500 -0600" stop="20201203103000 -0600" channel="Boomerang">
+    <title lang="es">Oddbods</title>
   </programme>
   <programme start="20201203134500 -0600" stop="20201203140000 -0600" channel="Boomerang">
     <title lang="es">Masha historias espeluznantes</title>
@@ -33181,9 +33612,6 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="TUDN">
     <title lang="es">Contacto deportivo</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203020000 -0600" channel="TUDN">
-    <title lang="es">Liga MX</title>
-  </programme>
   <programme start="20201203090000 -0600" stop="20201203110000 -0600" channel="TUDN">
     <title lang="es">Liga MX</title>
   </programme>
@@ -33328,6 +33756,9 @@
   </programme>
   <programme start="20201204030500 -0600" stop="20201204035000 -0600" channel="Adrenalina">
     <title lang="es">Cloroformo</title>
+  </programme>
+  <programme start="20201204100000 -0600" stop="20201204121000 -0600" channel="Adrenalina">
+    <title lang="es">Reto 4 Elementos</title>
   </programme>
   <programme start="20201204130500 -0600" stop="20201204135000 -0600" channel="Adrenalina">
     <title lang="es">Cloroformo</title>
@@ -33540,6 +33971,9 @@
   </programme>
   <programme start="20201203010000 -0600" stop="20201203030000 -0600" channel="FOX Sports">
     <title lang="es">Futbol Mexicano Liga MX</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203110000 -0600" channel="FOX Sports">
+    <title lang="es">La última palabra</title>
   </programme>
   <programme start="20201203110000 -0600" stop="20201203113000 -0600" channel="FOX Sports">
     <title lang="es">Rumbo a Estambul</title>
@@ -34080,9 +34514,6 @@
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="ESPN">
-    <title lang="es">Futbol Picante</title>
-  </programme>
   <programme start="20201203010000 -0600" stop="20201203030000 -0600" channel="ESPN">
     <title lang="es">Juventus vs. Dynamo Kiev</title>
   </programme>
@@ -34431,25 +34862,6 @@
   </programme>
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="ESPN 2">
     <title lang="es">Futbol Picante</title>
-  </programme>
-  <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="ESPN 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
   <programme start="20201203030000 -0600" stop="20201203050000 -0600" channel="ESPN 2">
     <title lang="es">Borussia Dortmund vs. Lazio</title>
@@ -35438,9 +35850,6 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="TVC Deportes">
     <title lang="es">Jugando claro</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="TVC Deportes">
-    <title lang="es">Olympic Channel</title>
-  </programme>
   <programme start="20201203010000 -0600" stop="20201203030000 -0600" channel="TVC Deportes">
     <title lang="es">Nascar Peak México Series</title>
   </programme>
@@ -35572,9 +35981,6 @@
   </programme>
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="Claro Sports">
     <title lang="es">Jugando claro</title>
-  </programme>
-  <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="Claro Sports">
-    <title lang="es">Olympic Channel</title>
   </programme>
   <programme start="20201203010000 -0600" stop="20201203030000 -0600" channel="Claro Sports">
     <title lang="es">Nascar Peak México Series</title>
@@ -35930,9 +36336,6 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="MTV Hits">
     <title lang="es">MTV Hits Playlistism</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="MTV Hits">
-    <title lang="es">MTV Hits Playlistism</title>
-  </programme>
   <programme start="20201203010000 -0600" stop="20201203020000 -0600" channel="MTV Hits">
     <title lang="es">Alterlatinos</title>
   </programme>
@@ -35992,6 +36395,9 @@
   </programme>
   <programme start="20201204070000 -0600" stop="20201204080000 -0600" channel="MTV Hits">
     <title lang="es">Club MTV</title>
+  </programme>
+  <programme start="20201204100000 -0600" stop="20201204110000 -0600" channel="MTV Hits">
+    <title lang="es">Hitlist</title>
   </programme>
   <programme start="20201204130000 -0600" stop="20201204140000 -0600" channel="MTV Hits">
     <title lang="es">Club MTV</title>
@@ -36158,14 +36564,14 @@
   <programme start="20201202210000 -0600" stop="20201203000000 -0600" channel="VH1 (HD)">
     <title lang="es">Hits Don't Lie</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="VH1 (HD)">
-    <title lang="es">Guess the year</title>
-  </programme>
   <programme start="20201203010000 -0600" stop="20201203020000 -0600" channel="VH1 (HD)">
     <title lang="es">Class Of 2008</title>
   </programme>
   <programme start="20201203070000 -0600" stop="20201203080000 -0600" channel="VH1 (HD)">
     <title lang="es">Class Of 2008</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203130000 -0600" channel="VH1 (HD)">
+    <title lang="es">We Love The 00's</title>
   </programme>
   <programme start="20201203140000 -0600" stop="20201203150000 -0600" channel="VH1 (HD)">
     <title lang="es">Class Of 2008</title>
@@ -36224,14 +36630,14 @@
   <programme start="20201202210000 -0600" stop="20201203000000 -0600" channel="VH1">
     <title lang="es">Hits Don't Lie</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="VH1">
-    <title lang="es">Guess the year</title>
-  </programme>
   <programme start="20201203010000 -0600" stop="20201203020000 -0600" channel="VH1">
     <title lang="es">Class Of 2008</title>
   </programme>
   <programme start="20201203070000 -0600" stop="20201203080000 -0600" channel="VH1">
     <title lang="es">Class Of 2008</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203130000 -0600" channel="VH1">
+    <title lang="es">We Love The 00s</title>
   </programme>
   <programme start="20201203140000 -0600" stop="20201203150000 -0600" channel="VH1">
     <title lang="es">Class Of 2008</title>
@@ -36284,28 +36690,25 @@
   <programme start="20201202210000 -0600" stop="20201203010000 -0600" channel="VH1 Classic">
     <title lang="es">Non-Stop 80s Hits</title>
   </programme>
-  <programme start="20201203210000 -0600" stop="20201204010000 -0600" channel="VH1 Classic">
-    <title lang="es">Non-Stop 80s Hits</title>
-  </programme>
-  <programme start="20201204050000 -0600" stop="20201204090000 -0600" channel="VH1 Classic">
+  <programme start="20201203050000 -0600" stop="20201203090000 -0600" channel="VH1 Classic">
     <title lang="es">I Want My MTV 80s</title>
   </programme>
-  <programme start="20201204090000 -0600" stop="20201204110000 -0600" channel="VH1 Classic">
+  <programme start="20201203090000 -0600" stop="20201203110000 -0600" channel="VH1 Classic">
     <title lang="es">Forever 80s</title>
   </programme>
-  <programme start="20201204110000 -0600" stop="20201204130000 -0600" channel="VH1 Classic">
+  <programme start="20201203110000 -0600" stop="20201203130000 -0600" channel="VH1 Classic">
     <title lang="es">80s Legends</title>
   </programme>
-  <programme start="20201205090000 -0600" stop="20201205120000 -0600" channel="VH1 Classic">
+  <programme start="20201204090000 -0600" stop="20201204120000 -0600" channel="VH1 Classic">
     <title lang="es">Super 80s Pop Hits</title>
   </programme>
-  <programme start="20201205120000 -0600" stop="20201205150000 -0600" channel="VH1 Classic">
+  <programme start="20201204120000 -0600" stop="20201204150000 -0600" channel="VH1 Classic">
     <title lang="es">Super 80s Pop Hits</title>
   </programme>
-  <programme start="20201205150000 -0600" stop="20201205180000 -0600" channel="VH1 Classic">
+  <programme start="20201204150000 -0600" stop="20201204180000 -0600" channel="VH1 Classic">
     <title lang="es">... So 80s</title>
   </programme>
-  <programme start="20201205180000 -0600" stop="20201205210000 -0600" channel="VH1 Classic">
+  <programme start="20201204180000 -0600" stop="20201204210000 -0600" channel="VH1 Classic">
     <title lang="es">... So 80s</title>
   </programme>
   <programme start="20201202030000 -0600" stop="20201202040000 -0600" channel="Telehit">
@@ -36353,8 +36756,8 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="Telehit">
     <title lang="es">Rock Me Plus</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203030000 -0600" channel="Telehit">
-    <title lang="es">Playlist Telehit Plus</title>
+  <programme start="20201203100000 -0600" stop="20201203110000 -0600" channel="Telehit">
+    <title lang="es">La calle suena plus</title>
   </programme>
   <programme start="20201202020000 -0600" stop="20201202040000 -0600" channel="Telehit Urbano">
     <title lang="es">La calle suena</title>
@@ -36413,11 +36816,11 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="Telehit Urbano">
     <title lang="es">Noche Loca Telehit</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203020000 -0600" channel="Telehit Urbano">
-    <title lang="es">Noche Loca Telehit</title>
-  </programme>
   <programme start="20201203060000 -0600" stop="20201203070000 -0600" channel="Telehit Urbano">
     <title lang="es">OMG</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203120000 -0600" channel="Telehit Urbano">
+    <title lang="es">Playlist Telehit</title>
   </programme>
   <programme start="20201203120000 -0600" stop="20201203130000 -0600" channel="Telehit Urbano">
     <title lang="es">OMG</title>
@@ -36497,11 +36900,11 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="Bandamax">
     <title lang="es">Bandamáximo Dolor</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203013000 -0600" channel="Bandamax">
-    <title lang="es">Las mas sonadas</title>
-  </programme>
   <programme start="20201203013000 -0600" stop="20201203023000 -0600" channel="Bandamax">
     <title lang="es">Trepale al Ranchero</title>
+  </programme>
+  <programme start="20201203090000 -0600" stop="20201203110000 -0600" channel="Bandamax">
+    <title lang="es">Buenos dias bandamax</title>
   </programme>
   <programme start="20201203130000 -0600" stop="20201203140000 -0600" channel="Bandamax">
     <title lang="es">Secreto a voces</title>
@@ -36659,11 +37062,11 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="La Mega Mundial">
     <title lang="es">Videos</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203003000 -0600" channel="La Mega Mundial">
-    <title lang="es">Infomerciales</title>
-  </programme>
   <programme start="20201203093000 -0600" stop="20201203095000 -0600" channel="La Mega Mundial">
     <title lang="es">Top 5</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203103000 -0600" channel="La Mega Mundial">
+    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20201203150000 -0600" stop="20201203160000 -0600" channel="La Mega Mundial">
     <title lang="es">Tu night con Gabo Ramos</title>
@@ -36727,6 +37130,162 @@
   </programme>
   <programme start="20201204230000 -0600" stop="20201205000000 -0600" channel="La Mega Mundial">
     <title lang="es">Videos</title>
+  </programme>
+  <programme start="20201202010000 -0600" stop="20201202020000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
+  </programme>
+  <programme start="20201202020000 -0600" stop="20201202030000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
+  </programme>
+  <programme start="20201202030000 -0600" stop="20201202040000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
+  </programme>
+  <programme start="20201202040000 -0600" stop="20201202050000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
+  </programme>
+  <programme start="20201202050000 -0600" stop="20201202060000 -0600" channel="Telemusica">
+    <title lang="es">Quieren Rock</title>
+  </programme>
+  <programme start="20201202060000 -0600" stop="20201202070000 -0600" channel="Telemusica">
+    <title lang="es">Popup</title>
+  </programme>
+  <programme start="20201202070000 -0600" stop="20201202080000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
+  </programme>
+  <programme start="20201202080000 -0600" stop="20201202090000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
+  </programme>
+  <programme start="20201202090000 -0600" stop="20201202110000 -0600" channel="Telemusica">
+    <title lang="es">Tu Ranking</title>
+  </programme>
+  <programme start="20201202110000 -0600" stop="20201202120000 -0600" channel="Telemusica">
+    <title lang="es">P y P</title>
+  </programme>
+  <programme start="20201202120000 -0600" stop="20201202130000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
+  </programme>
+  <programme start="20201202130000 -0600" stop="20201202140000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
+  </programme>
+  <programme start="20201202140000 -0600" stop="20201202150000 -0600" channel="Telemusica">
+    <title lang="es">Popup</title>
+  </programme>
+  <programme start="20201202150000 -0600" stop="20201202160000 -0600" channel="Telemusica">
+    <title lang="es">Wild America</title>
+  </programme>
+  <programme start="20201202160000 -0600" stop="20201202170000 -0600" channel="Telemusica">
+    <title lang="es">Rock in TV</title>
+  </programme>
+  <programme start="20201202170000 -0600" stop="20201202180000 -0600" channel="Telemusica">
+    <title lang="es">Quieren Rock</title>
+  </programme>
+  <programme start="20201202180000 -0600" stop="20201202190000 -0600" channel="Telemusica">
+    <title lang="es">Uk much</title>
+  </programme>
+  <programme start="20201202190000 -0600" stop="20201202200000 -0600" channel="Telemusica">
+    <title lang="es">Numeros Uno</title>
+  </programme>
+  <programme start="20201202200000 -0600" stop="20201202210000 -0600" channel="Telemusica">
+    <title lang="es">Much black</title>
+  </programme>
+  <programme start="20201202210000 -0600" stop="20201202220000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
+  </programme>
+  <programme start="20201202220000 -0600" stop="20201202230000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
+  </programme>
+  <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
+  </programme>
+  <programme start="20201203090000 -0600" stop="20201203110000 -0600" channel="Telemusica">
+    <title lang="es">Tu Ranking</title>
+  </programme>
+  <programme start="20201203120000 -0600" stop="20201203130000 -0600" channel="Telemusica">
+    <title lang="es">PelaGatos TV</title>
+  </programme>
+  <programme start="20201203160000 -0600" stop="20201203170000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
+  </programme>
+  <programme start="20201203170000 -0600" stop="20201203180000 -0600" channel="Telemusica">
+    <title lang="es">Historias de escenario</title>
+  </programme>
+  <programme start="20201203210000 -0600" stop="20201203220000 -0600" channel="Telemusica">
+    <title lang="es">Last Night</title>
+  </programme>
+  <programme start="20201204150000 -0600" stop="20201204160000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
+  </programme>
+  <programme start="20201204170000 -0600" stop="20201204180000 -0600" channel="Telemusica">
+    <title lang="es">PelaGatos TV</title>
+  </programme>
+  <programme start="20201204210000 -0600" stop="20201204220000 -0600" channel="Telemusica">
+    <title lang="es">Rock in TV</title>
+  </programme>
+  <programme start="20201202010000 -0600" stop="20201202013000 -0600" channel="Teleritmo">
+    <title lang="es">Espacio publicitario</title>
+  </programme>
+  <programme start="20201202013000 -0600" stop="20201202030000 -0600" channel="Teleritmo">
+    <title lang="es">Máquina del tiempo</title>
+  </programme>
+  <programme start="20201202030000 -0600" stop="20201202033000 -0600" channel="Teleritmo">
+    <title lang="es">Espacio publicitario</title>
+  </programme>
+  <programme start="20201202033000 -0600" stop="20201202050000 -0600" channel="Teleritmo">
+    <title lang="es">Máquina del tiempo</title>
+  </programme>
+  <programme start="20201202050000 -0600" stop="20201202060000 -0600" channel="Teleritmo">
+    <title lang="es">Máquina del tiempo</title>
+  </programme>
+  <programme start="20201202060000 -0600" stop="20201202070000 -0600" channel="Teleritmo">
+    <title lang="es">Rockstalgia</title>
+  </programme>
+  <programme start="20201202070000 -0600" stop="20201202073000 -0600" channel="Teleritmo">
+    <title lang="es">Espacio publicitario</title>
+  </programme>
+  <programme start="20201202073000 -0600" stop="20201202090000 -0600" channel="Teleritmo">
+    <title lang="es">Hits</title>
+  </programme>
+  <programme start="20201202090000 -0600" stop="20201202110000 -0600" channel="Teleritmo">
+    <title lang="es">Top sin límites</title>
+  </programme>
+  <programme start="20201202110000 -0600" stop="20201202120000 -0600" channel="Teleritmo">
+    <title lang="es">Artista del día</title>
+  </programme>
+  <programme start="20201202120000 -0600" stop="20201202123000 -0600" channel="Teleritmo">
+    <title lang="es">Espacio publicitario</title>
+  </programme>
+  <programme start="20201202123000 -0600" stop="20201202140000 -0600" channel="Teleritmo">
+    <title lang="es">Hits</title>
+  </programme>
+  <programme start="20201202140000 -0600" stop="20201202143000 -0600" channel="Teleritmo">
+    <title lang="es">Espacio publicitario</title>
+  </programme>
+  <programme start="20201202143000 -0600" stop="20201202160000 -0600" channel="Teleritmo">
+    <title lang="es">Se habla español</title>
+  </programme>
+  <programme start="20201202160000 -0600" stop="20201202163000 -0600" channel="Teleritmo">
+    <title lang="es">Espacio publicitario</title>
+  </programme>
+  <programme start="20201202163000 -0600" stop="20201202180000 -0600" channel="Teleritmo">
+    <title lang="es">Top sin límites</title>
+  </programme>
+  <programme start="20201202180000 -0600" stop="20201202190000 -0600" channel="Teleritmo">
+    <title lang="es">Lanzamientos</title>
+  </programme>
+  <programme start="20201202190000 -0600" stop="20201202200000 -0600" channel="Teleritmo">
+    <title lang="es">Artista del día</title>
+  </programme>
+  <programme start="20201202200000 -0600" stop="20201202210000 -0600" channel="Teleritmo">
+    <title lang="es">Hits</title>
+  </programme>
+  <programme start="20201202210000 -0600" stop="20201202220000 -0600" channel="Teleritmo">
+    <title lang="es">Rockstalgia</title>
+  </programme>
+  <programme start="20201202220000 -0600" stop="20201202230000 -0600" channel="Teleritmo">
+    <title lang="es">Heavy</title>
+  </programme>
+  <programme start="20201203090000 -0600" stop="20201203110000 -0600" channel="Teleritmo">
+    <title lang="es">Top sin límites</title>
   </programme>
   <programme start="20201202010000 -0600" stop="20201202013000 -0600" channel="Foro TV">
     <title lang="es">Retomando a</title>
@@ -36842,8 +37401,8 @@
   <programme start="20201203230000 -0600" stop="20201204000000 -0600" channel="Foro TV">
     <title lang="es">Punto y Contrapunto</title>
   </programme>
-  <programme start="20201204000000 -0600" stop="20201204010000 -0600" channel="Foro TV">
-    <title lang="es">Paid Programing</title>
+  <programme start="20201204080000 -0600" stop="20201204110000 -0600" channel="Foro TV">
+    <title lang="es">Expreso de la Mañana</title>
   </programme>
   <programme start="20201202003000 -0600" stop="20201202010000 -0600" channel="ADN 40">
     <title lang="es">MDR</title>
@@ -36916,6 +37475,9 @@
   </programme>
   <programme start="20201203040000 -0600" stop="20201203050000 -0600" channel="ADN 40">
     <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203110000 -0600" channel="ADN 40">
+    <title lang="es">Noticias con Vaitiare Mateos</title>
   </programme>
   <programme start="20201203233000 -0600" stop="20201204000000 -0600" channel="ADN 40">
     <title lang="es">Desde las Cámaras</title>
@@ -37007,8 +37569,8 @@
   <programme start="20201202234500 -0600" stop="20201203000000 -0600" channel="Milenio TV">
     <title lang="es">El asalto a la razón</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203004500 -0600" channel="Milenio TV">
-    <title lang="es">Azucena por Milenio</title>
+  <programme start="20201203100000 -0600" stop="20201203104500 -0600" channel="Milenio TV">
+    <title lang="es">Milenio noticias</title>
   </programme>
   <programme start="20201203104500 -0600" stop="20201203110000 -0600" channel="Milenio TV">
     <title lang="es">M2 con Susana Moscatel</title>
@@ -37169,6 +37731,9 @@
   <programme start="20201203090000 -0600" stop="20201203100000 -0600" channel="Justicia TV">
     <title lang="es">Espacio Diverso</title>
   </programme>
+  <programme start="20201203100000 -0600" stop="20201203110000 -0600" channel="Justicia TV">
+    <title lang="es">Derecho a Disentir</title>
+  </programme>
   <programme start="20201203110000 -0600" stop="20201203120000 -0600" channel="Justicia TV">
     <title lang="es">El Foro</title>
   </programme>
@@ -37211,9 +37776,6 @@
   </programme>
   <programme start="20201203220000 -0600" stop="20201203230000 -0600" channel="Justicia TV">
     <title lang="es">Ya Lo Dijo la Corte</title>
-  </programme>
-  <programme start="20201203230000 -0600" stop="20201204003000 -0600" channel="Justicia TV">
-    <title lang="es">El Pleno SCJN</title>
   </programme>
   <programme start="20201204003000 -0600" stop="20201204010000 -0600" channel="Justicia TV">
     <title lang="es">Las Sentencias a Debate</title>
@@ -37293,7 +37855,7 @@
   <programme start="20201202200000 -0600" stop="20201203000000 -0600" channel="Excelsior TV">
     <title lang="es">Excelsior TV</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203040000 -0600" channel="Excelsior TV">
+  <programme start="20201203080000 -0600" stop="20201203120000 -0600" channel="Excelsior TV">
     <title lang="es">Excelsior TV</title>
   </programme>
   <programme start="20201202003000 -0600" stop="20201202005500 -0600" channel="BBC World">
@@ -37455,9 +38017,6 @@
   <programme start="20201202233000 -0600" stop="20201203000000 -0600" channel="BBC World">
     <title lang="es">World Business Report</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203003000 -0600" channel="BBC World">
-    <title lang="es">BBC World News</title>
-  </programme>
   <programme start="20201203005500 -0600" stop="20201203010000 -0600" channel="BBC World">
     <title lang="es">Talking Movies</title>
   </programme>
@@ -37475,6 +38034,9 @@
   </programme>
   <programme start="20201203073000 -0600" stop="20201203080000 -0600" channel="BBC World">
     <title lang="es">Click</title>
+  </programme>
+  <programme start="20201203100000 -0600" stop="20201203103000 -0600" channel="BBC World">
+    <title lang="es">BBC World News</title>
   </programme>
   <programme start="20201203105500 -0600" stop="20201203110000 -0600" channel="BBC World">
     <title lang="es">The Travel Show</title>
@@ -37623,9 +38185,6 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="Fox News USA">
     <title lang="es">Tucker Carlson Tonight</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="Fox News USA">
-    <title lang="es">Hannity</title>
-  </programme>
   <programme start="20201203080000 -0600" stop="20201203090000 -0600" channel="Fox News USA">
     <title lang="es">America's Newsroom</title>
   </programme>
@@ -37670,6 +38229,9 @@
   </programme>
   <programme start="20201203230000 -0600" stop="20201204000000 -0600" channel="Fox News USA">
     <title lang="es">Tucker Carlson Tonight</title>
+  </programme>
+  <programme start="20201204080000 -0600" stop="20201204110000 -0600" channel="Fox News USA">
+    <title lang="es">America's Newsroom</title>
   </programme>
   <programme start="20201202013000 -0600" stop="20201202020000 -0600" channel="NTN24">
     <title lang="es">CST</title>
@@ -37746,8 +38308,8 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="NTN24">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203013000 -0600" channel="NTN24">
-    <title lang="es">La Tarde</title>
+  <programme start="20201203093000 -0600" stop="20201203103000 -0600" channel="NTN24">
+    <title lang="es">La Noche</title>
   </programme>
   <programme start="20201203190000 -0600" stop="20201203193000 -0600" channel="NTN24">
     <title lang="es">Zoom a la Noticia</title>
@@ -37977,6 +38539,9 @@
   <programme start="20201203093000 -0600" stop="20201203100000 -0600" channel="RT en español">
     <title lang="es">Keiser Report</title>
   </programme>
+  <programme start="20201203100000 -0600" stop="20201203103000 -0600" channel="RT en español">
+    <title lang="es">Noticias</title>
+  </programme>
   <programme start="20201203103000 -0600" stop="20201203110000 -0600" channel="RT en español">
     <title lang="es">Policía de Moscú ¿quién si no nosotros</title>
   </programme>
@@ -38082,8 +38647,8 @@
   <programme start="20201202234500 -0600" stop="20201203000000 -0600" channel="CNN USA">
     <title lang="es">World Sport</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203014500 -0600" channel="CNN USA">
-    <title lang="es">CNN Newsroom</title>
+  <programme start="20201203100000 -0600" stop="20201203110000 -0600" channel="CNN USA">
+    <title lang="es">Connect the world</title>
   </programme>
   <programme start="20201203230000 -0600" stop="20201203231500 -0600" channel="CNN USA">
     <title lang="es">CNN News Room</title>
@@ -38160,8 +38725,8 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="CNN Español">
     <title lang="es">Perspectivas desde Mexico</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203020000 -0600" channel="CNN Español">
-    <title lang="es">Directo USA con Juan Lopez</title>
+  <programme start="20201203100000 -0600" stop="20201203103000 -0600" channel="CNN Español">
+    <title lang="es">Aristegui Repetición</title>
   </programme>
   <programme start="20201203103000 -0600" stop="20201203110000 -0600" channel="CNN Español">
     <title lang="es">Clix</title>
@@ -38841,8 +39406,8 @@
   <programme start="20201202230000 -0600" stop="20201203000000 -0600" channel="Teleformula">
     <title lang="es">Ricardo Rocha en Formula</title>
   </programme>
-  <programme start="20201203000000 -0600" stop="20201203010000 -0600" channel="Teleformula">
-    <title lang="es">Todo para la Mujer con Maxine</title>
+  <programme start="20201203100000 -0600" stop="20201203110000 -0600" channel="Teleformula">
+    <title lang="es">Javier Poza en Fórmula</title>
   </programme>
   <programme start="20201203170000 -0600" stop="20201203180000 -0600" channel="Teleformula">
     <title lang="es">La Fórmula es...Orvañanos</title>
@@ -38862,7 +39427,7 @@
   <programme start="20201202170000 -0600" stop="20201202210000 -0600" channel="Wobi">
     <title lang="es">Wobi</title>
   </programme>
-  <programme start="20201202210000 -0600" stop="20201203010000 -0600" channel="Wobi">
+  <programme start="20201203090000 -0600" stop="20201203130000 -0600" channel="Wobi">
     <title lang="es">Wobi</title>
   </programme>
 </tv>
