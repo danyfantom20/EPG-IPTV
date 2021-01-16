@@ -766,8 +766,8 @@
   <programme start="20210119233000 -0600" stop="20210120000000 -0600" channel="Azteca Uno">
     <title lang="es">Los protagonistas</title>
   </programme>
-  <programme start="20210120000000 -0600" stop="20210120001500 -0600" channel="Azteca Uno">
-    <title lang="es">Himno Nacional</title>
+  <programme start="20210120001500 -0600" stop="20210120003000 -0600" channel="Azteca Uno">
+    <title lang="es">Iglesia Universal</title>
   </programme>
   <programme start="20210120003000 -0600" stop="20210120010000 -0600" channel="Azteca Uno">
     <title lang="es">Yetzali</title>
@@ -4046,8 +4046,26 @@
   <programme start="20210119230000 -0600" stop="20210120000500 -0600" channel="Mexiquense TV">
     <title lang="es">Historias del Más Allá</title>
   </programme>
-  <programme start="20210120230000 -0600" stop="20210121000500 -0600" channel="Mexiquense TV">
-    <title lang="es">Historias del Más Allá</title>
+  <programme start="20210120000500 -0600" stop="20210120020000 -0600" channel="Mexiquense TV">
+    <title lang="es">Pelicula del Cine Mexicano</title>
+  </programme>
+  <programme start="20210120020000 -0600" stop="20210120060000 -0600" channel="Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20210120130000 -0600" stop="20210120133000 -0600" channel="Mexiquense TV">
+    <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20210120180000 -0600" stop="20210120190000 -0600" channel="Mexiquense TV">
+    <title lang="es">Escuela para padres</title>
+  </programme>
+  <programme start="20210120190000 -0600" stop="20210120200000 -0600" channel="Mexiquense TV">
+    <title lang="es">Nuestra Chamba</title>
+  </programme>
+  <programme start="20210120200000 -0600" stop="20210120210000 -0600" channel="Mexiquense TV">
+    <title lang="es">Mirada Global</title>
+  </programme>
+  <programme start="20210120220000 -0600" stop="20210120230000 -0600" channel="Mexiquense TV">
+    <title lang="es">Los colores de mi tierra</title>
   </programme>
   <programme start="20210116020000 -0600" stop="20210116023000 -0600" channel="Foro TV">
     <title lang="es">Fractal</title>
@@ -8126,10 +8144,10 @@
   <programme start="20210116233000 -0600" stop="20210117002000 -0600" channel="Telemundo Internacional">
     <title lang="es">Decisiones extremas</title>
   </programme>
-  <programme start="20210117233000 -0600" stop="20210118002000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Decisiones extremas</title>
+  <programme start="20210117002000 -0600" stop="20210117005000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Noticiero Telemundo</title>
   </programme>
-  <programme start="20210118005000 -0600" stop="20210118023000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117005000 -0600" stop="20210117023000 -0600" channel="Telemundo Internacional">
     <title lang="es">Decisiones</title>
     <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc>
     <date>2005</date>
@@ -8140,13 +8158,13 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20210118023000 -0600" stop="20210118032000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117023000 -0600" stop="20210117032000 -0600" channel="Telemundo Internacional">
     <title lang="es">Decisiones extremas</title>
   </programme>
-  <programme start="20210118032000 -0600" stop="20210118050000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117032000 -0600" stop="20210117050000 -0600" channel="Telemundo Internacional">
     <title lang="es">12 corazones</title>
   </programme>
-  <programme start="20210118050000 -0600" stop="20210118063000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117050000 -0600" stop="20210117063000 -0600" channel="Telemundo Internacional">
     <title lang="es">Decisiones</title>
     <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc>
     <date>2005</date>
@@ -8157,46 +8175,46 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20210118063000 -0600" stop="20210118090000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117063000 -0600" stop="20210117090000 -0600" channel="Telemundo Internacional">
     <title lang="es">12 corazones</title>
   </programme>
-  <programme start="20210118090000 -0600" stop="20210118105500 -0600" channel="Telemundo Internacional">
+  <programme start="20210117090000 -0600" stop="20210117105500 -0600" channel="Telemundo Internacional">
     <title lang="es">Bajo el mismo cielo</title>
   </programme>
-  <programme start="20210118105500 -0600" stop="20210118122000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117105500 -0600" stop="20210117122000 -0600" channel="Telemundo Internacional">
     <title lang="es">Bajo el mismo cielo</title>
   </programme>
-  <programme start="20210118122000 -0600" stop="20210118131000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117122000 -0600" stop="20210117131000 -0600" channel="Telemundo Internacional">
     <title lang="es">Decisiones extremas</title>
   </programme>
-  <programme start="20210118131000 -0600" stop="20210118140000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117131000 -0600" stop="20210117140000 -0600" channel="Telemundo Internacional">
     <title lang="es">Lo mejor de caso cerrado</title>
   </programme>
-  <programme start="20210118140000 -0600" stop="20210118160000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117140000 -0600" stop="20210117160000 -0600" channel="Telemundo Internacional">
     <title lang="es">Historias de la vírgen morena</title>
   </programme>
-  <programme start="20210118160000 -0600" stop="20210118165000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117160000 -0600" stop="20210117165000 -0600" channel="Telemundo Internacional">
     <title lang="es">Suelta la Sopa</title>
   </programme>
-  <programme start="20210118165000 -0600" stop="20210118174000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117165000 -0600" stop="20210117174000 -0600" channel="Telemundo Internacional">
     <title lang="es">Cuidate de la camara</title>
   </programme>
-  <programme start="20210118174000 -0600" stop="20210118183000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117174000 -0600" stop="20210117183000 -0600" channel="Telemundo Internacional">
     <title lang="es">Decisiones extremas</title>
   </programme>
-  <programme start="20210118183000 -0600" stop="20210118192000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117183000 -0600" stop="20210117192000 -0600" channel="Telemundo Internacional">
     <title lang="es">Lo mejor de caso cerrado</title>
   </programme>
-  <programme start="20210118192000 -0600" stop="20210118213000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117192000 -0600" stop="20210117213000 -0600" channel="Telemundo Internacional">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20210118213000 -0600" stop="20210118233000 -0600" channel="Telemundo Internacional">
+  <programme start="20210117213000 -0600" stop="20210117233000 -0600" channel="Telemundo Internacional">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20210119032000 -0600" stop="20210119041000 -0600" channel="Telemundo Internacional">
+  <programme start="20210118032000 -0600" stop="20210118041000 -0600" channel="Telemundo Internacional">
     <title lang="es">12 corazones</title>
   </programme>
-  <programme start="20210119041000 -0600" stop="20210119050000 -0600" channel="Telemundo Internacional">
+  <programme start="20210118041000 -0600" stop="20210118050000 -0600" channel="Telemundo Internacional">
     <title lang="es">Decisiones</title>
     <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc>
     <date>2005</date>
@@ -8207,7 +8225,7 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20210119050000 -0600" stop="20210119060000 -0600" channel="Telemundo Internacional">
+  <programme start="20210118050000 -0600" stop="20210118060000 -0600" channel="Telemundo Internacional">
     <title lang="es">Decisiones</title>
     <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc>
     <date>2005</date>
@@ -8218,10 +8236,10 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20210119060000 -0600" stop="20210119074000 -0600" channel="Telemundo Internacional">
+  <programme start="20210118060000 -0600" stop="20210118074000 -0600" channel="Telemundo Internacional">
     <title lang="es">12 corazones</title>
   </programme>
-  <programme start="20210119074000 -0600" stop="20210119083000 -0600" channel="Telemundo Internacional">
+  <programme start="20210118074000 -0600" stop="20210118083000 -0600" channel="Telemundo Internacional">
     <title lang="es">Decisiones</title>
     <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc>
     <date>2005</date>
@@ -8232,7 +8250,7 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20210119083000 -0600" stop="20210119101000 -0600" channel="Telemundo Internacional">
+  <programme start="20210118083000 -0600" stop="20210118101000 -0600" channel="Telemundo Internacional">
     <title lang="es">En Otra Piel</title>
     <desc lang="es">Dos mujeres de diferentes edades y condiciones sociales pierden la vida trágicamente pero sus almas quedan unidas por un misterioso talismán.</desc>
     <credits>
@@ -8247,22 +8265,126 @@
     <category lang="es">Telenovela</category>
     <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/en_otra_piel.jpg" />
   </programme>
-  <programme start="20210119101000 -0600" stop="20210119110000 -0600" channel="Telemundo Internacional">
+  <programme start="20210118101000 -0600" stop="20210118110000 -0600" channel="Telemundo Internacional">
     <title lang="es">Lo mejor de caso cerrado</title>
   </programme>
-  <programme start="20210119110000 -0600" stop="20210119133000 -0600" channel="Telemundo Internacional">
+  <programme start="20210118110000 -0600" stop="20210118133000 -0600" channel="Telemundo Internacional">
     <title lang="es">Historias de la vírgen morena</title>
+  </programme>
+  <programme start="20210118133000 -0600" stop="20210118140000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Noticiero Telemundo</title>
+  </programme>
+  <programme start="20210118140000 -0600" stop="20210118160000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Una Maid en Manhattan</title>
+  </programme>
+  <programme start="20210118160000 -0600" stop="20210118165000 -0600" channel="Telemundo Internacional">
+    <title lang="es">12 corazones</title>
+  </programme>
+  <programme start="20210118165000 -0600" stop="20210118183000 -0600" channel="Telemundo Internacional">
+    <title lang="es">En Otra Piel</title>
+    <desc lang="es">Dos mujeres de diferentes edades y condiciones sociales pierden la vida trágicamente pero sus almas quedan unidas por un misterioso talismán.</desc>
+    <credits>
+      <actor>Laura Flores</actor>
+      <actor>María Elisa Camargo</actor>
+      <actor>Gala Montes</actor>
+      <actor>Kendra Santacruz</actor>
+      <actor>Vanessa Villela</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Novela</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/en_otra_piel.jpg" />
+  </programme>
+  <programme start="20210118192000 -0600" stop="20210118210000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210118210000 -0600" stop="20210118224000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Bajo el mismo cielo</title>
+  </programme>
+  <programme start="20210118224000 -0600" stop="20210118233000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Suelta la Sopa</title>
+  </programme>
+  <programme start="20210118233000 -0600" stop="20210119013000 -0600" channel="Telemundo Internacional">
+    <title lang="es">La Querida del Centauro</title>
+  </programme>
+  <programme start="20210119013000 -0600" stop="20210119020000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Noticiero Telemundo</title>
+  </programme>
+  <programme start="20210119020000 -0600" stop="20210119032000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Bajo el mismo cielo</title>
+  </programme>
+  <programme start="20210119032000 -0600" stop="20210119040000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Bajo el mismo cielo</title>
+  </programme>
+  <programme start="20210119040000 -0600" stop="20210119060000 -0600" channel="Telemundo Internacional">
+    <title lang="es">La Querida del Centauro</title>
+  </programme>
+  <programme start="20210119060000 -0600" stop="20210119065000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Al Rojo Vivo</title>
+  </programme>
+  <programme start="20210119065000 -0600" stop="20210119074000 -0600" channel="Telemundo Internacional">
+    <title lang="es">12 corazones</title>
+  </programme>
+  <programme start="20210119074000 -0600" stop="20210119081000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Decisiones</title>
+    <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc>
+    <date>2005</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Novela</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20210119081000 -0600" stop="20210119085500 -0600" channel="Telemundo Internacional">
+    <title lang="es">En Otra Piel</title>
+    <desc lang="es">Dos mujeres de diferentes edades y condiciones sociales pierden la vida trágicamente pero sus almas quedan unidas por un misterioso talismán.</desc>
+    <credits>
+      <actor>Laura Flores</actor>
+      <actor>María Elisa Camargo</actor>
+      <actor>Gala Montes</actor>
+      <actor>Kendra Santacruz</actor>
+      <actor>Vanessa Villela</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Novela</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/en_otra_piel.jpg" />
+  </programme>
+  <programme start="20210119085500 -0600" stop="20210119095000 -0600" channel="Telemundo Internacional">
+    <title lang="es">En Otra Piel</title>
+    <desc lang="es">Dos mujeres de diferentes edades y condiciones sociales pierden la vida trágicamente pero sus almas quedan unidas por un misterioso talismán.</desc>
+    <credits>
+      <actor>Laura Flores</actor>
+      <actor>María Elisa Camargo</actor>
+      <actor>Gala Montes</actor>
+      <actor>Kendra Santacruz</actor>
+      <actor>Vanessa Villela</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Novela</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/en_otra_piel.jpg" />
+  </programme>
+  <programme start="20210119095000 -0600" stop="20210119104000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Lo mejor de caso cerrado</title>
+  </programme>
+  <programme start="20210119104000 -0600" stop="20210119113000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Suelta la Sopa</title>
+  </programme>
+  <programme start="20210119113000 -0600" stop="20210119133000 -0600" channel="Telemundo Internacional">
+    <title lang="es">La Querida del Centauro</title>
   </programme>
   <programme start="20210119133000 -0600" stop="20210119140000 -0600" channel="Telemundo Internacional">
     <title lang="es">Noticiero Telemundo</title>
   </programme>
-  <programme start="20210119140000 -0600" stop="20210119160000 -0600" channel="Telemundo Internacional">
+  <programme start="20210119140000 -0600" stop="20210119150000 -0600" channel="Telemundo Internacional">
     <title lang="es">Una Maid en Manhattan</title>
   </programme>
-  <programme start="20210119160000 -0600" stop="20210119165000 -0600" channel="Telemundo Internacional">
-    <title lang="es">12 corazones</title>
+  <programme start="20210119150000 -0600" stop="20210119160000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Una Maid en Manhattan</title>
   </programme>
-  <programme start="20210119165000 -0600" stop="20210119183000 -0600" channel="Telemundo Internacional">
+  <programme start="20210119165000 -0600" stop="20210119174000 -0600" channel="Telemundo Internacional">
     <title lang="es">En Otra Piel</title>
     <desc lang="es">Dos mujeres de diferentes edades y condiciones sociales pierden la vida trágicamente pero sus almas quedan unidas por un misterioso talismán.</desc>
     <credits>
@@ -8277,141 +8399,37 @@
     <category lang="es">Telenovela</category>
     <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/en_otra_piel.jpg" />
   </programme>
-  <programme start="20210119192000 -0600" stop="20210119210000 -0600" channel="Telemundo Internacional">
+  <programme start="20210119174000 -0600" stop="20210119183000 -0600" channel="Telemundo Internacional">
+    <title lang="es">En Otra Piel</title>
+    <desc lang="es">Dos mujeres de diferentes edades y condiciones sociales pierden la vida trágicamente pero sus almas quedan unidas por un misterioso talismán.</desc>
+    <credits>
+      <actor>Laura Flores</actor>
+      <actor>María Elisa Camargo</actor>
+      <actor>Gala Montes</actor>
+      <actor>Kendra Santacruz</actor>
+      <actor>Vanessa Villela</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Novela</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/en_otra_piel.jpg" />
+  </programme>
+  <programme start="20210119192000 -0600" stop="20210119201000 -0600" channel="Telemundo Internacional">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20210119210000 -0600" stop="20210119224000 -0600" channel="Telemundo Internacional">
+  <programme start="20210119201000 -0600" stop="20210119210000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210119210000 -0600" stop="20210119215000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Bajo el mismo cielo</title>
+  </programme>
+  <programme start="20210119215000 -0600" stop="20210119224000 -0600" channel="Telemundo Internacional">
     <title lang="es">Bajo el mismo cielo</title>
   </programme>
   <programme start="20210119224000 -0600" stop="20210119233000 -0600" channel="Telemundo Internacional">
     <title lang="es">Suelta la Sopa</title>
   </programme>
   <programme start="20210119233000 -0600" stop="20210120013000 -0600" channel="Telemundo Internacional">
-    <title lang="es">La Querida del Centauro</title>
-  </programme>
-  <programme start="20210120013000 -0600" stop="20210120020000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Noticiero Telemundo</title>
-  </programme>
-  <programme start="20210120020000 -0600" stop="20210120032000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Bajo el mismo cielo</title>
-  </programme>
-  <programme start="20210120032000 -0600" stop="20210120040000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Bajo el mismo cielo</title>
-  </programme>
-  <programme start="20210120040000 -0600" stop="20210120060000 -0600" channel="Telemundo Internacional">
-    <title lang="es">La Querida del Centauro</title>
-  </programme>
-  <programme start="20210120060000 -0600" stop="20210120065000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Al Rojo Vivo</title>
-  </programme>
-  <programme start="20210120065000 -0600" stop="20210120074000 -0600" channel="Telemundo Internacional">
-    <title lang="es">12 corazones</title>
-  </programme>
-  <programme start="20210120074000 -0600" stop="20210120081000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Decisiones</title>
-    <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc>
-    <date>2005</date>
-    <category lang="es">Programa</category>
-    <category lang="es">Novela</category>
-    <category lang="es">Telenovela</category>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png" />
-    <country lang="es">Estados Unidos</country>
-    <country lang="es">Colombia</country>
-  </programme>
-  <programme start="20210120081000 -0600" stop="20210120085500 -0600" channel="Telemundo Internacional">
-    <title lang="es">En Otra Piel</title>
-    <desc lang="es">Dos mujeres de diferentes edades y condiciones sociales pierden la vida trágicamente pero sus almas quedan unidas por un misterioso talismán.</desc>
-    <credits>
-      <actor>Laura Flores</actor>
-      <actor>María Elisa Camargo</actor>
-      <actor>Gala Montes</actor>
-      <actor>Kendra Santacruz</actor>
-      <actor>Vanessa Villela</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Novela</category>
-    <category lang="es">Telenovela</category>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/en_otra_piel.jpg" />
-  </programme>
-  <programme start="20210120085500 -0600" stop="20210120095000 -0600" channel="Telemundo Internacional">
-    <title lang="es">En Otra Piel</title>
-    <desc lang="es">Dos mujeres de diferentes edades y condiciones sociales pierden la vida trágicamente pero sus almas quedan unidas por un misterioso talismán.</desc>
-    <credits>
-      <actor>Laura Flores</actor>
-      <actor>María Elisa Camargo</actor>
-      <actor>Gala Montes</actor>
-      <actor>Kendra Santacruz</actor>
-      <actor>Vanessa Villela</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Novela</category>
-    <category lang="es">Telenovela</category>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/en_otra_piel.jpg" />
-  </programme>
-  <programme start="20210120095000 -0600" stop="20210120104000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Lo mejor de caso cerrado</title>
-  </programme>
-  <programme start="20210120104000 -0600" stop="20210120113000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Suelta la Sopa</title>
-  </programme>
-  <programme start="20210120113000 -0600" stop="20210120133000 -0600" channel="Telemundo Internacional">
-    <title lang="es">La Querida del Centauro</title>
-  </programme>
-  <programme start="20210120133000 -0600" stop="20210120140000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Noticiero Telemundo</title>
-  </programme>
-  <programme start="20210120140000 -0600" stop="20210120150000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Una Maid en Manhattan</title>
-  </programme>
-  <programme start="20210120150000 -0600" stop="20210120160000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Una Maid en Manhattan</title>
-  </programme>
-  <programme start="20210120165000 -0600" stop="20210120174000 -0600" channel="Telemundo Internacional">
-    <title lang="es">En Otra Piel</title>
-    <desc lang="es">Dos mujeres de diferentes edades y condiciones sociales pierden la vida trágicamente pero sus almas quedan unidas por un misterioso talismán.</desc>
-    <credits>
-      <actor>Laura Flores</actor>
-      <actor>María Elisa Camargo</actor>
-      <actor>Gala Montes</actor>
-      <actor>Kendra Santacruz</actor>
-      <actor>Vanessa Villela</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Novela</category>
-    <category lang="es">Telenovela</category>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/en_otra_piel.jpg" />
-  </programme>
-  <programme start="20210120174000 -0600" stop="20210120183000 -0600" channel="Telemundo Internacional">
-    <title lang="es">En Otra Piel</title>
-    <desc lang="es">Dos mujeres de diferentes edades y condiciones sociales pierden la vida trágicamente pero sus almas quedan unidas por un misterioso talismán.</desc>
-    <credits>
-      <actor>Laura Flores</actor>
-      <actor>María Elisa Camargo</actor>
-      <actor>Gala Montes</actor>
-      <actor>Kendra Santacruz</actor>
-      <actor>Vanessa Villela</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Novela</category>
-    <category lang="es">Telenovela</category>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/en_otra_piel.jpg" />
-  </programme>
-  <programme start="20210120192000 -0600" stop="20210120201000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20210120201000 -0600" stop="20210120210000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20210120210000 -0600" stop="20210120215000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Bajo el mismo cielo</title>
-  </programme>
-  <programme start="20210120215000 -0600" stop="20210120224000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Bajo el mismo cielo</title>
-  </programme>
-  <programme start="20210120224000 -0600" stop="20210120233000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Suelta la Sopa</title>
-  </programme>
-  <programme start="20210120233000 -0600" stop="20210121013000 -0600" channel="Telemundo Internacional">
     <title lang="es">La Querida del Centauro</title>
   </programme>
   <programme start="20210116013700 -0600" stop="20210116020300 -0600" channel="Warner">
@@ -28542,10 +28560,10 @@
   <programme start="20210116233000 -0600" stop="20210117000000 -0600" channel="BabyFirst">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
-  <programme start="20210117000000 -0600" stop="20210117003000 -0600" channel="BabyFirst">
+  <programme start="20210117003000 -0600" stop="20210117020000 -0600" channel="BabyFirst">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
-  <programme start="20210117003000 -0600" stop="20210117020000 -0600" channel="BabyFirst">
+  <programme start="20210118003000 -0600" stop="20210118010000 -0600" channel="BabyFirst">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
   <programme start="20210116003000 -0600" stop="20210116010000 -0600" channel="BabyTV">
@@ -28689,8 +28707,8 @@
   <programme start="20210116233000 -0600" stop="20210117000000 -0600" channel="BabyTV">
     <title lang="es">La luna y las estrellas</title>
   </programme>
-  <programme start="20210117000000 -0600" stop="20210117003000 -0600" channel="BabyTV">
-    <title lang="es">Las melodías nocturnas de Baby TV</title>
+  <programme start="20210117003000 -0600" stop="20210117010000 -0600" channel="BabyTV">
+    <title lang="es">Dulces Sueños</title>
   </programme>
   <programme start="20210116002500 -0600" stop="20210116005000 -0600" channel="Discovery Kids">
     <title lang="es">Aventuras con los Kratt</title>
@@ -28926,8 +28944,8 @@
   <programme start="20210116233500 -0600" stop="20210117000000 -0600" channel="Discovery Kids">
     <title lang="es">Jorge, el curioso</title>
   </programme>
-  <programme start="20210117000000 -0600" stop="20210117002500 -0600" channel="Discovery Kids">
-    <title lang="es">Viva el rey Julien, en el exi</title>
+  <programme start="20210117002500 -0600" stop="20210117005000 -0600" channel="Discovery Kids">
+    <title lang="es">Aventuras con los Kratt</title>
   </programme>
   <programme start="20210117060000 -0600" stop="20210117062500 -0600" channel="Discovery Kids">
     <title lang="es">Rev &amp; Roll</title>
@@ -30622,7 +30640,7 @@
   <programme start="20210116233000 -0600" stop="20210116235500 -0600" channel="TeenNick">
     <title lang="es">Big Time Rush</title>
   </programme>
-  <programme start="20210116235500 -0600" stop="20210117002000 -0600" channel="TeenNick">
+  <programme start="20210117002000 -0600" stop="20210117010000 -0600" channel="TeenNick">
     <title lang="es">The Bureau of Magical Things</title>
   </programme>
   <programme start="20210117195000 -0600" stop="20210117201500 -0600" channel="TeenNick">
@@ -31784,8 +31802,8 @@
   <programme start="20210118230000 -0600" stop="20210119000000 -0600" channel="Cartoon Network">
     <title lang="es">CN Off Air</title>
   </programme>
-  <programme start="20210119000000 -0600" stop="20210119002500 -0600" channel="Cartoon Network">
-    <title lang="es">Dragon ball super</title>
+  <programme start="20210119002500 -0600" stop="20210119010000 -0600" channel="Cartoon Network">
+    <title lang="es">Dr. Stone</title>
   </programme>
   <programme start="20210119040000 -0600" stop="20210119041500 -0600" channel="Cartoon Network">
     <title lang="es">El Laboratorio de Dexter</title>
@@ -33673,8 +33691,8 @@
   <programme start="20210119233700 -0600" stop="20210120000700 -0600" channel="Disney JR">
     <title lang="es">Junior Express</title>
   </programme>
-  <programme start="20210120000700 -0600" stop="20210120002700 -0600" channel="Disney JR">
-    <title lang="es">MickeyAventuras sobre ruedas</title>
+  <programme start="20210120002700 -0600" stop="20210120004400 -0600" channel="Disney JR">
+    <title lang="es">Muppet Babies</title>
   </programme>
   <programme start="20210120012900 -0600" stop="20210120022800 -0600" channel="Disney JR">
     <title lang="es">Elena de Avalor</title>
@@ -50321,7 +50339,7 @@
   <programme start="20210116230000 -0600" stop="20210117000000 -0600" channel="La Mega Mundial">
     <title lang="es">Videos</title>
   </programme>
-  <programme start="20210117000000 -0600" stop="20210117003000 -0600" channel="La Mega Mundial">
+  <programme start="20210117003000 -0600" stop="20210117010000 -0600" channel="La Mega Mundial">
     <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210117120000 -0600" stop="20210117123000 -0600" channel="La Mega Mundial">
@@ -51199,9 +51217,6 @@
   </programme>
   <programme start="20210116233000 -0600" stop="20210117000000 -0600" channel="BBC World">
     <title lang="es">Talking Business</title>
-  </programme>
-  <programme start="20210117000000 -0600" stop="20210117003000 -0600" channel="BBC World">
-    <title lang="es">BBC World News</title>
   </programme>
   <programme start="20210117003000 -0600" stop="20210117010000 -0600" channel="BBC World">
     <title lang="es">The Travel Show</title>
@@ -53744,9 +53759,6 @@
   <programme start="20210116230000 -0600" stop="20210117000000 -0600" channel="Wobi">
     <title lang="es">Revolution Wine</title>
   </programme>
-  <programme start="20210117000000 -0600" stop="20210117003000 -0600" channel="Wobi">
-    <title lang="es">World innovation enterprises</title>
-  </programme>
   <programme start="20210117003000 -0600" stop="20210117010000 -0600" channel="Wobi">
     <title lang="es">Everis</title>
   </programme>
@@ -53914,6 +53926,9 @@
   </programme>
   <programme start="20210118213000 -0600" stop="20210118220000 -0600" channel="Wobi">
     <title lang="es">On the record Andrew Winston</title>
+  </programme>
+  <programme start="20210119003000 -0600" stop="20210119010000 -0600" channel="Wobi">
+    <title lang="es">UNIVA</title>
   </programme>
   <programme start="20210119020000 -0600" stop="20210119023000 -0600" channel="Wobi">
     <title lang="es">Ideas on stage WOD Madrid</title>
