@@ -636,8 +636,8 @@
   <programme start="20210119233000 -0600" stop="20210120000000 -0600" channel="Azteca Uno">
     <title lang="es">Los protagonistas</title>
   </programme>
-  <programme start="20210120000000 -0600" stop="20210120001500 -0600" channel="Azteca Uno">
-    <title lang="es">Himno Nacional</title>
+  <programme start="20210120001500 -0600" stop="20210120003000 -0600" channel="Azteca Uno">
+    <title lang="es">Iglesia Universal</title>
   </programme>
   <programme start="20210120003000 -0600" stop="20210120040000 -0600" channel="Azteca Uno">
     <title lang="es">Paid Programing</title>
@@ -2992,103 +2992,103 @@
   <programme start="20210119230000 -0600" stop="20210120000500 -0600" channel="Mexiquense TV">
     <title lang="es">Historias del Más Allá</title>
   </programme>
-  <programme start="20210120230000 -0600" stop="20210121000500 -0600" channel="Mexiquense TV">
-    <title lang="es">Historias del Más Allá</title>
-  </programme>
-  <programme start="20210121130000 -0600" stop="20210121133000 -0600" channel="Mexiquense TV">
-    <title lang="es">La lista de Erick</title>
-  </programme>
-  <programme start="20210121180000 -0600" stop="20210121190000 -0600" channel="Mexiquense TV">
-    <title lang="es">Pasión por el sabor</title>
-  </programme>
-  <programme start="20210121190000 -0600" stop="20210121200000 -0600" channel="Mexiquense TV">
-    <title lang="es">Profesión Héroe</title>
-  </programme>
-  <programme start="20210121200000 -0600" stop="20210121210000 -0600" channel="Mexiquense TV">
-    <title lang="es">Retuit TV</title>
-  </programme>
-  <programme start="20210121220000 -0600" stop="20210121230000 -0600" channel="Mexiquense TV">
-    <title lang="es">La Zona</title>
-  </programme>
-  <programme start="20210122020000 -0600" stop="20210122043000 -0600" channel="Mexiquense TV">
-    <title lang="es">TV Mexiquense</title>
-  </programme>
-  <programme start="20210122043000 -0600" stop="20210122060000 -0600" channel="Mexiquense TV">
-    <title lang="es">TV Mexiquense</title>
-  </programme>
-  <programme start="20210122060000 -0600" stop="20210122061500 -0600" channel="Mexiquense TV">
-    <title lang="es">Himno Nacional</title>
-  </programme>
-  <programme start="20210122061500 -0600" stop="20210122063000 -0600" channel="Mexiquense TV">
-    <title lang="es">Noticias en Fa</title>
-  </programme>
-  <programme start="20210122063000 -0600" stop="20210122073000 -0600" channel="Mexiquense TV">
-    <title lang="es">AMX con José Luis Arévalo</title>
-  </programme>
-  <programme start="20210122073000 -0600" stop="20210122080000 -0600" channel="Mexiquense TV">
-    <title lang="es">Atrévete por ti</title>
-  </programme>
-  <programme start="20210122080000 -0600" stop="20210122100000 -0600" channel="Mexiquense TV">
-    <title lang="es">Emociónate</title>
-  </programme>
-  <programme start="20210122100000 -0600" stop="20210122103000 -0600" channel="Mexiquense TV">
-    <title lang="es">Porque soy mujer</title>
-  </programme>
-  <programme start="20210122103000 -0600" stop="20210122110000 -0600" channel="Mexiquense TV">
-    <title lang="es">Bionatura</title>
-  </programme>
-  <programme start="20210122110000 -0600" stop="20210122130000 -0600" channel="Mexiquense TV">
+  <programme start="20210120000500 -0600" stop="20210120020000 -0600" channel="Mexiquense TV">
     <title lang="es">Pelicula del Cine Mexicano</title>
   </programme>
-  <programme start="20210122130000 -0600" stop="20210122133000 -0600" channel="Mexiquense TV">
+  <programme start="20210120130000 -0600" stop="20210120133000 -0600" channel="Mexiquense TV">
+    <title lang="es">La lista de Erick</title>
+  </programme>
+  <programme start="20210120180000 -0600" stop="20210120190000 -0600" channel="Mexiquense TV">
+    <title lang="es">Pasión por el sabor</title>
+  </programme>
+  <programme start="20210120190000 -0600" stop="20210120200000 -0600" channel="Mexiquense TV">
+    <title lang="es">Profesión Héroe</title>
+  </programme>
+  <programme start="20210120200000 -0600" stop="20210120210000 -0600" channel="Mexiquense TV">
+    <title lang="es">Retuit TV</title>
+  </programme>
+  <programme start="20210120220000 -0600" stop="20210120230000 -0600" channel="Mexiquense TV">
+    <title lang="es">La Zona</title>
+  </programme>
+  <programme start="20210121020000 -0600" stop="20210121043000 -0600" channel="Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20210121043000 -0600" stop="20210121060000 -0600" channel="Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20210121060000 -0600" stop="20210121061500 -0600" channel="Mexiquense TV">
+    <title lang="es">Himno Nacional</title>
+  </programme>
+  <programme start="20210121061500 -0600" stop="20210121063000 -0600" channel="Mexiquense TV">
+    <title lang="es">Noticias en Fa</title>
+  </programme>
+  <programme start="20210121063000 -0600" stop="20210121073000 -0600" channel="Mexiquense TV">
+    <title lang="es">AMX con José Luis Arévalo</title>
+  </programme>
+  <programme start="20210121073000 -0600" stop="20210121080000 -0600" channel="Mexiquense TV">
+    <title lang="es">Atrévete por ti</title>
+  </programme>
+  <programme start="20210121080000 -0600" stop="20210121100000 -0600" channel="Mexiquense TV">
+    <title lang="es">Emociónate</title>
+  </programme>
+  <programme start="20210121100000 -0600" stop="20210121103000 -0600" channel="Mexiquense TV">
+    <title lang="es">Porque soy mujer</title>
+  </programme>
+  <programme start="20210121103000 -0600" stop="20210121110000 -0600" channel="Mexiquense TV">
+    <title lang="es">Bionatura</title>
+  </programme>
+  <programme start="20210121110000 -0600" stop="20210121130000 -0600" channel="Mexiquense TV">
+    <title lang="es">Pelicula del Cine Mexicano</title>
+  </programme>
+  <programme start="20210121130000 -0600" stop="20210121133000 -0600" channel="Mexiquense TV">
     <title lang="es">Enjambre universitario</title>
   </programme>
-  <programme start="20210122133000 -0600" stop="20210122150000 -0600" channel="Mexiquense TV">
+  <programme start="20210121133000 -0600" stop="20210121150000 -0600" channel="Mexiquense TV">
     <title lang="es">Bim Bam Bum</title>
   </programme>
-  <programme start="20210122150000 -0600" stop="20210122160000 -0600" channel="Mexiquense TV">
+  <programme start="20210121150000 -0600" stop="20210121160000 -0600" channel="Mexiquense TV">
     <title lang="es">AMX con Kimberly Armengol</title>
   </programme>
-  <programme start="20210122160000 -0600" stop="20210122170000 -0600" channel="Mexiquense TV">
+  <programme start="20210121160000 -0600" stop="20210121170000 -0600" channel="Mexiquense TV">
     <title lang="es">AMX Cultura</title>
   </programme>
-  <programme start="20210122170000 -0600" stop="20210122180000 -0600" channel="Mexiquense TV">
+  <programme start="20210121170000 -0600" stop="20210121180000 -0600" channel="Mexiquense TV">
     <title lang="es">Noticias en Hora Buena</title>
   </programme>
-  <programme start="20210122180000 -0600" stop="20210122190000 -0600" channel="Mexiquense TV">
+  <programme start="20210121180000 -0600" stop="20210121190000 -0600" channel="Mexiquense TV">
     <title lang="es">Destino Verde</title>
   </programme>
-  <programme start="20210122190000 -0600" stop="20210122200000 -0600" channel="Mexiquense TV">
+  <programme start="20210121190000 -0600" stop="20210121200000 -0600" channel="Mexiquense TV">
     <title lang="es">Salud en Casa</title>
   </programme>
-  <programme start="20210122200000 -0600" stop="20210122210000 -0600" channel="Mexiquense TV">
+  <programme start="20210121200000 -0600" stop="20210121210000 -0600" channel="Mexiquense TV">
     <title lang="es">Cinescape</title>
   </programme>
-  <programme start="20210122210000 -0600" stop="20210122220000 -0600" channel="Mexiquense TV">
+  <programme start="20210121210000 -0600" stop="20210121220000 -0600" channel="Mexiquense TV">
     <title lang="es">AMX con Carlos González</title>
   </programme>
-  <programme start="20210122220000 -0600" stop="20210122230000 -0600" channel="Mexiquense TV">
+  <programme start="20210121220000 -0600" stop="20210121230000 -0600" channel="Mexiquense TV">
     <title lang="es">100% Grupero</title>
   </programme>
-  <programme start="20210123020000 -0600" stop="20210123050000 -0600" channel="Mexiquense TV">
+  <programme start="20210122020000 -0600" stop="20210122050000 -0600" channel="Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20210123050000 -0600" stop="20210123060000 -0600" channel="Mexiquense TV">
+  <programme start="20210122050000 -0600" stop="20210122060000 -0600" channel="Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20210123130000 -0600" stop="20210123133000 -0600" channel="Mexiquense TV">
+  <programme start="20210122130000 -0600" stop="20210122133000 -0600" channel="Mexiquense TV">
     <title lang="es">Con sabor y saber</title>
   </programme>
-  <programme start="20210123180000 -0600" stop="20210123190000 -0600" channel="Mexiquense TV">
+  <programme start="20210122180000 -0600" stop="20210122190000 -0600" channel="Mexiquense TV">
     <title lang="es">Las mil y una notas</title>
   </programme>
-  <programme start="20210123190000 -0600" stop="20210123200000 -0600" channel="Mexiquense TV">
+  <programme start="20210122190000 -0600" stop="20210122200000 -0600" channel="Mexiquense TV">
     <title lang="es">Experiencia EdoMex</title>
   </programme>
-  <programme start="20210123200000 -0600" stop="20210123210000 -0600" channel="Mexiquense TV">
+  <programme start="20210122200000 -0600" stop="20210122210000 -0600" channel="Mexiquense TV">
     <title lang="es">El Show del Fut</title>
   </programme>
-  <programme start="20210123220000 -0600" stop="20210123230000 -0600" channel="Mexiquense TV">
+  <programme start="20210122220000 -0600" stop="20210122230000 -0600" channel="Mexiquense TV">
     <title lang="es">Noches en vela</title>
   </programme>
   <programme start="20210119030000 -0600" stop="20210119060000 -0600" channel="Foro TV">
@@ -9776,10 +9776,6 @@
   <programme start="20210119212500 -0600" stop="20210119230000 -0600" channel="Distrito Comedia">
     <title lang="es">La Familia Peluche</title>
     <episode-num system="onscreen">S2</episode-num>
-  </programme>
-  <programme start="20210119230000 -0600" stop="20210120001000 -0600" channel="Distrito Comedia">
-    <title lang="es">40 y 20</title>
-    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <programme start="20210120001000 -0600" stop="20210120010500 -0600" channel="Distrito Comedia">
     <title lang="es">Simón dice</title>
@@ -18947,10 +18943,7 @@
   <programme start="20210119233000 -0600" stop="20210120001500 -0600" channel="TruTV">
     <title lang="es">Los vídeos mas tontos</title>
   </programme>
-  <programme start="20210120233000 -0600" stop="20210121001500 -0600" channel="TruTV">
-    <title lang="es">Los vídeos mas tontos</title>
-  </programme>
-  <programme start="20210121084000 -0600" stop="20210121092500 -0600" channel="TruTV">
+  <programme start="20210120001500 -0600" stop="20210120004000 -0600" channel="TruTV">
     <title lang="es">Impractical Jokers</title>
     <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.</desc>
     <credits>
@@ -18964,49 +18957,7 @@
     <category lang="es">Reality Show</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
   </programme>
-  <programme start="20210121092500 -0600" stop="20210121095000 -0600" channel="TruTV">
-    <title lang="es">Efecto carbonaro</title>
-  </programme>
-  <programme start="20210121095000 -0600" stop="20210121101000 -0600" channel="TruTV">
-    <title lang="es">Efecto carbonaro</title>
-  </programme>
-  <programme start="20210121101000 -0600" stop="20210121103500 -0600" channel="TruTV">
-    <title lang="es">Arreglame la vida</title>
-  </programme>
-  <programme start="20210121103500 -0600" stop="20210121110000 -0600" channel="TruTV">
-    <title lang="es">Arreglame la vida</title>
-  </programme>
-  <programme start="20210121110000 -0600" stop="20210121112500 -0600" channel="TruTV">
-    <title lang="es">Remolcadores</title>
-  </programme>
-  <programme start="20210121112500 -0600" stop="20210121114500 -0600" channel="TruTV">
-    <title lang="es">Remolcadores</title>
-  </programme>
-  <programme start="20210121114500 -0600" stop="20210121121000 -0600" channel="TruTV">
-    <title lang="es">Tesoros de garaje</title>
-  </programme>
-  <programme start="20210121121000 -0600" stop="20210121123000 -0600" channel="TruTV">
-    <title lang="es">Tesoros de garaje</title>
-  </programme>
-  <programme start="20210121123000 -0600" stop="20210121125500 -0600" channel="TruTV">
-    <title lang="es">Envejeciendo con estilo</title>
-  </programme>
-  <programme start="20210121125500 -0600" stop="20210121131500 -0600" channel="TruTV">
-    <title lang="es">Envejeciendo con estilo</title>
-  </programme>
-  <programme start="20210121131500 -0600" stop="20210121140000 -0600" channel="TruTV">
-    <title lang="es">Los vídeos mas tontos</title>
-  </programme>
-  <programme start="20210121140000 -0600" stop="20210121144500 -0600" channel="TruTV">
-    <title lang="es">Los vídeos mas tontos</title>
-  </programme>
-  <programme start="20210121144500 -0600" stop="20210121153000 -0600" channel="TruTV">
-    <title lang="es">Los vídeos mas tontos</title>
-  </programme>
-  <programme start="20210121153000 -0600" stop="20210121161500 -0600" channel="TruTV">
-    <title lang="es">Los vídeos mas tontos</title>
-  </programme>
-  <programme start="20210121161500 -0600" stop="20210121164000 -0600" channel="TruTV">
+  <programme start="20210120084000 -0600" stop="20210120092500 -0600" channel="TruTV">
     <title lang="es">Impractical Jokers</title>
     <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.</desc>
     <credits>
@@ -19020,7 +18971,63 @@
     <category lang="es">Reality Show</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
   </programme>
-  <programme start="20210121164000 -0600" stop="20210121172500 -0600" channel="TruTV">
+  <programme start="20210120092500 -0600" stop="20210120095000 -0600" channel="TruTV">
+    <title lang="es">Efecto carbonaro</title>
+  </programme>
+  <programme start="20210120095000 -0600" stop="20210120101000 -0600" channel="TruTV">
+    <title lang="es">Efecto carbonaro</title>
+  </programme>
+  <programme start="20210120101000 -0600" stop="20210120103500 -0600" channel="TruTV">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20210120103500 -0600" stop="20210120110000 -0600" channel="TruTV">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20210120110000 -0600" stop="20210120112500 -0600" channel="TruTV">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20210120112500 -0600" stop="20210120114500 -0600" channel="TruTV">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20210120114500 -0600" stop="20210120121000 -0600" channel="TruTV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20210120121000 -0600" stop="20210120123000 -0600" channel="TruTV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20210120123000 -0600" stop="20210120125500 -0600" channel="TruTV">
+    <title lang="es">Envejeciendo con estilo</title>
+  </programme>
+  <programme start="20210120125500 -0600" stop="20210120131500 -0600" channel="TruTV">
+    <title lang="es">Envejeciendo con estilo</title>
+  </programme>
+  <programme start="20210120131500 -0600" stop="20210120140000 -0600" channel="TruTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20210120140000 -0600" stop="20210120144500 -0600" channel="TruTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20210120144500 -0600" stop="20210120153000 -0600" channel="TruTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20210120153000 -0600" stop="20210120161500 -0600" channel="TruTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20210120161500 -0600" stop="20210120164000 -0600" channel="TruTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20210120164000 -0600" stop="20210120172500 -0600" channel="TruTV">
     <title lang="es">Impractical Jokers</title>
     <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.</desc>
     <credits>
@@ -26621,8 +26628,8 @@
   <programme start="20210119233600 -0600" stop="20210120000000 -0600" channel="Discovery Kids">
     <title lang="es">Jorge, el curioso</title>
   </programme>
-  <programme start="20210120000000 -0600" stop="20210120002500 -0600" channel="Discovery Kids">
-    <title lang="es">Miss Moon</title>
+  <programme start="20210120002500 -0600" stop="20210120005000 -0600" channel="Discovery Kids">
+    <title lang="es">Viva el rey Julien, en el exi</title>
   </programme>
   <programme start="20210120103400 -0600" stop="20210120110100 -0600" channel="Discovery Kids">
     <title lang="es">Esme y Roy</title>
@@ -27617,7 +27624,7 @@
   <programme start="20210119233000 -0600" stop="20210119235500 -0600" channel="TeenNick">
     <title lang="es">Big Time Rush</title>
   </programme>
-  <programme start="20210119235500 -0600" stop="20210120002000 -0600" channel="TeenNick">
+  <programme start="20210120002000 -0600" stop="20210120010000 -0600" channel="TeenNick">
     <title lang="es">The Bureau of Magical Things</title>
   </programme>
   <programme start="20210120195000 -0600" stop="20210120201000 -0600" channel="TeenNick">
@@ -28278,8 +28285,8 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20210120000000 -0600" stop="20210120002500 -0600" channel="Cartoon Network">
-    <title lang="es">Dragon ball super</title>
+  <programme start="20210120002500 -0600" stop="20210120010000 -0600" channel="Cartoon Network">
+    <title lang="es">Dr. Stone</title>
   </programme>
   <programme start="20210120040000 -0600" stop="20210120041500 -0600" channel="Cartoon Network">
     <title lang="es">Johnny Bravo</title>
@@ -33192,8 +33199,8 @@
   <programme start="20210119232000 -0600" stop="20210120000000 -0600" channel="NatGeo Kids">
     <title lang="es">Yoko</title>
   </programme>
-  <programme start="20210120000000 -0600" stop="20210120001500 -0600" channel="NatGeo Kids">
-    <title lang="es">Beat Bugs</title>
+  <programme start="20210120001500 -0600" stop="20210120004000 -0600" channel="NatGeo Kids">
+    <title lang="es">Opa Popa Dupa</title>
   </programme>
   <programme start="20210120181500 -0600" stop="20210120200000 -0600" channel="NatGeo Kids">
     <title lang="es">Dino Dana</title>
@@ -44626,7 +44633,7 @@
   <programme start="20210119233000 -0600" stop="20210120000000 -0600" channel="La Mega Mundial">
     <title lang="es">Videos</title>
   </programme>
-  <programme start="20210120000000 -0600" stop="20210120003000 -0600" channel="La Mega Mundial">
+  <programme start="20210120003000 -0600" stop="20210120010000 -0600" channel="La Mega Mundial">
     <title lang="es">Paid Programming</title>
   </programme>
   <programme start="20210120150000 -0600" stop="20210120154500 -0600" channel="La Mega Mundial">
@@ -45252,76 +45259,73 @@
   <programme start="20210121230000 -0600" stop="20210122003000 -0600" channel="Justicia TV">
     <title lang="es">El Pleno</title>
   </programme>
-  <programme start="20210122230000 -0600" stop="20210123003000 -0600" channel="Justicia TV">
-    <title lang="es">El Pleno</title>
-  </programme>
-  <programme start="20210123003000 -0600" stop="20210123010000 -0600" channel="Justicia TV">
+  <programme start="20210122003000 -0600" stop="20210122010000 -0600" channel="Justicia TV">
     <title lang="es">Las Sentencias a Debate</title>
   </programme>
-  <programme start="20210123030000 -0600" stop="20210123040000 -0600" channel="Justicia TV">
+  <programme start="20210122030000 -0600" stop="20210122040000 -0600" channel="Justicia TV">
     <title lang="es">Ya Lo Dijo la Corte</title>
   </programme>
-  <programme start="20210123040000 -0600" stop="20210123050000 -0600" channel="Justicia TV">
+  <programme start="20210122040000 -0600" stop="20210122050000 -0600" channel="Justicia TV">
     <title lang="es">Espacio Diverso</title>
   </programme>
-  <programme start="20210123050000 -0600" stop="20210123060000 -0600" channel="Justicia TV">
+  <programme start="20210122050000 -0600" stop="20210122060000 -0600" channel="Justicia TV">
     <title lang="es">Máster Class</title>
   </programme>
-  <programme start="20210123063000 -0600" stop="20210123073000 -0600" channel="Justicia TV">
+  <programme start="20210122063000 -0600" stop="20210122073000 -0600" channel="Justicia TV">
     <title lang="es">Sesiones</title>
   </programme>
-  <programme start="20210123073000 -0600" stop="20210123080000 -0600" channel="Justicia TV">
+  <programme start="20210122073000 -0600" stop="20210122080000 -0600" channel="Justicia TV">
     <title lang="es">En forma</title>
   </programme>
-  <programme start="20210123090000 -0600" stop="20210123100000 -0600" channel="Justicia TV">
+  <programme start="20210122090000 -0600" stop="20210122100000 -0600" channel="Justicia TV">
     <title lang="es">Tus Derechos</title>
   </programme>
-  <programme start="20210123110000 -0600" stop="20210123120000 -0600" channel="Justicia TV">
+  <programme start="20210122110000 -0600" stop="20210122120000 -0600" channel="Justicia TV">
     <title lang="es">Máster Class</title>
   </programme>
-  <programme start="20210123120000 -0600" stop="20210123130000 -0600" channel="Justicia TV">
+  <programme start="20210122120000 -0600" stop="20210122130000 -0600" channel="Justicia TV">
     <title lang="es">El Foro</title>
   </programme>
-  <programme start="20210123130000 -0600" stop="20210123133000 -0600" channel="Justicia TV">
+  <programme start="20210122130000 -0600" stop="20210122133000 -0600" channel="Justicia TV">
     <title lang="es">Saber + Historia</title>
   </programme>
-  <programme start="20210123133000 -0600" stop="20210123140000 -0600" channel="Justicia TV">
+  <programme start="20210122133000 -0600" stop="20210122140000 -0600" channel="Justicia TV">
     <title lang="es">Global 3000</title>
   </programme>
-  <programme start="20210123140000 -0600" stop="20210123150000 -0600" channel="Justicia TV">
+  <programme start="20210122140000 -0600" stop="20210122150000 -0600" channel="Justicia TV">
     <title lang="es">Conversaciones con Octavio Paz</title>
   </programme>
-  <programme start="20210123150000 -0600" stop="20210123151500 -0600" channel="Justicia TV">
+  <programme start="20210122150000 -0600" stop="20210122151500 -0600" channel="Justicia TV">
     <title lang="es">Reporteros en el mundo</title>
   </programme>
-  <programme start="20210123151500 -0600" stop="20210123153000 -0600" channel="Justicia TV">
+  <programme start="20210122151500 -0600" stop="20210122153000 -0600" channel="Justicia TV">
     <title lang="es">El reportero</title>
   </programme>
-  <programme start="20210123153000 -0600" stop="20210123160000 -0600" channel="Justicia TV">
+  <programme start="20210122153000 -0600" stop="20210122160000 -0600" channel="Justicia TV">
     <title lang="es">El Greco</title>
   </programme>
-  <programme start="20210123160000 -0600" stop="20210123170000 -0600" channel="Justicia TV">
+  <programme start="20210122160000 -0600" stop="20210122170000 -0600" channel="Justicia TV">
     <title lang="es">Humanos del futuro</title>
   </programme>
-  <programme start="20210123170000 -0600" stop="20210123173000 -0600" channel="Justicia TV">
+  <programme start="20210122170000 -0600" stop="20210122173000 -0600" channel="Justicia TV">
     <title lang="es">Economics</title>
   </programme>
-  <programme start="20210123173000 -0600" stop="20210123180000 -0600" channel="Justicia TV">
+  <programme start="20210122173000 -0600" stop="20210122180000 -0600" channel="Justicia TV">
     <title lang="es">Futuro a la vista</title>
   </programme>
-  <programme start="20210123180000 -0600" stop="20210123193000 -0600" channel="Justicia TV">
+  <programme start="20210122180000 -0600" stop="20210122193000 -0600" channel="Justicia TV">
     <title lang="es">Sesión del TEPJF</title>
   </programme>
-  <programme start="20210123193000 -0600" stop="20210123200000 -0600" channel="Justicia TV">
+  <programme start="20210122193000 -0600" stop="20210122200000 -0600" channel="Justicia TV">
     <title lang="es">Reporte especial coronavirus</title>
   </programme>
-  <programme start="20210123200000 -0600" stop="20210123210000 -0600" channel="Justicia TV">
+  <programme start="20210122200000 -0600" stop="20210122210000 -0600" channel="Justicia TV">
     <title lang="es">A fondo</title>
   </programme>
-  <programme start="20210123210000 -0600" stop="20210123230000 -0600" channel="Justicia TV">
+  <programme start="20210122210000 -0600" stop="20210122230000 -0600" channel="Justicia TV">
     <title lang="es">Un chance sobre seis</title>
   </programme>
-  <programme start="20210123230000 -0600" stop="20210124003000 -0600" channel="Justicia TV">
+  <programme start="20210122230000 -0600" stop="20210123003000 -0600" channel="Justicia TV">
     <title lang="es">Sesión del TEPJF</title>
   </programme>
   <programme start="20210119040000 -0600" stop="20210119080000 -0600" channel="Excelsior TV">
@@ -45504,8 +45508,8 @@
   <programme start="20210119233000 -0600" stop="20210120000000 -0600" channel="BBC World">
     <title lang="es">World Business Report</title>
   </programme>
-  <programme start="20210120000000 -0600" stop="20210120003000 -0600" channel="BBC World">
-    <title lang="es">BBC World News</title>
+  <programme start="20210120003000 -0600" stop="20210120005500 -0600" channel="BBC World">
+    <title lang="es">World Business Report</title>
   </programme>
   <programme start="20210120005500 -0600" stop="20210120010000 -0600" channel="BBC World">
     <title lang="es">Click</title>
@@ -46890,6 +46894,9 @@
   <programme start="20210122000300 -0600" stop="20210122003000 -0600" channel="DW Español">
     <title lang="es">Enlaces: Ventana Abierta Al Mundo Digital</title>
   </programme>
+  <programme start="20210122003000 -0600" stop="20210122010000 -0600" channel="DW Español">
+    <title lang="es">Todo gol</title>
+  </programme>
   <programme start="20210122011500 -0600" stop="20210122020000 -0600" channel="DW Español">
     <title lang="es">A fondo</title>
   </programme>
@@ -47394,9 +47401,6 @@
   <programme start="20210120230000 -0600" stop="20210121000000 -0600" channel="Wobi">
     <title lang="es">Revolution Coffee</title>
   </programme>
-  <programme start="20210121000000 -0600" stop="20210121003000 -0600" channel="Wobi">
-    <title lang="es">World innovation enterprises</title>
-  </programme>
   <programme start="20210121003000 -0600" stop="20210121010000 -0600" channel="Wobi">
     <title lang="es">Grupo Conversa (Bolivia)</title>
   </programme>
@@ -47687,9 +47691,6 @@
   </programme>
   <programme start="20210119233000 -0600" stop="20210120000000 -0600" channel="EWTN">
     <title lang="es">Santo Rosario</title>
-  </programme>
-  <programme start="20210120000000 -0600" stop="20210120003000 -0600" channel="EWTN">
-    <title lang="es">EWTN Noticias</title>
   </programme>
   <programme start="20210120003000 -0600" stop="20210120010000 -0600" channel="EWTN">
     <title lang="es">Periferias</title>
