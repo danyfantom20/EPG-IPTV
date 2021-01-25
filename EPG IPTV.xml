@@ -2003,8 +2003,8 @@
   <programme start="20210125230000 -0600" stop="20210126000000 -0600" channel="Televisa Monterrey">
     <title lang="es">El Nuevo Show de Johnny y Nora Canales</title>
   </programme>
-  <programme start="20210126013000 -0600" stop="20210126020000 -0600" channel="Televisa Monterrey">
-    <title lang="es">Inova</title>
+  <programme start="20210126020000 -0600" stop="20210126023000 -0600" channel="Televisa Monterrey">
+    <title lang="es">Programa Pagado</title>
   </programme>
   <programme start="20210126030000 -0600" stop="20210126043000 -0600" channel="Televisa Monterrey">
     <title lang="es">Monterrey al Día</title>
@@ -15442,8 +15442,8 @@
   <programme start="20210125233000 -0600" stop="20210126000000 -0600" channel="El Gourmet">
     <title lang="es">Menú para todos los días</title>
   </programme>
-  <programme start="20210126013000 -0600" stop="20210126020000 -0600" channel="El Gourmet">
-    <title lang="es">Puebla de los Angeles</title>
+  <programme start="20210126020000 -0600" stop="20210126023000 -0600" channel="El Gourmet">
+    <title lang="es">Platos de cuchara</title>
   </programme>
   <programme start="20210126023000 -0600" stop="20210126030000 -0600" channel="El Gourmet">
     <title lang="es">Contigo, pan y cebolla</title>
@@ -24099,9 +24099,6 @@
   <programme start="20210126003600 -0600" stop="20210126012400 -0600" channel="Discovery Theater">
     <title lang="es">El ferrocarril de Alaska</title>
   </programme>
-  <programme start="20210126012400 -0600" stop="20210126021200 -0600" channel="Discovery Theater">
-    <title lang="es">Megamáquinas de alaska</title>
-  </programme>
   <programme start="20210126021200 -0600" stop="20210126030000 -0600" channel="Discovery Theater">
     <title lang="es">La maldición del oro</title>
   </programme>
@@ -27513,9 +27510,6 @@
   <programme start="20210126010000 -0600" stop="20210126013000 -0600" channel="Ingenio TV">
     <title lang="es">Vida Saludable</title>
   </programme>
-  <programme start="20210126013000 -0600" stop="20210126020000 -0600" channel="Ingenio TV">
-    <title lang="es">Responsabilidad Social</title>
-  </programme>
   <programme start="20210126020000 -0600" stop="20210126023000 -0600" channel="Ingenio TV">
     <title lang="es">Comunicación</title>
   </programme>
@@ -28382,8 +28376,8 @@
   <programme start="20210125233600 -0600" stop="20210126000000 -0600" channel="Discovery Kids">
     <title lang="es">Jorge, el curioso</title>
   </programme>
-  <programme start="20210126014000 -0600" stop="20210126020400 -0600" channel="Discovery Kids">
-    <title lang="es">Aventuras con los Kratt</title>
+  <programme start="20210126020400 -0600" stop="20210126022800 -0600" channel="Discovery Kids">
+    <title lang="es">Las aventuras del Gato</title>
   </programme>
   <programme start="20210126103600 -0600" stop="20210126110300 -0600" channel="Discovery Kids">
     <title lang="es">Supermonstruos</title>
@@ -29420,7 +29414,7 @@
   <programme start="20210125233000 -0600" stop="20210125235500 -0600" channel="TeenNick">
     <title lang="es">Big Time Rush</title>
   </programme>
-  <programme start="20210126014000 -0600" stop="20210126020500 -0600" channel="TeenNick">
+  <programme start="20210126020500 -0600" stop="20210126022500 -0600" channel="TeenNick">
     <title lang="es">School of Rock</title>
   </programme>
   <programme start="20210126195000 -0600" stop="20210126201000 -0600" channel="TeenNick">
