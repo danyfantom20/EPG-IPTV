@@ -877,28 +877,25 @@
   <programme start="20210130220000 -0600" stop="20210131010000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Corazón grupero</title>
   </programme>
-  <programme start="20210131220000 -0600" stop="20210201010000 -0600" channel="Azteca Uno -2Hrs">
-    <title lang="es">Corazón grupero</title>
-  </programme>
-  <programme start="20210201010000 -0600" stop="20210201020000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131010000 -0600" stop="20210131020000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">La resolana</title>
   </programme>
-  <programme start="20210201020000 -0600" stop="20210201030000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131020000 -0600" stop="20210131030000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">La resolana</title>
   </programme>
-  <programme start="20210201030000 -0600" stop="20210201070000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131030000 -0600" stop="20210131070000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210201070000 -0600" stop="20210201073000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131070000 -0600" stop="20210131073000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Que Cotorreo</title>
   </programme>
-  <programme start="20210201073000 -0600" stop="20210201081500 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131073000 -0600" stop="20210131081500 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20210201081500 -0600" stop="20210201100000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131081500 -0600" stop="20210131100000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Azteca Uno</title>
   </programme>
-  <programme start="20210201100000 -0600" stop="20210201110000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131100000 -0600" stop="20210131110000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Lo que callamos las mujeres</title>
     <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
     <credits>
@@ -909,81 +906,93 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
-  <programme start="20210201110000 -0600" stop="20210201120000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131110000 -0600" stop="20210131120000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Hechos Domingo</title>
   </programme>
-  <programme start="20210201120000 -0600" stop="20210201140000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131120000 -0600" stop="20210131140000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20210201140000 -0600" stop="20210201150000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131140000 -0600" stop="20210131150000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Deezer Live</title>
   </programme>
-  <programme start="20210201150000 -0600" stop="20210201160000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131150000 -0600" stop="20210131160000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Escape Perfecto</title>
   </programme>
-  <programme start="20210201160000 -0600" stop="20210201170000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131160000 -0600" stop="20210131170000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">En sus Batallas</title>
   </programme>
-  <programme start="20210201170000 -0600" stop="20210201200000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131170000 -0600" stop="20210131200000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">MasterChef</title>
   </programme>
-  <programme start="20210201200000 -0600" stop="20210201220000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210131200000 -0600" stop="20210131220000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Domingo Al Extremo</title>
+  </programme>
+  <programme start="20210131220000 -0600" stop="20210201011500 -0600" channel="Azteca Uno -2Hrs">
+    <title lang="es">Exatlón Titanes vs. Héroes</title>
   </programme>
   <programme start="20210201220000 -0600" stop="20210202011500 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Exatlón Titanes vs. Héroes</title>
   </programme>
-  <programme start="20210202220000 -0600" stop="20210203011500 -0600" channel="Azteca Uno -2Hrs">
-    <title lang="es">Exatlón Titanes vs. Héroes</title>
-  </programme>
-  <programme start="20210203011500 -0600" stop="20210203021500 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202011500 -0600" stop="20210202021500 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">La resolana</title>
   </programme>
-  <programme start="20210203021500 -0600" stop="20210203024500 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202021500 -0600" stop="20210202024500 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Farmacias Similares</title>
   </programme>
-  <programme start="20210203024500 -0600" stop="20210203044500 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202024500 -0600" stop="20210202044500 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210203044500 -0600" stop="20210203064500 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202044500 -0600" stop="20210202064500 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210203064500 -0600" stop="20210203070000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202064500 -0600" stop="20210202070000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210203073000 -0600" stop="20210203081500 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202073000 -0600" stop="20210202081500 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210203081500 -0600" stop="20210203090000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202081500 -0600" stop="20210202090000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Primera Línea</title>
   </programme>
-  <programme start="20210203090000 -0600" stop="20210203100000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202090000 -0600" stop="20210202100000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Hechos AM</title>
   </programme>
-  <programme start="20210203100000 -0600" stop="20210203110000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202100000 -0600" stop="20210202110000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Hechos Aquí entre nos</title>
   </programme>
-  <programme start="20210203160000 -0600" stop="20210203170000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202160000 -0600" stop="20210202170000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Hechos meridiano</title>
   </programme>
-  <programme start="20210203170000 -0600" stop="20210203183000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202170000 -0600" stop="20210202183000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Ventaneando</title>
     <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
     <date>1996</date>
     <category lang="es">Programa</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
   </programme>
-  <programme start="20210203183000 -0600" stop="20210203193000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202183000 -0600" stop="20210202193000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Todos quieren fama</title>
   </programme>
-  <programme start="20210203193000 -0600" stop="20210203213000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202193000 -0600" stop="20210202213000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Al extremo</title>
   </programme>
-  <programme start="20210203213000 -0600" stop="20210204003000 -0600" channel="Azteca Uno -2Hrs">
+  <programme start="20210202213000 -0600" stop="20210203003000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Exatlón Titanes vs. Héroes</title>
+  </programme>
+  <programme start="20210203023000 -0600" stop="20210203030000 -0600" channel="Azteca Uno -2Hrs">
+    <title lang="es">Yetzali</title>
+  </programme>
+  <programme start="20210203030000 -0600" stop="20210203060000 -0600" channel="Azteca Uno -2Hrs">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210203060000 -0600" stop="20210203061500 -0600" channel="Azteca Uno -2Hrs">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20210203061500 -0600" stop="20210203070000 -0600" channel="Azteca Uno -2Hrs">
+    <title lang="es">Paid Programing</title>
   </programme>
   <programme start="20210130010000 -0600" stop="20210130023000 -0600" channel="AZ Cinema">
     <title lang="es">Yo También Soy de Jalisco</title>
@@ -1162,115 +1171,115 @@
   <programme start="20210130220000 -0600" stop="20210131020000 -0600" channel="AZ Clic">
     <title lang="es">Maratón Games</title>
   </programme>
+  <programme start="20210131020000 -0600" stop="20210131030000 -0600" channel="AZ Clic">
+    <title lang="es">Be</title>
+  </programme>
+  <programme start="20210131030000 -0600" stop="20210131033000 -0600" channel="AZ Clic">
+    <title lang="es">Fenómeno Dj</title>
+  </programme>
+  <programme start="20210131033000 -0600" stop="20210131040000 -0600" channel="AZ Clic">
+    <title lang="es">Central Clic</title>
+  </programme>
+  <programme start="20210131040000 -0600" stop="20210131043000 -0600" channel="AZ Clic">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20210131043000 -0600" stop="20210131050000 -0600" channel="AZ Clic">
+    <title lang="es">Tecno life</title>
+  </programme>
+  <programme start="20210131050000 -0600" stop="20210131060000 -0600" channel="AZ Clic">
+    <title lang="es">La Ciudad de las Ideas</title>
+  </programme>
+  <programme start="20210131080000 -0600" stop="20210131083000 -0600" channel="AZ Clic">
+    <title lang="es">Hoyo 19</title>
+  </programme>
+  <programme start="20210131090000 -0600" stop="20210131093000 -0600" channel="AZ Clic">
+    <title lang="es">Fragamente</title>
+  </programme>
+  <programme start="20210131160000 -0600" stop="20210131163000 -0600" channel="AZ Clic">
+    <title lang="es">Just drive</title>
+  </programme>
+  <programme start="20210131163000 -0600" stop="20210131170000 -0600" channel="AZ Clic">
+    <title lang="es">Fragamente</title>
+  </programme>
+  <programme start="20210131170000 -0600" stop="20210131180000 -0600" channel="AZ Clic">
+    <title lang="es">Mis doctores</title>
+  </programme>
+  <programme start="20210131180000 -0600" stop="20210131190000 -0600" channel="AZ Clic">
+    <title lang="es">Dos de viaje</title>
+  </programme>
+  <programme start="20210131190000 -0600" stop="20210131200000 -0600" channel="AZ Clic">
+    <title lang="es">Latin Angels</title>
+  </programme>
+  <programme start="20210131200000 -0600" stop="20210131210000 -0600" channel="AZ Clic">
+    <title lang="es">Tecno life</title>
+  </programme>
+  <programme start="20210131210000 -0600" stop="20210131220000 -0600" channel="AZ Clic">
+    <title lang="es">La Ciudad de las Ideas</title>
+  </programme>
   <programme start="20210131220000 -0600" stop="20210201020000 -0600" channel="AZ Clic">
     <title lang="es">Maratón Games</title>
   </programme>
-  <programme start="20210201020000 -0600" stop="20210201030000 -0600" channel="AZ Clic">
-    <title lang="es">Be</title>
-  </programme>
   <programme start="20210201030000 -0600" stop="20210201033000 -0600" channel="AZ Clic">
-    <title lang="es">Fenómeno Dj</title>
-  </programme>
-  <programme start="20210201033000 -0600" stop="20210201040000 -0600" channel="AZ Clic">
-    <title lang="es">Central Clic</title>
-  </programme>
-  <programme start="20210201040000 -0600" stop="20210201043000 -0600" channel="AZ Clic">
-    <title lang="es">Latin Angels</title>
-  </programme>
-  <programme start="20210201043000 -0600" stop="20210201050000 -0600" channel="AZ Clic">
-    <title lang="es">Tecno life</title>
-  </programme>
-  <programme start="20210201050000 -0600" stop="20210201060000 -0600" channel="AZ Clic">
-    <title lang="es">La Ciudad de las Ideas</title>
-  </programme>
-  <programme start="20210201080000 -0600" stop="20210201083000 -0600" channel="AZ Clic">
-    <title lang="es">Hoyo 19</title>
-  </programme>
-  <programme start="20210201090000 -0600" stop="20210201093000 -0600" channel="AZ Clic">
-    <title lang="es">Fragamente</title>
-  </programme>
-  <programme start="20210201160000 -0600" stop="20210201163000 -0600" channel="AZ Clic">
-    <title lang="es">Just drive</title>
-  </programme>
-  <programme start="20210201163000 -0600" stop="20210201170000 -0600" channel="AZ Clic">
-    <title lang="es">Fragamente</title>
-  </programme>
-  <programme start="20210201170000 -0600" stop="20210201180000 -0600" channel="AZ Clic">
-    <title lang="es">Mis doctores</title>
-  </programme>
-  <programme start="20210201180000 -0600" stop="20210201190000 -0600" channel="AZ Clic">
-    <title lang="es">Dos de viaje</title>
-  </programme>
-  <programme start="20210201190000 -0600" stop="20210201200000 -0600" channel="AZ Clic">
-    <title lang="es">Latin Angels</title>
-  </programme>
-  <programme start="20210201200000 -0600" stop="20210201210000 -0600" channel="AZ Clic">
-    <title lang="es">Tecno life</title>
-  </programme>
-  <programme start="20210201210000 -0600" stop="20210201220000 -0600" channel="AZ Clic">
-    <title lang="es">La Ciudad de las Ideas</title>
-  </programme>
-  <programme start="20210202030000 -0600" stop="20210202033000 -0600" channel="AZ Clic">
     <title lang="es">Mundo Pop</title>
   </programme>
-  <programme start="20210202050000 -0600" stop="20210202053000 -0600" channel="AZ Clic">
+  <programme start="20210201050000 -0600" stop="20210201053000 -0600" channel="AZ Clic">
     <title lang="es">Hoyo 19</title>
   </programme>
-  <programme start="20210202053000 -0600" stop="20210202060000 -0600" channel="AZ Clic">
+  <programme start="20210201053000 -0600" stop="20210201060000 -0600" channel="AZ Clic">
     <title lang="es">Fan chic</title>
   </programme>
-  <programme start="20210202060000 -0600" stop="20210202070000 -0600" channel="AZ Clic">
+  <programme start="20210201060000 -0600" stop="20210201070000 -0600" channel="AZ Clic">
     <title lang="es">La Ciudad de las Ideas</title>
   </programme>
-  <programme start="20210202070000 -0600" stop="20210202073000 -0600" channel="AZ Clic">
+  <programme start="20210201070000 -0600" stop="20210201073000 -0600" channel="AZ Clic">
     <title lang="es">Tecno life</title>
   </programme>
-  <programme start="20210202073000 -0600" stop="20210202080000 -0600" channel="AZ Clic">
+  <programme start="20210201073000 -0600" stop="20210201080000 -0600" channel="AZ Clic">
     <title lang="es">Ahora, Futuro México y el mundo</title>
   </programme>
-  <programme start="20210202080000 -0600" stop="20210202083000 -0600" channel="AZ Clic">
+  <programme start="20210201080000 -0600" stop="20210201083000 -0600" channel="AZ Clic">
     <title lang="es">Yoga</title>
   </programme>
-  <programme start="20210202083000 -0600" stop="20210202090000 -0600" channel="AZ Clic">
+  <programme start="20210201083000 -0600" stop="20210201090000 -0600" channel="AZ Clic">
     <title lang="es">Cocina energética</title>
   </programme>
-  <programme start="20210202090000 -0600" stop="20210202093000 -0600" channel="AZ Clic">
+  <programme start="20210201090000 -0600" stop="20210201093000 -0600" channel="AZ Clic">
     <title lang="es">Pase de abordar</title>
   </programme>
-  <programme start="20210202093000 -0600" stop="20210202100000 -0600" channel="AZ Clic">
+  <programme start="20210201093000 -0600" stop="20210201100000 -0600" channel="AZ Clic">
     <title lang="es">Fragamente</title>
   </programme>
-  <programme start="20210202100000 -0600" stop="20210202110000 -0600" channel="AZ Clic">
+  <programme start="20210201100000 -0600" stop="20210201110000 -0600" channel="AZ Clic">
     <title lang="es">Mis doctores</title>
   </programme>
-  <programme start="20210202110000 -0600" stop="20210202123000 -0600" channel="AZ Clic">
+  <programme start="20210201110000 -0600" stop="20210201123000 -0600" channel="AZ Clic">
     <title lang="es">Free Fire League</title>
   </programme>
-  <programme start="20210202123000 -0600" stop="20210202130000 -0600" channel="AZ Clic">
+  <programme start="20210201123000 -0600" stop="20210201130000 -0600" channel="AZ Clic">
     <title lang="es">Latin Angels</title>
   </programme>
-  <programme start="20210202130000 -0600" stop="20210202140000 -0600" channel="AZ Clic">
+  <programme start="20210201130000 -0600" stop="20210201140000 -0600" channel="AZ Clic">
     <title lang="es">Latin Angels</title>
   </programme>
-  <programme start="20210202140000 -0600" stop="20210202143000 -0600" channel="AZ Clic">
+  <programme start="20210201140000 -0600" stop="20210201143000 -0600" channel="AZ Clic">
     <title lang="es">Be</title>
   </programme>
-  <programme start="20210202143000 -0600" stop="20210202150000 -0600" channel="AZ Clic">
+  <programme start="20210201143000 -0600" stop="20210201150000 -0600" channel="AZ Clic">
     <title lang="es">Hoyo 19</title>
   </programme>
-  <programme start="20210202150000 -0600" stop="20210202153000 -0600" channel="AZ Clic">
+  <programme start="20210201150000 -0600" stop="20210201153000 -0600" channel="AZ Clic">
     <title lang="es">Ahora, Futuro México y el mundo</title>
   </programme>
-  <programme start="20210202153000 -0600" stop="20210202160000 -0600" channel="AZ Clic">
+  <programme start="20210201153000 -0600" stop="20210201160000 -0600" channel="AZ Clic">
     <title lang="es">Tecno life</title>
   </programme>
-  <programme start="20210202160000 -0600" stop="20210202163000 -0600" channel="AZ Clic">
+  <programme start="20210201160000 -0600" stop="20210201163000 -0600" channel="AZ Clic">
     <title lang="es">La Otra Aventura</title>
   </programme>
-  <programme start="20210202163000 -0600" stop="20210202173000 -0600" channel="AZ Clic">
+  <programme start="20210201163000 -0600" stop="20210201173000 -0600" channel="AZ Clic">
     <title lang="es">La Ciudad de las Ideas</title>
   </programme>
-  <programme start="20210202173000 -0600" stop="20210202180000 -0600" channel="AZ Clic">
+  <programme start="20210201173000 -0600" stop="20210201180000 -0600" channel="AZ Clic">
     <title lang="es">Cocina energética</title>
   </programme>
   <programme start="20210130013000 -0600" stop="20210130030000 -0600" channel="AZ Corazon">
@@ -4907,30 +4916,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210131215500 -0600" stop="20210201000500 -0600" channel="FOX">
-    <title lang="es">Jumanji: En la Selva</title>
-    <desc lang="es">Un grupo de estudiantes encuentran en el sótano de la escuela una vieja consola de video juegos y un juego desconocido los transporta a una extraña jungla.</desc>
-    <credits>
-      <actor>Dwayne Johnson</actor>
-      <actor>Jack Black</actor>
-      <actor>Kevin Hart</actor>
-      <actor>Karen Gillan</actor>
-      <actor>Nick Jonas</actor>
-      <actor>Alex Wolff</actor>
-      <actor>Madison Iseman</actor>
-      <actor>Ser'Darius Blain</actor>
-      <producer>Ted Field</producer>
-      <producer>William Teitler</producer>
-      <composer>Henry Jackman</composer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jumanji_en_la_selva.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20210201000500 -0600" stop="20210201022700 -0600" channel="FOX">
+  <programme start="20210131000500 -0600" stop="20210131022700 -0600" channel="FOX">
     <title lang="es">Kingsman: El Servicio Secreto</title>
     <title lang="xx">Kingsman: The Secret Service</title>
     <desc lang="es">Un veterano agente secreto toma a un niño de la calle para entrenarlo y convertirlo en un agente altamente competitivo.</desc>
@@ -4951,7 +4937,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20210201022700 -0600" stop="20210201040000 -0600" channel="FOX">
+  <programme start="20210131022700 -0600" stop="20210131040000 -0600" channel="FOX">
     <title lang="es">Apuesta Máxima</title>
     <title lang="xx">Runner Runner</title>
     <desc lang="es">Cuando un estudiante universitario que juega póker en un sitio en internet es estafado, se las arreglar para encontrarse frente a frente con el hombre que cree lo estafó.</desc>
@@ -4969,24 +4955,24 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20210201040000 -0600" stop="20210201055500 -0600" channel="FOX">
+  <programme start="20210131040000 -0600" stop="20210131055500 -0600" channel="FOX">
     <title lang="es">Eddie Reynolds y los ángeles</title>
   </programme>
-  <programme start="20210201055500 -0600" stop="20210201061300 -0600" channel="FOX">
+  <programme start="20210131055500 -0600" stop="20210131061300 -0600" channel="FOX">
     <title lang="es">Bless This Mess</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20210201061300 -0600" stop="20210201070000 -0600" channel="FOX">
+  <programme start="20210131061300 -0600" stop="20210131070000 -0600" channel="FOX">
     <title lang="es">Cumbia Ninja</title>
     <episode-num system="onscreen">S3 E2</episode-num>
   </programme>
-  <programme start="20210201070000 -0600" stop="20210201085900 -0600" channel="FOX">
+  <programme start="20210131070000 -0600" stop="20210131085900 -0600" channel="FOX">
     <title lang="es">Spider-Man</title>
   </programme>
-  <programme start="20210201085900 -0600" stop="20210201105700 -0600" channel="FOX">
+  <programme start="20210131085900 -0600" stop="20210131105700 -0600" channel="FOX">
     <title lang="es">Una gran esperanza</title>
   </programme>
-  <programme start="20210201105700 -0600" stop="20210201124200 -0600" channel="FOX">
+  <programme start="20210131105700 -0600" stop="20210131124200 -0600" channel="FOX">
     <title lang="es">Shrek Tercero</title>
     <title lang="xx">Shrek the Third</title>
     <desc lang="es">Tras la muerte del suegro de Shrek, el Rey Harold, ahora el reino de Muy Muy Lejos llama al Ogro maloliente para que tome su trono.</desc>
@@ -5009,7 +4995,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20210201124200 -0600" stop="20210201130300 -0600" channel="FOX">
+  <programme start="20210131124200 -0600" stop="20210131130300 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5019,7 +5005,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S12 E4</episode-num>
   </programme>
-  <programme start="20210201130300 -0600" stop="20210201132800 -0600" channel="FOX">
+  <programme start="20210131130300 -0600" stop="20210131132800 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5029,7 +5015,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S12 E7</episode-num>
   </programme>
-  <programme start="20210201132800 -0600" stop="20210201135300 -0600" channel="FOX">
+  <programme start="20210131132800 -0600" stop="20210131135300 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5039,13 +5025,13 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S12 E15</episode-num>
   </programme>
-  <programme start="20210201135300 -0600" stop="20210201153200 -0600" channel="FOX">
+  <programme start="20210131135300 -0600" stop="20210131153200 -0600" channel="FOX">
     <title lang="es">Hotel Transylvania 2</title>
   </programme>
-  <programme start="20210201153200 -0600" stop="20210201175100 -0600" channel="FOX">
+  <programme start="20210131153200 -0600" stop="20210131175100 -0600" channel="FOX">
     <title lang="es">Jurassic World-Mundo Jurásico</title>
   </programme>
-  <programme start="20210201175100 -0600" stop="20210201200000 -0600" channel="FOX">
+  <programme start="20210131175100 -0600" stop="20210131200000 -0600" channel="FOX">
     <title lang="es">Jumanji: En la Selva</title>
     <desc lang="es">Un grupo de estudiantes encuentran en el sótano de la escuela una vieja consola de video juegos y un juego desconocido los transporta a una extraña jungla.</desc>
     <credits>
@@ -5068,7 +5054,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210201200000 -0600" stop="20210201203000 -0600" channel="FOX">
+  <programme start="20210131200000 -0600" stop="20210131203000 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5078,7 +5064,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S7 E17</episode-num>
   </programme>
-  <programme start="20210201203000 -0600" stop="20210201210000 -0600" channel="FOX">
+  <programme start="20210131203000 -0600" stop="20210131210000 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5088,7 +5074,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S14 E19</episode-num>
   </programme>
-  <programme start="20210201210000 -0600" stop="20210201213000 -0600" channel="FOX">
+  <programme start="20210131210000 -0600" stop="20210131213000 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5098,7 +5084,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S6 E15</episode-num>
   </programme>
-  <programme start="20210201213000 -0600" stop="20210201220000 -0600" channel="FOX">
+  <programme start="20210131213000 -0600" stop="20210131220000 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5108,13 +5094,13 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S13 E22</episode-num>
   </programme>
+  <programme start="20210131220000 -0600" stop="20210201001100 -0600" channel="FOX">
+    <title lang="es">Día de las Madres</title>
+  </programme>
   <programme start="20210201220000 -0600" stop="20210202001100 -0600" channel="FOX">
     <title lang="es">Día de las Madres</title>
   </programme>
-  <programme start="20210202220000 -0600" stop="20210203001100 -0600" channel="FOX">
-    <title lang="es">Día de las Madres</title>
-  </programme>
-  <programme start="20210203001100 -0600" stop="20210203025100 -0600" channel="FOX">
+  <programme start="20210202001100 -0600" stop="20210202025100 -0600" channel="FOX">
     <title lang="es">Maze Runner: La Cura Mortal</title>
     <title lang="xx">Maze Runner: The Death Cure</title>
     <desc lang="es">Después de escapar del laberinto ahora deben regresar donde todo comenzó para buscar las respuestas que se han preguntado todos estos años.</desc>
@@ -5138,7 +5124,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210203025100 -0600" stop="20210203031300 -0600" channel="FOX">
+  <programme start="20210202025100 -0600" stop="20210202031300 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5148,7 +5134,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S12 E1</episode-num>
   </programme>
-  <programme start="20210203031300 -0600" stop="20210203033500 -0600" channel="FOX">
+  <programme start="20210202031300 -0600" stop="20210202033500 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5158,7 +5144,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S10 E17</episode-num>
   </programme>
-  <programme start="20210203033500 -0600" stop="20210203050300 -0600" channel="FOX">
+  <programme start="20210202033500 -0600" stop="20210202050300 -0600" channel="FOX">
     <title lang="es">Un Lugar en Silencio</title>
     <title lang="xx">A Quiet Place</title>
     <desc lang="es">Aquellos que han sobrevivido viven con una sola regla: nunca debes hacer ruido. Si no te escuchan, no pueden cazarte.</desc>
@@ -5178,37 +5164,37 @@
     <category lang="es">Película</category>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/un_lugar_en_silencio.jpg" />
   </programme>
-  <programme start="20210203050300 -0600" stop="20210203052500 -0600" channel="FOX">
+  <programme start="20210202050300 -0600" stop="20210202052500 -0600" channel="FOX">
     <title lang="es">Bless This Mess</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20210203052500 -0600" stop="20210203054700 -0600" channel="FOX">
+  <programme start="20210202052500 -0600" stop="20210202054700 -0600" channel="FOX">
     <title lang="es">Bless This Mess</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20210203054700 -0600" stop="20210203060600 -0600" channel="FOX">
+  <programme start="20210202054700 -0600" stop="20210202060600 -0600" channel="FOX">
     <title lang="es">Bless This Mess</title>
     <episode-num system="onscreen">S2 E1</episode-num>
   </programme>
-  <programme start="20210203060600 -0600" stop="20210203070000 -0600" channel="FOX">
+  <programme start="20210202060600 -0600" stop="20210202070000 -0600" channel="FOX">
     <title lang="es">Cumbia Ninja</title>
     <episode-num system="onscreen">S3 E3</episode-num>
   </programme>
-  <programme start="20210203070000 -0600" stop="20210203073000 -0600" channel="FOX">
+  <programme start="20210202070000 -0600" stop="20210202073000 -0600" channel="FOX">
     <title lang="es">Bless This Mess</title>
     <episode-num system="onscreen">S2 E15</episode-num>
   </programme>
-  <programme start="20210203073000 -0600" stop="20210203080000 -0600" channel="FOX">
+  <programme start="20210202073000 -0600" stop="20210202080000 -0600" channel="FOX">
     <title lang="es">Bless This Mess</title>
     <episode-num system="onscreen">S2 E16</episode-num>
   </programme>
-  <programme start="20210203080000 -0600" stop="20210203100000 -0600" channel="FOX">
+  <programme start="20210202080000 -0600" stop="20210202100000 -0600" channel="FOX">
     <title lang="es">Beethoven 5</title>
   </programme>
-  <programme start="20210203100000 -0600" stop="20210203130000 -0600" channel="FOX">
+  <programme start="20210202100000 -0600" stop="20210202130000 -0600" channel="FOX">
     <title lang="es">Love on Safari</title>
   </programme>
-  <programme start="20210203130000 -0600" stop="20210203133000 -0600" channel="FOX">
+  <programme start="20210202130000 -0600" stop="20210202133000 -0600" channel="FOX">
     <title lang="es">Will &amp; Grace</title>
     <title lang="xx">Will &amp; Grace</title>
     <desc lang="es">Ella una diseñadora de interiores y el un abogado estupendo, ambos buscan el amor y están hechos el uno para el uno para el otro, pero Will es gay.</desc>
@@ -5225,7 +5211,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/will_y_grace.jpg" />
     <episode-num system="onscreen">S3 E15</episode-num>
   </programme>
-  <programme start="20210203133000 -0600" stop="20210203140000 -0600" channel="FOX">
+  <programme start="20210202133000 -0600" stop="20210202140000 -0600" channel="FOX">
     <title lang="es">Will &amp; Grace</title>
     <title lang="xx">Will &amp; Grace</title>
     <desc lang="es">Ella una diseñadora de interiores y el un abogado estupendo, ambos buscan el amor y están hechos el uno para el uno para el otro, pero Will es gay.</desc>
@@ -5242,7 +5228,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/will_y_grace.jpg" />
     <episode-num system="onscreen">S3 E16</episode-num>
   </programme>
-  <programme start="20210203140000 -0600" stop="20210203173000 -0600" channel="FOX">
+  <programme start="20210202140000 -0600" stop="20210202173000 -0600" channel="FOX">
     <title lang="es">Princesa por Accidente</title>
     <title lang="xx">Monte Carlo</title>
     <desc lang="es">Grace es una camarera que tiene el sueño de viajar a Paris.  Con su esfuerzo y ahorros lo ha conseguido, sus amigas Emma y Meg la acompañan en esta gran aventura.</desc>
@@ -5261,10 +5247,10 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20210203173000 -0600" stop="20210203193000 -0600" channel="FOX">
+  <programme start="20210202173000 -0600" stop="20210202193000 -0600" channel="FOX">
     <title lang="es">Día de las Madres</title>
   </programme>
-  <programme start="20210203193000 -0600" stop="20210203200000 -0600" channel="FOX">
+  <programme start="20210202193000 -0600" stop="20210202200000 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5274,7 +5260,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S10 E6</episode-num>
   </programme>
-  <programme start="20210203200000 -0600" stop="20210203203000 -0600" channel="FOX">
+  <programme start="20210202200000 -0600" stop="20210202203000 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5284,7 +5270,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S7 E18</episode-num>
   </programme>
-  <programme start="20210203203000 -0600" stop="20210203210000 -0600" channel="FOX">
+  <programme start="20210202203000 -0600" stop="20210202210000 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5294,7 +5280,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S14 E20</episode-num>
   </programme>
-  <programme start="20210203210000 -0600" stop="20210203213000 -0600" channel="FOX">
+  <programme start="20210202210000 -0600" stop="20210202213000 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5304,7 +5290,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S6 E16</episode-num>
   </programme>
-  <programme start="20210203213000 -0600" stop="20210203215500 -0600" channel="FOX">
+  <programme start="20210202213000 -0600" stop="20210202215500 -0600" channel="FOX">
     <title lang="es">Los Simpson</title>
     <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
     <date>1989</date>
@@ -5314,7 +5300,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S11 E1</episode-num>
   </programme>
-  <programme start="20210203215500 -0600" stop="20210204005200 -0600" channel="FOX">
+  <programme start="20210202215500 -0600" stop="20210203005200 -0600" channel="FOX">
     <title lang="es">El Renacido</title>
     <title lang="xx">The Revenant</title>
     <desc lang="es">En una expedición de comercio de pieles, el explorador Hugh Glass pelea por sobrevivir tras haber sido atacado por un oso y dado por muerto por su equipo.</desc>
@@ -5336,6 +5322,191 @@
     <rating>
       <value>R</value>
     </rating>
+  </programme>
+  <programme start="20210203005200 -0600" stop="20210203011500 -0600" channel="FOX">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
+    <date>1989</date>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num system="onscreen">S10 E18</episode-num>
+  </programme>
+  <programme start="20210203011500 -0600" stop="20210203014100 -0600" channel="FOX">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
+    <date>1989</date>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num system="onscreen">S10 E19</episode-num>
+  </programme>
+  <programme start="20210203014100 -0600" stop="20210203032600 -0600" channel="FOX">
+    <title lang="es">En la oscuridad</title>
+  </programme>
+  <programme start="20210203032600 -0600" stop="20210203060000 -0600" channel="FOX">
+    <title lang="es">The Punisher: Zona de guerra</title>
+  </programme>
+  <programme start="20210203060000 -0600" stop="20210203070000 -0600" channel="FOX">
+    <title lang="es">Cumbia Ninja</title>
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20210203070000 -0600" stop="20210203073000 -0600" channel="FOX">
+    <title lang="es">Bless This Mess</title>
+    <episode-num system="onscreen">S2 E17</episode-num>
+  </programme>
+  <programme start="20210203073000 -0600" stop="20210203080000 -0600" channel="FOX">
+    <title lang="es">Bless This Mess</title>
+    <episode-num system="onscreen">S2 E18</episode-num>
+  </programme>
+  <programme start="20210203080000 -0600" stop="20210203100000 -0600" channel="FOX">
+    <title lang="es">Spider-Man</title>
+  </programme>
+  <programme start="20210203100000 -0600" stop="20210203130000 -0600" channel="FOX">
+    <title lang="es">Mi abuela es un peligro 2</title>
+  </programme>
+  <programme start="20210203130000 -0600" stop="20210203133000 -0600" channel="FOX">
+    <title lang="es">Will &amp; Grace</title>
+    <title lang="xx">Will &amp; Grace</title>
+    <desc lang="es">Ella una diseñadora de interiores y el un abogado estupendo, ambos buscan el amor y están hechos el uno para el uno para el otro, pero Will es gay.</desc>
+    <credits>
+      <actor>Eric McCormack</actor>
+      <actor>Debra Messing</actor>
+      <actor>Megan Mullally</actor>
+      <actor>Sean Hayes</actor>
+      <actor>Gary Grubbs</actor>
+      <actor>Shelley Morrison</actor>
+      <actor>Michael Angarano</actor>
+    </credits>
+    <date>1998</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/will_y_grace.jpg" />
+    <episode-num system="onscreen">S3 E17</episode-num>
+  </programme>
+  <programme start="20210203133000 -0600" stop="20210203140000 -0600" channel="FOX">
+    <title lang="es">Will &amp; Grace</title>
+    <title lang="xx">Will &amp; Grace</title>
+    <desc lang="es">Ella una diseñadora de interiores y el un abogado estupendo, ambos buscan el amor y están hechos el uno para el uno para el otro, pero Will es gay.</desc>
+    <credits>
+      <actor>Eric McCormack</actor>
+      <actor>Debra Messing</actor>
+      <actor>Megan Mullally</actor>
+      <actor>Sean Hayes</actor>
+      <actor>Gary Grubbs</actor>
+      <actor>Shelley Morrison</actor>
+      <actor>Michael Angarano</actor>
+    </credits>
+    <date>1998</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/will_y_grace.jpg" />
+    <episode-num system="onscreen">S3 E18</episode-num>
+  </programme>
+  <programme start="20210203140000 -0600" stop="20210203174500 -0600" channel="FOX">
+    <title lang="es">Si Decido Quedarme</title>
+    <title lang="xx">If I Stay</title>
+    <desc lang="es">Una joven sufre un accidente automovilístico que la deja en estado de coma, ahora estando fuera de su cuerpo terrenal deberá decidir si regresa.</desc>
+    <credits>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>Mireille Enos</actor>
+      <actor>Lauren Lee Smith</actor>
+      <actor>Liana Liberato</actor>
+      <actor>Jamie Blackley</actor>
+      <writer>If I Stay de Gayle Forman</writer>
+      <producer>Denise Di Novi</producer>
+      <producer>Alison Greenspan</producer>
+      <composer>Heitor Pereira</composer>
+    </credits>
+    <date>2014</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/si_decido_quedarme.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210203174500 -0600" stop="20210203193000 -0600" channel="FOX">
+    <title lang="es">Megamente</title>
+    <desc lang="es">Megamente es un súper villano que logra deshacerse de su archienemigo "Metro Man" y ahora puede conquistar libremente Metro City.</desc>
+    <date>2010</date>
+    <category lang="es">Película</category>
+    <category lang="es">Infantil</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/megamente.jpg" />
+  </programme>
+  <programme start="20210203193000 -0600" stop="20210203200000 -0600" channel="FOX">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
+    <date>1989</date>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num system="onscreen">S10 E7</episode-num>
+  </programme>
+  <programme start="20210203200000 -0600" stop="20210203203000 -0600" channel="FOX">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
+    <date>1989</date>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num system="onscreen">S7 E19</episode-num>
+  </programme>
+  <programme start="20210203203000 -0600" stop="20210203210000 -0600" channel="FOX">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
+    <date>1989</date>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num system="onscreen">S14 E21</episode-num>
+  </programme>
+  <programme start="20210203210000 -0600" stop="20210203213000 -0600" channel="FOX">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
+    <date>1989</date>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num system="onscreen">S6 E17</episode-num>
+  </programme>
+  <programme start="20210203213000 -0600" stop="20210203215500 -0600" channel="FOX">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
+    <date>1989</date>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num system="onscreen">S11 E2</episode-num>
+  </programme>
+  <programme start="20210203215500 -0600" stop="20210203234700 -0600" channel="FOX">
+    <title lang="es">Feliz Día de tu Muerte</title>
+    <title lang="xx">Happy Death Day</title>
+    <desc lang="es">Una estudiante universitaria que en el día de su cumpleaños es asesinada por un enmascarado.  Ella revivirá cada vez hasta que descubra quien es su asesino.</desc>
+    <credits>
+      <actor>Jessica Rothe</actor>
+      <actor>Israel Broussard</actor>
+      <actor>Ruby Modine</actor>
+      <actor>Rachel Matthews</actor>
+      <actor>Charles Aitken</actor>
+      <producer>Jason Blum</producer>
+      <producer>Angela Mancuso</producer>
+      <composer>Bear McCreary</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/feliz_dia_de_tu_muerte.jpg" />
+  </programme>
+  <programme start="20210203234700 -0600" stop="20210204001100 -0600" channel="FOX">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.</desc>
+    <date>1989</date>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num system="onscreen">S10 E20</episode-num>
   </programme>
   <programme start="20210130014500 -0600" stop="20210130030700 -0600" channel="FOX Life">
     <title lang="es">Chocolate City</title>
@@ -6467,33 +6638,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210131220000 -0600" stop="20210201002000 -0600" channel="FX">
-    <title lang="es">Rápidos y Furiosos 5</title>
-    <title lang="xx">Fast Five</title>
-    <desc lang="es">Dom y su equipo de corredores callejeros planean un masivo atraco para poder comprar su libertad mientras están en la miran de un poderoso cartel de drogas.</desc>
-    <credits>
-      <actor>Vin Diesel</actor>
-      <actor>Paul Walker</actor>
-      <actor>Dwayne Johnson</actor>
-      <actor>Jordana Brewster</actor>
-      <actor>Tyrese Gibson</actor>
-      <actor>Ludacris</actor>
-      <actor>Sung Kang</actor>
-      <actor>Gal Gadot</actor>
-      <producer>Neal H. Moritz</producer>
-      <producer>Vin Diesel</producer>
-      <composer>Brian Tyler</composer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/rapidos_y_furiosos_5.jpg" />
-    <country lang="es">Brasil</country>
-    <country lang="es">Estados Unidos</country>
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20210201002000 -0600" stop="20210201022000 -0600" channel="FX">
+  <programme start="20210131002000 -0600" stop="20210131022000 -0600" channel="FX">
     <title lang="es">Línea Mortal: Al Límite</title>
     <title lang="xx">Flatliners (2017)</title>
     <desc lang="es">Cinco estudiantes de medicina crean un experimento para intentar descubrir el misterio del más allá, sin percatarse de las consecuencias que esto lleva.</desc>
@@ -6515,10 +6660,10 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210201022000 -0600" stop="20210201035200 -0600" channel="FX">
+  <programme start="20210131022000 -0600" stop="20210131035200 -0600" channel="FX">
     <title lang="es">Lujuria en el convento</title>
   </programme>
-  <programme start="20210201035200 -0600" stop="20210201051200 -0600" channel="FX">
+  <programme start="20210131035200 -0600" stop="20210131051200 -0600" channel="FX">
     <title lang="es">Action Point</title>
     <desc lang="es">Un propietario de un parque de diversiones de bajo presupuesto debe salvar su amado parque y su relación de su hija cuando se abre un mega parque cercano.</desc>
     <credits>
@@ -6542,7 +6687,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210201051200 -0600" stop="20210201053100 -0600" channel="FX">
+  <programme start="20210131051200 -0600" stop="20210131053100 -0600" channel="FX">
     <title lang="es">Padre de Familia</title>
     <title lang="xx">Family Guy</title>
     <desc lang="es">Los Griffin son una familia con un padre que dice lo que piensa, una madre amorosa, una hija adolescente, un hijo de 13 años, un niño de un año y un perro.</desc>
@@ -6567,7 +6712,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201053100 -0600" stop="20210201055400 -0600" channel="FX">
+  <programme start="20210131053100 -0600" stop="20210131055400 -0600" channel="FX">
     <title lang="es">Padre de Familia</title>
     <title lang="xx">Family Guy</title>
     <desc lang="es">Los Griffin son una familia con un padre que dice lo que piensa, una madre amorosa, una hija adolescente, un hijo de 13 años, un niño de un año y un perro.</desc>
@@ -6592,7 +6737,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201055400 -0600" stop="20210201062100 -0600" channel="FX">
+  <programme start="20210131055400 -0600" stop="20210131062100 -0600" channel="FX">
     <title lang="es">Padre de Familia</title>
     <title lang="xx">Family Guy</title>
     <desc lang="es">Los Griffin son una familia con un padre que dice lo que piensa, una madre amorosa, una hija adolescente, un hijo de 13 años, un niño de un año y un perro.</desc>
@@ -6617,7 +6762,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201062100 -0600" stop="20210201070000 -0600" channel="FX">
+  <programme start="20210131062100 -0600" stop="20210131070000 -0600" channel="FX">
     <title lang="es">Padre de Familia</title>
     <title lang="xx">Family Guy</title>
     <desc lang="es">Los Griffin son una familia con un padre que dice lo que piensa, una madre amorosa, una hija adolescente, un hijo de 13 años, un niño de un año y un perro.</desc>
@@ -6642,7 +6787,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201070000 -0600" stop="20210201083100 -0600" channel="FX">
+  <programme start="20210131070000 -0600" stop="20210131083100 -0600" channel="FX">
     <title lang="es">Action Point</title>
     <desc lang="es">Un propietario de un parque de diversiones de bajo presupuesto debe salvar su amado parque y su relación de su hija cuando se abre un mega parque cercano.</desc>
     <credits>
@@ -6666,7 +6811,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210201083100 -0600" stop="20210201101900 -0600" channel="FX">
+  <programme start="20210131083100 -0600" stop="20210131101900 -0600" channel="FX">
     <title lang="es">Legion</title>
     <desc lang="es">David que a muy temprana edad es diagnosticado como esquizofrénico, ahora él buscará la forma de salir de los hospitales psiquiátricos.</desc>
     <credits>
@@ -6686,7 +6831,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/legion.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20210201101900 -0600" stop="20210201110400 -0600" channel="FX">
+  <programme start="20210131101900 -0600" stop="20210131110400 -0600" channel="FX">
     <title lang="es">Legion</title>
     <desc lang="es">David que a muy temprana edad es diagnosticado como esquizofrénico, ahora él buscará la forma de salir de los hospitales psiquiátricos.</desc>
     <credits>
@@ -6706,10 +6851,10 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/legion.jpg" />
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20210201110400 -0600" stop="20210201132900 -0600" channel="FX">
+  <programme start="20210131110400 -0600" stop="20210131132900 -0600" channel="FX">
     <title lang="es">Chappie</title>
   </programme>
-  <programme start="20210201132900 -0600" stop="20210201145900 -0600" channel="FX">
+  <programme start="20210131132900 -0600" stop="20210131145900 -0600" channel="FX">
     <title lang="es">Vuelo Nocturno</title>
     <desc lang="es">Lisa es una gerente de un hotel que en un vuelo de regreso a Miami conoce a un hombre sin saber sobre sus intenciones.</desc>
     <credits>
@@ -6732,18 +6877,18 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210201145900 -0600" stop="20210201154900 -0600" channel="FX">
+  <programme start="20210131145900 -0600" stop="20210131154900 -0600" channel="FX">
     <title lang="es">Ultimate Tag</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20210201154900 -0600" stop="20210201164000 -0600" channel="FX">
+  <programme start="20210131154900 -0600" stop="20210131164000 -0600" channel="FX">
     <title lang="es">Ultimate Tag</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20210201164000 -0600" stop="20210201183000 -0600" channel="FX">
+  <programme start="20210131164000 -0600" stop="20210131183000 -0600" channel="FX">
     <title lang="es">Jane tomó las armas</title>
   </programme>
-  <programme start="20210201183000 -0600" stop="20210201201200 -0600" channel="FX">
+  <programme start="20210131183000 -0600" stop="20210131201200 -0600" channel="FX">
     <title lang="es">Hombres de Negro</title>
     <title lang="xx">Men in Black</title>
     <desc lang="es">Los agentes Kay y Jay deben detener a un terrorista intergaláctico que llegó a la Tierra para asesinar a dos embajadores de galaxias opuestas.</desc>
@@ -6765,7 +6910,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210201201200 -0600" stop="20210201220000 -0600" channel="FX">
+  <programme start="20210131201200 -0600" stop="20210131220000 -0600" channel="FX">
     <title lang="es">La Torre Oscura</title>
     <title lang="xx">The Dark Tower</title>
     <desc lang="es">Un pistolero busca la Torre Oscura para poder salvar su mundo, pero su camino estará bloqueado por monstruos y un hechicero conocido como el hombre de negro.</desc>
@@ -6781,7 +6926,7 @@
     <category lang="es">Película</category>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_torre_oscura.jpg" />
   </programme>
-  <programme start="20210201220000 -0600" stop="20210202000000 -0600" channel="FX">
+  <programme start="20210131220000 -0600" stop="20210201000000 -0600" channel="FX">
     <title lang="es">Deadpool</title>
     <desc lang="es">Un ex operativo de las fuerzas especiales convertido en mercenario es sometido a un experimento que lo deja con poderes de curación acelerada y adopta un alter ego.</desc>
     <credits>
@@ -6801,16 +6946,16 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20210202000000 -0600" stop="20210202014000 -0600" channel="FX">
+  <programme start="20210201000000 -0600" stop="20210201014000 -0600" channel="FX">
     <title lang="es">Fuego cruzado</title>
   </programme>
-  <programme start="20210202014000 -0600" stop="20210202031600 -0600" channel="FX">
+  <programme start="20210201014000 -0600" stop="20210201031600 -0600" channel="FX">
     <title lang="es">Carrie</title>
   </programme>
-  <programme start="20210202031600 -0600" stop="20210202050200 -0600" channel="FX">
+  <programme start="20210201031600 -0600" stop="20210201050200 -0600" channel="FX">
     <title lang="es">Grace Unplugged</title>
   </programme>
-  <programme start="20210202050200 -0600" stop="20210202052800 -0600" channel="FX">
+  <programme start="20210201050200 -0600" stop="20210201052800 -0600" channel="FX">
     <title lang="es">Padre de Familia</title>
     <title lang="xx">Family Guy</title>
     <desc lang="es">Los Griffin son una familia con un padre que dice lo que piensa, una madre amorosa, una hija adolescente, un hijo de 13 años, un niño de un año y un perro.</desc>
@@ -6835,7 +6980,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202052800 -0600" stop="20210202055000 -0600" channel="FX">
+  <programme start="20210201052800 -0600" stop="20210201055000 -0600" channel="FX">
     <title lang="es">Padre de Familia</title>
     <title lang="xx">Family Guy</title>
     <desc lang="es">Los Griffin son una familia con un padre que dice lo que piensa, una madre amorosa, una hija adolescente, un hijo de 13 años, un niño de un año y un perro.</desc>
@@ -6860,7 +7005,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202055000 -0600" stop="20210202061400 -0600" channel="FX">
+  <programme start="20210201055000 -0600" stop="20210201061400 -0600" channel="FX">
     <title lang="es">Padre de Familia</title>
     <title lang="xx">Family Guy</title>
     <desc lang="es">Los Griffin son una familia con un padre que dice lo que piensa, una madre amorosa, una hija adolescente, un hijo de 13 años, un niño de un año y un perro.</desc>
@@ -6885,7 +7030,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202061400 -0600" stop="20210202070000 -0600" channel="FX">
+  <programme start="20210201061400 -0600" stop="20210201070000 -0600" channel="FX">
     <title lang="es">Run Coyote Run</title>
     <title lang="xx">Run Coyote Run</title>
     <desc lang="es">Un mexicano y un estadounidense unen fuerzas para crear una agencia de viajes turísticas para aquellos que les cuesta conseguir su visa americana.</desc>
@@ -6907,14 +7052,14 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/run_coyote_run.jpg" />
     <episode-num system="onscreen">S3 E2</episode-num>
   </programme>
-  <programme start="20210202070000 -0600" stop="20210202084000 -0600" channel="FX">
+  <programme start="20210201070000 -0600" stop="20210201084000 -0600" channel="FX">
     <title lang="es">Querido dictador</title>
   </programme>
-  <programme start="20210202084000 -0600" stop="20210202093000 -0600" channel="FX">
+  <programme start="20210201084000 -0600" stop="20210201093000 -0600" channel="FX">
     <title lang="es">Stargate Atlantis</title>
     <episode-num system="onscreen">S4 E19</episode-num>
   </programme>
-  <programme start="20210202093000 -0600" stop="20210202100500 -0600" channel="FX">
+  <programme start="20210201093000 -0600" stop="20210201100500 -0600" channel="FX">
     <title lang="es">The Titan Games</title>
     <title lang="xx">The Titan Games</title>
     <desc lang="es">Inspirada en el deseo de Dwayne Johnson de motivar a la audiencia para alcanzar su potencial tanto mental como físico, para ingresar a la arena Titan.</desc>
@@ -6930,27 +7075,27 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202100500 -0600" stop="20210202102500 -0600" channel="FX">
+  <programme start="20210201100500 -0600" stop="20210201102500 -0600" channel="FX">
     <title lang="es">Bob's Burgers</title>
     <episode-num system="onscreen">S9 E10</episode-num>
   </programme>
-  <programme start="20210202102500 -0600" stop="20210202104000 -0600" channel="FX">
+  <programme start="20210201102500 -0600" stop="20210201104000 -0600" channel="FX">
     <title lang="es">Bob's Burgers</title>
     <episode-num system="onscreen">S7 E8</episode-num>
   </programme>
-  <programme start="20210202104000 -0600" stop="20210202110500 -0600" channel="FX">
+  <programme start="20210201104000 -0600" stop="20210201110500 -0600" channel="FX">
     <title lang="es">American Dad</title>
     <episode-num system="onscreen">S11 E10</episode-num>
   </programme>
-  <programme start="20210202110500 -0600" stop="20210202112500 -0600" channel="FX">
+  <programme start="20210201110500 -0600" stop="20210201112500 -0600" channel="FX">
     <title lang="es">American Dad</title>
     <episode-num system="onscreen">S9 E12</episode-num>
   </programme>
-  <programme start="20210202112500 -0600" stop="20210202121000 -0600" channel="FX">
+  <programme start="20210201112500 -0600" stop="20210201121000 -0600" channel="FX">
     <title lang="es">Stargate Atlantis</title>
     <episode-num system="onscreen">S4 E20</episode-num>
   </programme>
-  <programme start="20210202121000 -0600" stop="20210202125000 -0600" channel="FX">
+  <programme start="20210201121000 -0600" stop="20210201125000 -0600" channel="FX">
     <title lang="es">The Titan Games</title>
     <title lang="xx">The Titan Games</title>
     <desc lang="es">Inspirada en el deseo de Dwayne Johnson de motivar a la audiencia para alcanzar su potencial tanto mental como físico, para ingresar a la arena Titan.</desc>
@@ -6966,23 +7111,23 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202125000 -0600" stop="20210202131500 -0600" channel="FX">
+  <programme start="20210201125000 -0600" stop="20210201131500 -0600" channel="FX">
     <title lang="es">Bob's Burgers</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20210202131500 -0600" stop="20210202133500 -0600" channel="FX">
+  <programme start="20210201131500 -0600" stop="20210201133500 -0600" channel="FX">
     <title lang="es">Bob's Burgers</title>
     <episode-num system="onscreen">S9 E11</episode-num>
   </programme>
-  <programme start="20210202133500 -0600" stop="20210202140500 -0600" channel="FX">
+  <programme start="20210201133500 -0600" stop="20210201140500 -0600" channel="FX">
     <title lang="es">American Dad</title>
     <episode-num system="onscreen">S11 E11</episode-num>
   </programme>
-  <programme start="20210202140500 -0600" stop="20210202144500 -0600" channel="FX">
+  <programme start="20210201140500 -0600" stop="20210201144500 -0600" channel="FX">
     <title lang="es">American Dad</title>
     <episode-num system="onscreen">S9 E13</episode-num>
   </programme>
-  <programme start="20210202144500 -0600" stop="20210202174500 -0600" channel="FX">
+  <programme start="20210201144500 -0600" stop="20210201174500 -0600" channel="FX">
     <title lang="es">El Hobbit: Un Viaje Inesperado</title>
     <desc lang="es">2012 Un curioso Hobbit, Bilbo Baggins y un grupo de enanos valientes, viajan a la montaña solitaria a reclamar un tesoro que les fue robado por el dragón Smaug.</desc>
     <credits>
@@ -7005,10 +7150,10 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210202174500 -0600" stop="20210202195200 -0600" channel="FX">
+  <programme start="20210201174500 -0600" stop="20210201195200 -0600" channel="FX">
     <title lang="es">Indiana Jones y los cazadores</title>
   </programme>
-  <programme start="20210202195200 -0600" stop="20210202220000 -0600" channel="FX">
+  <programme start="20210201195200 -0600" stop="20210201220000 -0600" channel="FX">
     <title lang="es">Más Allá de la Montaña</title>
     <title lang="xx">The Mountain Between Us</title>
     <desc lang="es">Dos desconocidos quedan atrapados tras un accidente aéreo en una montaña nevada.  Ahora deberán buscar la manera de salir y sobrevivir a la catástrofe.</desc>
@@ -7025,11 +7170,329 @@
       <value>PG-13</value>
     </rating>
   </programme>
+  <programme start="20210201220000 -0600" stop="20210202001500 -0600" channel="FX">
+    <title lang="es">El Depredador</title>
+  </programme>
   <programme start="20210202220000 -0600" stop="20210203001500 -0600" channel="FX">
     <title lang="es">El Depredador</title>
   </programme>
-  <programme start="20210203220000 -0600" stop="20210204001500 -0600" channel="FX">
-    <title lang="es">El Depredador</title>
+  <programme start="20210203001500 -0600" stop="20210203020000 -0600" channel="FX">
+    <title lang="es">Culto a Chucky</title>
+  </programme>
+  <programme start="20210203020000 -0600" stop="20210203022000 -0600" channel="FX">
+    <title lang="es">Padre de Familia</title>
+    <title lang="xx">Family Guy</title>
+    <desc lang="es">Los Griffin son una familia con un padre que dice lo que piensa, una madre amorosa, una hija adolescente, un hijo de 13 años, un niño de un año y un perro.</desc>
+    <credits>
+      <actor>Seth MacFarlane</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Seth Green</actor>
+      <actor>Lacey Chabert</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Mike Henry</actor>
+      <producer>Shannon Smith</producer>
+      <producer>Julius Sharpe</producer>
+      <composer>Walter Murphy</composer>
+      <composer>Ron Jones</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/padre_de_familia.jpg" />
+    <episode-num system="onscreen">S15 E5</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210203022000 -0600" stop="20210203024500 -0600" channel="FX">
+    <title lang="es">Padre de Familia</title>
+    <title lang="xx">Family Guy</title>
+    <desc lang="es">Los Griffin son una familia con un padre que dice lo que piensa, una madre amorosa, una hija adolescente, un hijo de 13 años, un niño de un año y un perro.</desc>
+    <credits>
+      <actor>Seth MacFarlane</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Seth Green</actor>
+      <actor>Lacey Chabert</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Mike Henry</actor>
+      <producer>Shannon Smith</producer>
+      <producer>Julius Sharpe</producer>
+      <composer>Walter Murphy</composer>
+      <composer>Ron Jones</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/padre_de_familia.jpg" />
+    <episode-num system="onscreen">S13 E14</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210203024500 -0600" stop="20210203032000 -0600" channel="FX">
+    <title lang="es">Padre de Familia</title>
+    <title lang="xx">Family Guy</title>
+    <desc lang="es">Los Griffin son una familia con un padre que dice lo que piensa, una madre amorosa, una hija adolescente, un hijo de 13 años, un niño de un año y un perro.</desc>
+    <credits>
+      <actor>Seth MacFarlane</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Seth Green</actor>
+      <actor>Lacey Chabert</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Mike Henry</actor>
+      <producer>Shannon Smith</producer>
+      <producer>Julius Sharpe</producer>
+      <composer>Walter Murphy</composer>
+      <composer>Ron Jones</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/padre_de_familia.jpg" />
+    <episode-num system="onscreen">S9 E20</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210203032000 -0600" stop="20210203034500 -0600" channel="FX">
+    <title lang="es">Padre de Familia</title>
+    <title lang="xx">Family Guy</title>
+    <desc lang="es">Los Griffin son una familia con un padre que dice lo que piensa, una madre amorosa, una hija adolescente, un hijo de 13 años, un niño de un año y un perro.</desc>
+    <credits>
+      <actor>Seth MacFarlane</actor>
+      <actor>Alex Borstein</actor>
+      <actor>Seth Green</actor>
+      <actor>Lacey Chabert</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Mike Henry</actor>
+      <producer>Shannon Smith</producer>
+      <producer>Julius Sharpe</producer>
+      <composer>Walter Murphy</composer>
+      <composer>Ron Jones</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/padre_de_familia.jpg" />
+    <episode-num system="onscreen">S18 E7</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210203034500 -0600" stop="20210203042800 -0600" channel="FX">
+    <title lang="es">Heathers</title>
+    <title lang="xx">Heathers</title>
+    <desc lang="es">Una serie de humor negro donde un alumno marginado conspira para asesinar a los chicos geniales. El drama, el amor, la rivalidad en una obra moderna.</desc>
+    <credits>
+      <actor>Grace Victoria Cox</actor>
+      <actor>James Scully</actor>
+      <actor>Melanie Field</actor>
+      <actor>Brendan Scannell</actor>
+      <actor>Jasmine Mathews</actor>
+      <writer>"Heathers" de Daniel Waters</writer>
+      <producer>Keith Raskin</producer>
+      <composer>Chris Alan Lee</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/heathers.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20210203042800 -0600" stop="20210203051000 -0600" channel="FX">
+    <title lang="es">Heathers</title>
+    <title lang="xx">Heathers</title>
+    <desc lang="es">Una serie de humor negro donde un alumno marginado conspira para asesinar a los chicos geniales. El drama, el amor, la rivalidad en una obra moderna.</desc>
+    <credits>
+      <actor>Grace Victoria Cox</actor>
+      <actor>James Scully</actor>
+      <actor>Melanie Field</actor>
+      <actor>Brendan Scannell</actor>
+      <actor>Jasmine Mathews</actor>
+      <writer>"Heathers" de Daniel Waters</writer>
+      <producer>Keith Raskin</producer>
+      <composer>Chris Alan Lee</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/heathers.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20210203051000 -0600" stop="20210203061000 -0600" channel="FX">
+    <title lang="es">Run Coyote Run</title>
+    <title lang="xx">Run Coyote Run</title>
+    <desc lang="es">Un mexicano y un estadounidense unen fuerzas para crear una agencia de viajes turísticas para aquellos que les cuesta conseguir su visa americana.</desc>
+    <credits>
+      <actor>Macarena Miguel</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Jean Roland Dufresne</actor>
+      <actor>Maya Zapata</actor>
+      <actor>Byrdie Bell</actor>
+      <actor>T.J. Coulter</actor>
+      <actor>Noé Hernández</actor>
+      <actor>Fernando Gaviria</actor>
+      <producer>Gustavo Loza</producer>
+      <producer>Mónica Lozano</producer>
+      <composer>Blas Alberti</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/run_coyote_run.jpg" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20210203061000 -0600" stop="20210203070000 -0600" channel="FX">
+    <title lang="es">Stargate Atlantis</title>
+    <episode-num system="onscreen">S4 E20</episode-num>
+  </programme>
+  <programme start="20210203070000 -0600" stop="20210203085500 -0600" channel="FX">
+    <title lang="es">Indiana Jones y los cazadores</title>
+  </programme>
+  <programme start="20210203085500 -0600" stop="20210203094500 -0600" channel="FX">
+    <title lang="es">Stargate Atlantis</title>
+    <episode-num system="onscreen">S4 E20</episode-num>
+  </programme>
+  <programme start="20210203094500 -0600" stop="20210203103000 -0600" channel="FX">
+    <title lang="es">The Titan Games</title>
+    <title lang="xx">The Titan Games</title>
+    <desc lang="es">Inspirada en el deseo de Dwayne Johnson de motivar a la audiencia para alcanzar su potencial tanto mental como físico, para ingresar a la arena Titan.</desc>
+    <credits>
+      <actor>Dwayne Johnson</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_titan_games.jpg" />
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210203103000 -0600" stop="20210203110000 -0600" channel="FX">
+    <title lang="es">Bob's Burgers</title>
+    <episode-num system="onscreen">S9 E11</episode-num>
+  </programme>
+  <programme start="20210203110000 -0600" stop="20210203112500 -0600" channel="FX">
+    <title lang="es">Bob's Burgers</title>
+    <episode-num system="onscreen">S7 E9</episode-num>
+  </programme>
+  <programme start="20210203112500 -0600" stop="20210203120000 -0600" channel="FX">
+    <title lang="es">American Dad</title>
+    <episode-num system="onscreen">S11 E11</episode-num>
+  </programme>
+  <programme start="20210203120000 -0600" stop="20210203123000 -0600" channel="FX">
+    <title lang="es">American Dad</title>
+    <episode-num system="onscreen">S9 E13</episode-num>
+  </programme>
+  <programme start="20210203123000 -0600" stop="20210203131500 -0600" channel="FX">
+    <title lang="es">Stargate Atlantis</title>
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme start="20210203131500 -0600" stop="20210203141500 -0600" channel="FX">
+    <title lang="es">The Titan Games</title>
+    <title lang="xx">The Titan Games</title>
+    <desc lang="es">Inspirada en el deseo de Dwayne Johnson de motivar a la audiencia para alcanzar su potencial tanto mental como físico, para ingresar a la arena Titan.</desc>
+    <credits>
+      <actor>Dwayne Johnson</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_titan_games.jpg" />
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210203141500 -0600" stop="20210203145000 -0600" channel="FX">
+    <title lang="es">Bob's Burgers</title>
+    <episode-num system="onscreen">S7 E10</episode-num>
+  </programme>
+  <programme start="20210203145000 -0600" stop="20210203152000 -0600" channel="FX">
+    <title lang="es">Bob's Burgers</title>
+    <episode-num system="onscreen">S9 E12</episode-num>
+  </programme>
+  <programme start="20210203152000 -0600" stop="20210203154500 -0600" channel="FX">
+    <title lang="es">American Dad</title>
+    <episode-num system="onscreen">S11</episode-num>
+  </programme>
+  <programme start="20210203154500 -0600" stop="20210203161000 -0600" channel="FX">
+    <title lang="es">American Dad</title>
+    <episode-num system="onscreen">S9 E14</episode-num>
+  </programme>
+  <programme start="20210203161000 -0600" stop="20210203175100 -0600" channel="FX">
+    <title lang="es">Hombres de Negro</title>
+    <title lang="xx">Men in Black</title>
+    <desc lang="es">Los agentes Kay y Jay deben detener a un terrorista intergaláctico que llegó a la Tierra para asesinar a dos embajadores de galaxias opuestas.</desc>
+    <credits>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Will Smith</actor>
+      <actor>Linda Fiorentino</actor>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Rip Torn</actor>
+      <actor>Tony Shalhoub</actor>
+      <producer>Walter F. Parkes</producer>
+      <producer>Laurie MacDonald</producer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>1997</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hombres_de_negro.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210203175100 -0600" stop="20210203201000 -0600" channel="FX">
+    <title lang="es">La Torre Oscura</title>
+    <title lang="xx">The Dark Tower</title>
+    <desc lang="es">Un pistolero busca la Torre Oscura para poder salvar su mundo, pero su camino estará bloqueado por monstruos y un hechicero conocido como el hombre de negro.</desc>
+    <credits>
+      <actor>Idris Elba</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Tom Taylor</actor>
+      <producer>Akiva Goldsman</producer>
+      <producer>Brian Grazer</producer>
+      <composer>Junkie XL</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_torre_oscura.jpg" />
+  </programme>
+  <programme start="20210203201000 -0600" stop="20210203220000 -0600" channel="FX">
+    <title lang="es">Desaparecido</title>
+  </programme>
+  <programme start="20210203220000 -0600" stop="20210203233400 -0600" channel="FX">
+    <title lang="es">Hancock</title>
+    <desc lang="es">La vida de un superhéroe de la ciudad Los Ángeles está por cambiar cuando salva la vida de un hombre cuya esposa esconde un secreto sobre su misterioso pasado.</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Jason Bateman</actor>
+      <actor>Eddie Marsan</actor>
+      <producer>Akiva Goldsman</producer>
+      <producer>James Lassiter</producer>
+      <composer>John Powell</composer>
+    </credits>
+    <date>2008</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hancock.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210203233400 -0600" stop="20210204013000 -0600" channel="FX">
+    <title lang="es">Cincuenta Sombras más Oscuras</title>
+    <desc lang="es">Grey busca regresar con Ana, esta vez deberá luchar contra sus demonios internos y Anastasia deberá enfrentar la ira y la envida de las mujeres previas a ella.</desc>
+    <credits>
+      <actor>Jamie Dornan</actor>
+      <actor>Dakota Johnson</actor>
+      <producer>Dana Brunetti</producer>
+      <producer>Michael De Luca</producer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_mas_oscuras.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
   </programme>
   <programme start="20210130010000 -0600" stop="20210130023000 -0600" channel="Unicable">
     <title lang="es">Sin senos si hay paraíso</title>
@@ -7489,7 +7952,7 @@
   <programme start="20210131174000 -0600" stop="20210131183000 -0600" channel="Telemundo Internacional">
     <title lang="es">Lo mejor de caso cerrado</title>
   </programme>
-  <programme start="20210131192000 -0600" stop="20210131213000 -0600" channel="Telemundo Internacional">
+  <programme start="20210131213000 -0600" stop="20210131233000 -0600" channel="Telemundo Internacional">
     <title lang="es">Caso Cerrado</title>
   </programme>
   <programme start="20210201032000 -0600" stop="20210201041000 -0600" channel="Telemundo Internacional">
@@ -7996,13 +8459,10 @@
   <programme start="20210130220000 -0600" stop="20210131000500 -0600" channel="Warner">
     <title lang="es">¿Quién *&amp;$%! son los Miller</title>
   </programme>
-  <programme start="20210131220000 -0600" stop="20210201000500 -0600" channel="Warner">
-    <title lang="es">¿Quién *&amp;$%! son los Miller</title>
-  </programme>
-  <programme start="20210201000500 -0600" stop="20210201020000 -0600" channel="Warner">
+  <programme start="20210131000500 -0600" stop="20210131020000 -0600" channel="Warner">
     <title lang="es">Super cool</title>
   </programme>
-  <programme start="20210201020000 -0600" stop="20210201022400 -0600" channel="Warner">
+  <programme start="20210131020000 -0600" stop="20210131022400 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8017,7 +8477,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E13</episode-num>
   </programme>
-  <programme start="20210201022400 -0600" stop="20210201024700 -0600" channel="Warner">
+  <programme start="20210131022400 -0600" stop="20210131024700 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8032,7 +8492,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E14</episode-num>
   </programme>
-  <programme start="20210201024700 -0600" stop="20210201030900 -0600" channel="Warner">
+  <programme start="20210131024700 -0600" stop="20210131030900 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8047,7 +8507,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E15</episode-num>
   </programme>
-  <programme start="20210201030900 -0600" stop="20210201033300 -0600" channel="Warner">
+  <programme start="20210131030900 -0600" stop="20210131033300 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8062,7 +8522,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E16</episode-num>
   </programme>
-  <programme start="20210201033300 -0600" stop="20210201035500 -0600" channel="Warner">
+  <programme start="20210131033300 -0600" stop="20210131035500 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8082,7 +8542,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201035500 -0600" stop="20210201041600 -0600" channel="Warner">
+  <programme start="20210131035500 -0600" stop="20210131041600 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8102,7 +8562,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201041600 -0600" stop="20210201043800 -0600" channel="Warner">
+  <programme start="20210131041600 -0600" stop="20210131043800 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8122,7 +8582,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201043800 -0600" stop="20210201060000 -0600" channel="Warner">
+  <programme start="20210131043800 -0600" stop="20210131060000 -0600" channel="Warner">
     <title lang="es">The Flash</title>
     <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo.</desc>
     <credits>
@@ -8137,7 +8597,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_flash.jpg" />
     <episode-num system="onscreen">S5 E9</episode-num>
   </programme>
-  <programme start="20210201060000 -0600" stop="20210201073900 -0600" channel="Warner">
+  <programme start="20210131060000 -0600" stop="20210131073900 -0600" channel="Warner">
     <title lang="es">The Middle</title>
     <title lang="xx">The Middle</title>
     <desc lang="es">Una familia en el centro del país en Orson, Indiana, una madre que usa su ingenio para mantener a su familia unida mientras trabaja como asistente dental.</desc>
@@ -8158,11 +8618,11 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_middle.jpg" />
     <episode-num system="onscreen">S9 E14</episode-num>
   </programme>
-  <programme start="20210201073900 -0600" stop="20210201080200 -0600" channel="Warner">
+  <programme start="20210131073900 -0600" stop="20210131080200 -0600" channel="Warner">
     <title lang="es">Mom</title>
     <episode-num system="onscreen">S6 E9</episode-num>
   </programme>
-  <programme start="20210201080200 -0600" stop="20210201082400 -0600" channel="Warner">
+  <programme start="20210131080200 -0600" stop="20210131082400 -0600" channel="Warner">
     <title lang="es">Young Sheldon</title>
     <title lang="xx">Young Sheldon</title>
     <desc lang="es">Un niño de 9 años con una mente única capaz de entender matemáticas y ciencias avanzadas que no siempre es de gran ayuda en el estado de Texas.</desc>
@@ -8181,7 +8641,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/young_sheldon.jpg" />
     <episode-num system="onscreen">S3 E9</episode-num>
   </programme>
-  <programme start="20210201082400 -0600" stop="20210201084900 -0600" channel="Warner">
+  <programme start="20210131082400 -0600" stop="20210131084900 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8196,7 +8656,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E17</episode-num>
   </programme>
-  <programme start="20210201084900 -0600" stop="20210201091300 -0600" channel="Warner">
+  <programme start="20210131084900 -0600" stop="20210131091300 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8211,7 +8671,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E18</episode-num>
   </programme>
-  <programme start="20210201091300 -0600" stop="20210201093600 -0600" channel="Warner">
+  <programme start="20210131091300 -0600" stop="20210131093600 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8226,7 +8686,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E19</episode-num>
   </programme>
-  <programme start="20210201093600 -0600" stop="20210201100100 -0600" channel="Warner">
+  <programme start="20210131093600 -0600" stop="20210131100100 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8241,7 +8701,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E20</episode-num>
   </programme>
-  <programme start="20210201100100 -0600" stop="20210201102600 -0600" channel="Warner">
+  <programme start="20210131100100 -0600" stop="20210131102600 -0600" channel="Warner">
     <title lang="es">Friends</title>
     <desc lang="es">La vida, amores, risas de Rachel, Monica, Phoebe, Joey, Chandler y Ross, seis amigos que viven en la ciudad de Nueva York.</desc>
     <credits>
@@ -8260,7 +8720,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201102600 -0600" stop="20210201105000 -0600" channel="Warner">
+  <programme start="20210131102600 -0600" stop="20210131105000 -0600" channel="Warner">
     <title lang="es">Friends</title>
     <desc lang="es">La vida, amores, risas de Rachel, Monica, Phoebe, Joey, Chandler y Ross, seis amigos que viven en la ciudad de Nueva York.</desc>
     <credits>
@@ -8279,7 +8739,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201105000 -0600" stop="20210201111200 -0600" channel="Warner">
+  <programme start="20210131105000 -0600" stop="20210131111200 -0600" channel="Warner">
     <title lang="es">Friends</title>
     <desc lang="es">La vida, amores, risas de Rachel, Monica, Phoebe, Joey, Chandler y Ross, seis amigos que viven en la ciudad de Nueva York.</desc>
     <credits>
@@ -8298,7 +8758,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201111200 -0600" stop="20210201113400 -0600" channel="Warner">
+  <programme start="20210131111200 -0600" stop="20210131113400 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8318,7 +8778,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201113400 -0600" stop="20210201115700 -0600" channel="Warner">
+  <programme start="20210131113400 -0600" stop="20210131115700 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8338,7 +8798,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201115700 -0600" stop="20210201122100 -0600" channel="Warner">
+  <programme start="20210131115700 -0600" stop="20210131122100 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8358,7 +8818,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201122100 -0600" stop="20210201124300 -0600" channel="Warner">
+  <programme start="20210131122100 -0600" stop="20210131124300 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8378,75 +8838,75 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210201124300 -0600" stop="20210201130000 -0600" channel="Warner">
+  <programme start="20210131124300 -0600" stop="20210131130000 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S6 E14</episode-num>
   </programme>
-  <programme start="20210201130000 -0600" stop="20210201133000 -0600" channel="Warner">
+  <programme start="20210131130000 -0600" stop="20210131133000 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S6 E15</episode-num>
   </programme>
-  <programme start="20210201133000 -0600" stop="20210201135500 -0600" channel="Warner">
+  <programme start="20210131133000 -0600" stop="20210131135500 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S6 E16</episode-num>
   </programme>
-  <programme start="20210201135500 -0600" stop="20210201142000 -0600" channel="Warner">
+  <programme start="20210131135500 -0600" stop="20210131142000 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S6 E17</episode-num>
   </programme>
-  <programme start="20210201142000 -0600" stop="20210201144200 -0600" channel="Warner">
+  <programme start="20210131142000 -0600" stop="20210131144200 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20210201144200 -0600" stop="20210201150500 -0600" channel="Warner">
+  <programme start="20210131144200 -0600" stop="20210131150500 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E2</episode-num>
   </programme>
-  <programme start="20210201150500 -0600" stop="20210201153000 -0600" channel="Warner">
+  <programme start="20210131150500 -0600" stop="20210131153000 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E3</episode-num>
   </programme>
-  <programme start="20210201153000 -0600" stop="20210201155500 -0600" channel="Warner">
+  <programme start="20210131153000 -0600" stop="20210131155500 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E4</episode-num>
   </programme>
-  <programme start="20210201155500 -0600" stop="20210201162000 -0600" channel="Warner">
+  <programme start="20210131155500 -0600" stop="20210131162000 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E5</episode-num>
   </programme>
-  <programme start="20210201162000 -0600" stop="20210201164300 -0600" channel="Warner">
+  <programme start="20210131162000 -0600" stop="20210131164300 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E6</episode-num>
   </programme>
-  <programme start="20210201164300 -0600" stop="20210201170600 -0600" channel="Warner">
+  <programme start="20210131164300 -0600" stop="20210131170600 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E7</episode-num>
   </programme>
-  <programme start="20210201170600 -0600" stop="20210201173200 -0600" channel="Warner">
+  <programme start="20210131170600 -0600" stop="20210131173200 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E8</episode-num>
   </programme>
-  <programme start="20210201173200 -0600" stop="20210201175900 -0600" channel="Warner">
+  <programme start="20210131173200 -0600" stop="20210131175900 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20210201175900 -0600" stop="20210201182500 -0600" channel="Warner">
+  <programme start="20210131175900 -0600" stop="20210131182500 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20210201182500 -0600" stop="20210201185000 -0600" channel="Warner">
+  <programme start="20210131182500 -0600" stop="20210131185000 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E11</episode-num>
   </programme>
-  <programme start="20210201185000 -0600" stop="20210201191200 -0600" channel="Warner">
+  <programme start="20210131185000 -0600" stop="20210131191200 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E12</episode-num>
   </programme>
-  <programme start="20210201191200 -0600" stop="20210201193600 -0600" channel="Warner">
+  <programme start="20210131191200 -0600" stop="20210131193600 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E13</episode-num>
   </programme>
-  <programme start="20210201193600 -0600" stop="20210201220000 -0600" channel="Warner">
+  <programme start="20210131193600 -0600" stop="20210131220000 -0600" channel="Warner">
     <title lang="es">El Rey Arturo: La Leyenda de la Espada</title>
     <desc lang="es">Cuando el padre del pequeño Arturo es asesinado, su tío se apodera de la corona.  Pero todo está por cambiar cuando Arturo tome la espada de la piedra.</desc>
     <credits>
@@ -8465,10 +8925,10 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Reino Unido</country>
   </programme>
-  <programme start="20210201220000 -0600" stop="20210202002000 -0600" channel="Warner">
+  <programme start="20210131220000 -0600" stop="20210201002000 -0600" channel="Warner">
     <title lang="es">Escuadrón suicida</title>
   </programme>
-  <programme start="20210202002000 -0600" stop="20210202003900 -0600" channel="Warner">
+  <programme start="20210201002000 -0600" stop="20210201003900 -0600" channel="Warner">
     <title lang="es">Young Sheldon</title>
     <title lang="xx">Young Sheldon</title>
     <desc lang="es">Un niño de 9 años con una mente única capaz de entender matemáticas y ciencias avanzadas que no siempre es de gran ayuda en el estado de Texas.</desc>
@@ -8487,11 +8947,11 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/young_sheldon.jpg" />
     <episode-num system="onscreen">S4 E4</episode-num>
   </programme>
-  <programme start="20210202003900 -0600" stop="20210202010000 -0600" channel="Warner">
+  <programme start="20210201003900 -0600" stop="20210201010000 -0600" channel="Warner">
     <title lang="es">Miracle workers dark ages</title>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20210202010000 -0600" stop="20210202012400 -0600" channel="Warner">
+  <programme start="20210201010000 -0600" stop="20210201012400 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8506,7 +8966,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E17</episode-num>
   </programme>
-  <programme start="20210202012400 -0600" stop="20210202014900 -0600" channel="Warner">
+  <programme start="20210201012400 -0600" stop="20210201014900 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8521,7 +8981,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E18</episode-num>
   </programme>
-  <programme start="20210202014900 -0600" stop="20210202021100 -0600" channel="Warner">
+  <programme start="20210201014900 -0600" stop="20210201021100 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8536,7 +8996,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E19</episode-num>
   </programme>
-  <programme start="20210202021100 -0600" stop="20210202023600 -0600" channel="Warner">
+  <programme start="20210201021100 -0600" stop="20210201023600 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8551,7 +9011,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E20</episode-num>
   </programme>
-  <programme start="20210202023600 -0600" stop="20210202025800 -0600" channel="Warner">
+  <programme start="20210201023600 -0600" stop="20210201025800 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8571,7 +9031,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202025800 -0600" stop="20210202032000 -0600" channel="Warner">
+  <programme start="20210201025800 -0600" stop="20210201032000 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8591,7 +9051,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202032000 -0600" stop="20210202034100 -0600" channel="Warner">
+  <programme start="20210201032000 -0600" stop="20210201034100 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8611,7 +9071,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202040300 -0600" stop="20210202042600 -0600" channel="Warner">
+  <programme start="20210201040300 -0600" stop="20210201042600 -0600" channel="Warner">
     <title lang="es">Friends</title>
     <desc lang="es">La vida, amores, risas de Rachel, Monica, Phoebe, Joey, Chandler y Ross, seis amigos que viven en la ciudad de Nueva York.</desc>
     <credits>
@@ -8630,7 +9090,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202042600 -0600" stop="20210202060000 -0600" channel="Warner">
+  <programme start="20210201042600 -0600" stop="20210201060000 -0600" channel="Warner">
     <title lang="es">The Flash</title>
     <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo.</desc>
     <credits>
@@ -8645,7 +9105,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_flash.jpg" />
     <episode-num system="onscreen">S5 E10</episode-num>
   </programme>
-  <programme start="20210202060000 -0600" stop="20210202074300 -0600" channel="Warner">
+  <programme start="20210201060000 -0600" stop="20210201074300 -0600" channel="Warner">
     <title lang="es">The Flash</title>
     <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo.</desc>
     <credits>
@@ -8660,7 +9120,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_flash.jpg" />
     <episode-num system="onscreen">S5 E11</episode-num>
   </programme>
-  <programme start="20210202074300 -0600" stop="20210202080400 -0600" channel="Warner">
+  <programme start="20210201074300 -0600" stop="20210201080400 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8680,7 +9140,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202080400 -0600" stop="20210202082700 -0600" channel="Warner">
+  <programme start="20210201080400 -0600" stop="20210201082700 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8700,7 +9160,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202082700 -0600" stop="20210202084700 -0600" channel="Warner">
+  <programme start="20210201082700 -0600" stop="20210201084700 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8720,11 +9180,11 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202084700 -0600" stop="20210202090800 -0600" channel="Warner">
+  <programme start="20210201084700 -0600" stop="20210201090800 -0600" channel="Warner">
     <title lang="es">Mom</title>
     <episode-num system="onscreen">S6 E10</episode-num>
   </programme>
-  <programme start="20210202090800 -0600" stop="20210202092900 -0600" channel="Warner">
+  <programme start="20210201090800 -0600" stop="20210201092900 -0600" channel="Warner">
     <title lang="es">Young Sheldon</title>
     <title lang="xx">Young Sheldon</title>
     <desc lang="es">Un niño de 9 años con una mente única capaz de entender matemáticas y ciencias avanzadas que no siempre es de gran ayuda en el estado de Texas.</desc>
@@ -8743,7 +9203,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/young_sheldon.jpg" />
     <episode-num system="onscreen">S3 E10</episode-num>
   </programme>
-  <programme start="20210202092900 -0600" stop="20210202095300 -0600" channel="Warner">
+  <programme start="20210201092900 -0600" stop="20210201095300 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8758,7 +9218,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E21</episode-num>
   </programme>
-  <programme start="20210202095300 -0600" stop="20210202104000 -0600" channel="Warner">
+  <programme start="20210201095300 -0600" stop="20210201104000 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8773,7 +9233,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E22</episode-num>
   </programme>
-  <programme start="20210202104000 -0600" stop="20210202110500 -0600" channel="Warner">
+  <programme start="20210201104000 -0600" stop="20210201110500 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8788,7 +9248,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S5 E1</episode-num>
   </programme>
-  <programme start="20210202110500 -0600" stop="20210202112900 -0600" channel="Warner">
+  <programme start="20210201110500 -0600" stop="20210201112900 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -8803,14 +9263,14 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S5 E2</episode-num>
   </programme>
-  <programme start="20210202112900 -0600" stop="20210202140300 -0600" channel="Warner">
+  <programme start="20210201112900 -0600" stop="20210201140300 -0600" channel="Warner">
     <title lang="es">El origen</title>
   </programme>
-  <programme start="20210202140300 -0600" stop="20210202142700 -0600" channel="Warner">
+  <programme start="20210201140300 -0600" stop="20210201142700 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S6 E18</episode-num>
   </programme>
-  <programme start="20210202142700 -0600" stop="20210202145100 -0600" channel="Warner">
+  <programme start="20210201142700 -0600" stop="20210201145100 -0600" channel="Warner">
     <title lang="es">Friends</title>
     <desc lang="es">La vida, amores, risas de Rachel, Monica, Phoebe, Joey, Chandler y Ross, seis amigos que viven en la ciudad de Nueva York.</desc>
     <credits>
@@ -8829,7 +9289,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202145100 -0600" stop="20210202151400 -0600" channel="Warner">
+  <programme start="20210201145100 -0600" stop="20210201151400 -0600" channel="Warner">
     <title lang="es">Friends</title>
     <desc lang="es">La vida, amores, risas de Rachel, Monica, Phoebe, Joey, Chandler y Ross, seis amigos que viven en la ciudad de Nueva York.</desc>
     <credits>
@@ -8848,7 +9308,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202151400 -0600" stop="20210202153700 -0600" channel="Warner">
+  <programme start="20210201151400 -0600" stop="20210201153700 -0600" channel="Warner">
     <title lang="es">Friends</title>
     <desc lang="es">La vida, amores, risas de Rachel, Monica, Phoebe, Joey, Chandler y Ross, seis amigos que viven en la ciudad de Nueva York.</desc>
     <credits>
@@ -8867,7 +9327,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202153700 -0600" stop="20210202160000 -0600" channel="Warner">
+  <programme start="20210201153700 -0600" stop="20210201160000 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8887,7 +9347,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202160000 -0600" stop="20210202162200 -0600" channel="Warner">
+  <programme start="20210201160000 -0600" stop="20210201162200 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8907,7 +9367,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202162200 -0600" stop="20210202164400 -0600" channel="Warner">
+  <programme start="20210201162200 -0600" stop="20210201164400 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8927,7 +9387,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202164400 -0600" stop="20210202170500 -0600" channel="Warner">
+  <programme start="20210201164400 -0600" stop="20210201170500 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -8947,7 +9407,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210202170500 -0600" stop="20210202192600 -0600" channel="Warner">
+  <programme start="20210201170500 -0600" stop="20210201192600 -0600" channel="Warner">
     <title lang="es">El Rey Arturo: La Leyenda de la Espada</title>
     <desc lang="es">Cuando el padre del pequeño Arturo es asesinado, su tío se apodera de la corona.  Pero todo está por cambiar cuando Arturo tome la espada de la piedra.</desc>
     <credits>
@@ -8966,14 +9426,14 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Reino Unido</country>
   </programme>
-  <programme start="20210202192600 -0600" stop="20210202211000 -0600" channel="Warner">
+  <programme start="20210201192600 -0600" stop="20210201211000 -0600" channel="Warner">
     <title lang="es">Lluvia de hamburguesas 2</title>
   </programme>
-  <programme start="20210202211000 -0600" stop="20210202213500 -0600" channel="Warner">
+  <programme start="20210201211000 -0600" stop="20210201213500 -0600" channel="Warner">
     <title lang="es">Search party</title>
     <episode-num system="onscreen">S3 E8</episode-num>
   </programme>
-  <programme start="20210202213500 -0600" stop="20210202220000 -0600" channel="Warner">
+  <programme start="20210201213500 -0600" stop="20210201220000 -0600" channel="Warner">
     <title lang="es">Young Sheldon</title>
     <title lang="xx">Young Sheldon</title>
     <desc lang="es">Un niño de 9 años con una mente única capaz de entender matemáticas y ciencias avanzadas que no siempre es de gran ayuda en el estado de Texas.</desc>
@@ -8992,14 +9452,14 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/young_sheldon.jpg" />
     <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
-  <programme start="20210202220000 -0600" stop="20210203010000 -0600" channel="Warner">
+  <programme start="20210201220000 -0600" stop="20210202010000 -0600" channel="Warner">
     <title lang="es">¿Y dónde están las rubias</title>
   </programme>
-  <programme start="20210203010000 -0600" stop="20210203012300 -0600" channel="Warner">
+  <programme start="20210202010000 -0600" stop="20210202012300 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S6 E18</episode-num>
   </programme>
-  <programme start="20210203012300 -0600" stop="20210203014700 -0600" channel="Warner">
+  <programme start="20210202012300 -0600" stop="20210202014700 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -9014,7 +9474,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E21</episode-num>
   </programme>
-  <programme start="20210203014700 -0600" stop="20210203023300 -0600" channel="Warner">
+  <programme start="20210202014700 -0600" stop="20210202023300 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -9029,7 +9489,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S4 E22</episode-num>
   </programme>
-  <programme start="20210203023300 -0600" stop="20210203025800 -0600" channel="Warner">
+  <programme start="20210202023300 -0600" stop="20210202025800 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -9044,7 +9504,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S5 E1</episode-num>
   </programme>
-  <programme start="20210203025800 -0600" stop="20210203032200 -0600" channel="Warner">
+  <programme start="20210202025800 -0600" stop="20210202032200 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -9059,7 +9519,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S5 E2</episode-num>
   </programme>
-  <programme start="20210203032200 -0600" stop="20210203034200 -0600" channel="Warner">
+  <programme start="20210202032200 -0600" stop="20210202034200 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -9079,7 +9539,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210203034200 -0600" stop="20210203040300 -0600" channel="Warner">
+  <programme start="20210202034200 -0600" stop="20210202040300 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -9099,7 +9559,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210203040300 -0600" stop="20210203042400 -0600" channel="Warner">
+  <programme start="20210202040300 -0600" stop="20210202042400 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -9119,7 +9579,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210203042400 -0600" stop="20210203060000 -0600" channel="Warner">
+  <programme start="20210202042400 -0600" stop="20210202060000 -0600" channel="Warner">
     <title lang="es">The Middle</title>
     <title lang="xx">The Middle</title>
     <desc lang="es">Una familia en el centro del país en Orson, Indiana, una madre que usa su ingenio para mantener a su familia unida mientras trabaja como asistente dental.</desc>
@@ -9140,7 +9600,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_middle.jpg" />
     <episode-num system="onscreen">S9 E15</episode-num>
   </programme>
-  <programme start="20210203060000 -0600" stop="20210203080100 -0600" channel="Warner">
+  <programme start="20210202060000 -0600" stop="20210202080100 -0600" channel="Warner">
     <title lang="es">The Middle</title>
     <title lang="xx">The Middle</title>
     <desc lang="es">Una familia en el centro del país en Orson, Indiana, una madre que usa su ingenio para mantener a su familia unida mientras trabaja como asistente dental.</desc>
@@ -9161,7 +9621,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_middle.jpg" />
     <episode-num system="onscreen">S9 E18</episode-num>
   </programme>
-  <programme start="20210203080100 -0600" stop="20210203084400 -0600" channel="Warner">
+  <programme start="20210202080100 -0600" stop="20210202084400 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -9181,7 +9641,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210203084400 -0600" stop="20210203090400 -0600" channel="Warner">
+  <programme start="20210202084400 -0600" stop="20210202090400 -0600" channel="Warner">
     <title lang="es">Young Sheldon</title>
     <title lang="xx">Young Sheldon</title>
     <desc lang="es">Un niño de 9 años con una mente única capaz de entender matemáticas y ciencias avanzadas que no siempre es de gran ayuda en el estado de Texas.</desc>
@@ -9200,7 +9660,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/young_sheldon.jpg" />
     <episode-num system="onscreen">S3 E11</episode-num>
   </programme>
-  <programme start="20210203090400 -0600" stop="20210203092900 -0600" channel="Warner">
+  <programme start="20210202090400 -0600" stop="20210202092900 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -9215,7 +9675,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S5 E3</episode-num>
   </programme>
-  <programme start="20210203092900 -0600" stop="20210203095300 -0600" channel="Warner">
+  <programme start="20210202092900 -0600" stop="20210202095300 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -9230,7 +9690,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S5 E4</episode-num>
   </programme>
-  <programme start="20210203095300 -0600" stop="20210203101700 -0600" channel="Warner">
+  <programme start="20210202095300 -0600" stop="20210202101700 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -9245,7 +9705,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
-  <programme start="20210203101700 -0600" stop="20210203103900 -0600" channel="Warner">
+  <programme start="20210202101700 -0600" stop="20210202103900 -0600" channel="Warner">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry Seinfeld es un comediante que junto con sus amigos Kramer, George y su ex novia Elaine, discuten situaciones de la vida cotidiana.</desc>
     <credits>
@@ -9260,17 +9720,17 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/seinfeld.jpg" />
     <episode-num system="onscreen">S5 E6</episode-num>
   </programme>
-  <programme start="20210203103900 -0600" stop="20210203131300 -0600" channel="Warner">
+  <programme start="20210202103900 -0600" stop="20210202131300 -0600" channel="Warner">
     <title lang="es">El origen</title>
   </programme>
-  <programme start="20210203131300 -0600" stop="20210203151000 -0600" channel="Warner">
+  <programme start="20210202131300 -0600" stop="20210202151000 -0600" channel="Warner">
     <title lang="es">El ilusionista</title>
   </programme>
-  <programme start="20210203151000 -0600" stop="20210203162400 -0600" channel="Warner">
+  <programme start="20210202151000 -0600" stop="20210202162400 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20210203162400 -0600" stop="20210203164700 -0600" channel="Warner">
+  <programme start="20210202162400 -0600" stop="20210202164700 -0600" channel="Warner">
     <title lang="es">Friends</title>
     <desc lang="es">La vida, amores, risas de Rachel, Monica, Phoebe, Joey, Chandler y Ross, seis amigos que viven en la ciudad de Nueva York.</desc>
     <credits>
@@ -9289,7 +9749,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210203164700 -0600" stop="20210203170600 -0600" channel="Warner">
+  <programme start="20210202164700 -0600" stop="20210202170600 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -9309,7 +9769,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210203170600 -0600" stop="20210203175300 -0600" channel="Warner">
+  <programme start="20210202170600 -0600" stop="20210202175300 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -9329,7 +9789,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210203175300 -0600" stop="20210203181400 -0600" channel="Warner">
+  <programme start="20210202175300 -0600" stop="20210202181400 -0600" channel="Warner">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos.</desc>
     <credits>
@@ -9349,13 +9809,13 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20210203181400 -0600" stop="20210203195900 -0600" channel="Warner">
+  <programme start="20210202181400 -0600" stop="20210202195900 -0600" channel="Warner">
     <title lang="es">Lluvia de hamburguesas 2</title>
   </programme>
-  <programme start="20210203195900 -0600" stop="20210203235000 -0600" channel="Warner">
+  <programme start="20210202195900 -0600" stop="20210202235000 -0600" channel="Warner">
     <title lang="es">¿Y dónde están las rubias</title>
   </programme>
-  <programme start="20210203235000 -0600" stop="20210204001900 -0600" channel="Warner">
+  <programme start="20210202235000 -0600" stop="20210203001900 -0600" channel="Warner">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
@@ -14500,8 +14960,8 @@
   <programme start="20210131193000 -0600" stop="20210131200000 -0600" channel="Mas Chic">
     <title lang="es">Fiestas al aire libre</title>
   </programme>
-  <programme start="20210131210000 -0600" stop="20210131213000 -0600" channel="Mas Chic">
-    <title lang="es">Paisajes con firma</title>
+  <programme start="20210131220000 -0600" stop="20210131223000 -0600" channel="Mas Chic">
+    <title lang="es">Los salvafiestas</title>
   </programme>
   <programme start="20210201003000 -0600" stop="20210201010000 -0600" channel="Mas Chic">
     <title lang="es">Fashion Week: Madrid 2020</title>
@@ -15007,8 +15467,8 @@
   <programme start="20210131190000 -0600" stop="20210131193000 -0600" channel="El Gourmet">
     <title lang="es">Viajes con sabor Perú</title>
   </programme>
-  <programme start="20210131210000 -0600" stop="20210131213000 -0600" channel="El Gourmet">
-    <title lang="es">Como se elabora</title>
+  <programme start="20210131220000 -0600" stop="20210131230000 -0600" channel="El Gourmet">
+    <title lang="es">Me voy a comer el mundo</title>
   </programme>
   <programme start="20210201000000 -0600" stop="20210201003000 -0600" channel="El Gourmet">
     <title lang="es">Panes y postres al fuego</title>
@@ -20121,8 +20581,8 @@
   <programme start="20210131160000 -0600" stop="20210131170000 -0600" channel="Glitz">
     <title lang="es">¿Quién tiene la razón</title>
   </programme>
-  <programme start="20210131210000 -0600" stop="20210131220000 -0600" channel="Glitz">
-    <title lang="es">¿Quién tiene la razón</title>
+  <programme start="20210131220000 -0600" stop="20210131230000 -0600" channel="Glitz">
+    <title lang="es">Casos de Familia</title>
   </programme>
   <programme start="20210131230000 -0600" stop="20210201000000 -0600" channel="Glitz">
     <title lang="es">Soñar no cuesta nada</title>
@@ -25298,8 +25758,8 @@
   <programme start="20210131003000 -0600" stop="20210131020000 -0600" channel="BabyFirst">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
-  <programme start="20210131210000 -0600" stop="20210131213000 -0600" channel="BabyFirst">
-    <title lang="es">Mamá y Yo - Cantemos</title>
+  <programme start="20210131220000 -0600" stop="20210131223000 -0600" channel="BabyFirst">
+    <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
   <programme start="20210130003000 -0600" stop="20210130010000 -0600" channel="BabyTV">
     <title lang="es">Dulces Sueños</title>
@@ -25442,7 +25902,7 @@
   <programme start="20210130233000 -0600" stop="20210131000000 -0600" channel="BabyTV">
     <title lang="es">La luna y las estrellas</title>
   </programme>
-  <programme start="20210131210000 -0600" stop="20210131213000 -0600" channel="BabyTV">
+  <programme start="20210131220000 -0600" stop="20210131223000 -0600" channel="BabyTV">
     <title lang="es">Noches de ensueño</title>
   </programme>
   <programme start="20210130002500 -0600" stop="20210130005000 -0600" channel="Discovery Kids">
@@ -27181,6 +27641,28 @@
   </programme>
   <programme start="20210131210000 -0600" stop="20210131212000 -0600" channel="TeenNick">
     <title lang="es">The Bureau of Magical Things</title>
+  </programme>
+  <programme start="20210131220000 -0600" stop="20210131222500 -0600" channel="TeenNick">
+    <title lang="es">The Thundermans</title>
+    <title lang="xx">The Thundermans</title>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor.</desc>
+    <credits>
+      <actor>Kira Kosarin</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Diego Velázquez</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Rosa Blasi</actor>
+      <actor>Maya Le Clark</actor>
+      <producer>Dan Cross</producer>
+      <producer>David Hoge</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_thundermans.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20210201031000 -0600" stop="20210201033000 -0600" channel="TeenNick">
     <title lang="es">WITS Academy</title>
@@ -31716,20 +32198,8 @@
   <programme start="20210131000000 -0600" stop="20210131010000 -0600" channel="Boomerang">
     <title lang="es">¡Ponte en onda, Scooby Doo</title>
   </programme>
-  <programme start="20210131203000 -0600" stop="20210131213000 -0600" channel="Boomerang">
-    <title lang="es">Mr. Bean</title>
-    <title lang="xx">Mr. Bean: The Animated Series</title>
-    <desc lang="es">Mr. Bean, un hombre solitario junto a su osito de peluche Teddy viven mil y una aventuras en las calles de Londres con su excéntrica forma de comportarse.</desc>
-    <credits>
-      <producer>Claudia Lloyd</producer>
-      <producer>Tom Beattie</producer>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/mr_bean.jpg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
+  <programme start="20210131213000 -0600" stop="20210131223000 -0600" channel="Boomerang">
+    <title lang="es">New Looney Tunes</title>
   </programme>
   <programme start="20210201070000 -0600" stop="20210201080000 -0600" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
@@ -35836,8 +36306,8 @@
   <programme start="20210131150000 -0600" stop="20210131170000 -0600" channel="Bitme">
     <title lang="es">L.O.R.D</title>
   </programme>
-  <programme start="20210131203000 -0600" stop="20210131220000 -0600" channel="Bitme">
-    <title lang="es">Cuenta pendiente</title>
+  <programme start="20210131220000 -0600" stop="20210131230000 -0600" channel="Bitme">
+    <title lang="es">Devil Survivor 2</title>
   </programme>
   <programme start="20210201000000 -0600" stop="20210201003000 -0600" channel="Bitme">
     <title lang="es">Strike the Blood</title>
@@ -38158,34 +38628,31 @@
   <programme start="20210130220000 -0600" stop="20210131001000 -0600" channel="Cinecanal">
     <title lang="es">Ted 2</title>
   </programme>
-  <programme start="20210131220000 -0600" stop="20210201001000 -0600" channel="Cinecanal">
-    <title lang="es">Ted 2</title>
-  </programme>
-  <programme start="20210201001000 -0600" stop="20210201020000 -0600" channel="Cinecanal">
+  <programme start="20210131001000 -0600" stop="20210131020000 -0600" channel="Cinecanal">
     <title lang="es">La Noche del Demonio 3</title>
   </programme>
-  <programme start="20210201020000 -0600" stop="20210201041000 -0600" channel="Cinecanal">
+  <programme start="20210131020000 -0600" stop="20210131041000 -0600" channel="Cinecanal">
     <title lang="es">Cementerio maldito</title>
   </programme>
-  <programme start="20210201041000 -0600" stop="20210201070000 -0600" channel="Cinecanal">
+  <programme start="20210131041000 -0600" stop="20210131070000 -0600" channel="Cinecanal">
     <title lang="es">Intenciones ocultas</title>
   </programme>
-  <programme start="20210201070000 -0600" stop="20210201083000 -0600" channel="Cinecanal">
+  <programme start="20210131070000 -0600" stop="20210131083000 -0600" channel="Cinecanal">
     <title lang="es">Wedding March 5 My Boyfriend</title>
   </programme>
-  <programme start="20210201083000 -0600" stop="20210201090000 -0600" channel="Cinecanal">
+  <programme start="20210131083000 -0600" stop="20210131090000 -0600" channel="Cinecanal">
     <title lang="es">Programación Especial</title>
   </programme>
-  <programme start="20210201090000 -0600" stop="20210201112000 -0600" channel="Cinecanal">
+  <programme start="20210131090000 -0600" stop="20210131112000 -0600" channel="Cinecanal">
     <title lang="es">Sense, Sensibility &amp; Snowmen</title>
   </programme>
-  <programme start="20210201112000 -0600" stop="20210201133000 -0600" channel="Cinecanal">
+  <programme start="20210131112000 -0600" stop="20210131133000 -0600" channel="Cinecanal">
     <title lang="es">La Saga Crepúsculo Amanecer</title>
   </programme>
-  <programme start="20210201133000 -0600" stop="20210201153000 -0600" channel="Cinecanal">
+  <programme start="20210131133000 -0600" stop="20210131153000 -0600" channel="Cinecanal">
     <title lang="es">Guerra De Papás</title>
   </programme>
-  <programme start="20210201153000 -0600" stop="20210201173000 -0600" channel="Cinecanal">
+  <programme start="20210131153000 -0600" stop="20210131173000 -0600" channel="Cinecanal">
     <title lang="es">Olé!: El Viaje de Ferdinand</title>
     <title lang="xx">Ferdinand</title>
     <desc lang="es">Ferdinand es un toro que es confundido por una bestia salvaje y es apartado de su familia.  Ahora junto a un grupo de inadaptados emprende su regreso a casa.</desc>
@@ -38209,7 +38676,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20210201173000 -0600" stop="20210201193000 -0600" channel="Cinecanal">
+  <programme start="20210131173000 -0600" stop="20210131193000 -0600" channel="Cinecanal">
     <title lang="es">La Gran Muralla</title>
     <desc lang="es">Dos mercenarios que mientras buscan un arma poderosa unen sus fuerzas para defender la Gran Muralla de China del ataque de criaturas monstruosas.</desc>
     <credits>
@@ -38232,7 +38699,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210201193000 -0600" stop="20210201220000 -0600" channel="Cinecanal">
+  <programme start="20210131193000 -0600" stop="20210131220000 -0600" channel="Cinecanal">
     <title lang="es">Ad Astra</title>
     <title lang="xx">Ad Astra</title>
     <desc lang="es">Un astronauta que busca a su padre en borde exterior del sistema solar descubre un misterio que amenaza la supervivencia de nuestro planeta tierra.</desc>
@@ -38258,7 +38725,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210201220000 -0600" stop="20210202002000 -0600" channel="Cinecanal">
+  <programme start="20210131220000 -0600" stop="20210201002000 -0600" channel="Cinecanal">
     <title lang="es">Fragmentado</title>
     <desc lang="es">Tres chicas son secuestradas por un hombre que posee 23 personalidades, ahora ellas deberán convencer a alguna de estas personalidades para que las libere.</desc>
     <credits>
@@ -38278,10 +38745,10 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210202002000 -0600" stop="20210202021000 -0600" channel="Cinecanal">
+  <programme start="20210201002000 -0600" stop="20210201021000 -0600" channel="Cinecanal">
     <title lang="es">Inframundo: Guerras de sangre</title>
   </programme>
-  <programme start="20210202021000 -0600" stop="20210202042000 -0600" channel="Cinecanal">
+  <programme start="20210201021000 -0600" stop="20210201042000 -0600" channel="Cinecanal">
     <title lang="es">Búsqueda Implacable 3</title>
     <title lang="xx">Taken 3</title>
     <desc lang="es">Brian Mylls es acusado por el asesinato de su ex esposa Leonore, ahora deberá descubrir quien asesino a su ex mujer y proteger a su hija.</desc>
@@ -38303,34 +38770,34 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210202042000 -0600" stop="20210202070200 -0600" channel="Cinecanal">
+  <programme start="20210201042000 -0600" stop="20210201070200 -0600" channel="Cinecanal">
     <title lang="es">Imparable</title>
   </programme>
-  <programme start="20210202070200 -0600" stop="20210202085000 -0600" channel="Cinecanal">
+  <programme start="20210201070200 -0600" stop="20210201085000 -0600" channel="Cinecanal">
     <title lang="es">Sense, Sensibility &amp; Snowmen</title>
   </programme>
-  <programme start="20210202085000 -0600" stop="20210202110400 -0600" channel="Cinecanal">
+  <programme start="20210201085000 -0600" stop="20210201110400 -0600" channel="Cinecanal">
     <title lang="es">Nadie es Perfecto</title>
   </programme>
-  <programme start="20210202110400 -0600" stop="20210202113000 -0600" channel="Cinecanal">
+  <programme start="20210201110400 -0600" stop="20210201113000 -0600" channel="Cinecanal">
     <title lang="es">Kung Fu Panda Los Secretos</title>
   </programme>
-  <programme start="20210202113000 -0600" stop="20210202120000 -0600" channel="Cinecanal">
+  <programme start="20210201113000 -0600" stop="20210201120000 -0600" channel="Cinecanal">
     <title lang="es">Kung Fu Panda Los Secretos</title>
   </programme>
-  <programme start="20210202120000 -0600" stop="20210202141500 -0600" channel="Cinecanal">
+  <programme start="20210201120000 -0600" stop="20210201141500 -0600" channel="Cinecanal">
     <title lang="es">Pecado original</title>
   </programme>
-  <programme start="20210202141500 -0600" stop="20210202160000 -0600" channel="Cinecanal">
+  <programme start="20210201141500 -0600" stop="20210201160000 -0600" channel="Cinecanal">
     <title lang="es">Misión Babilonia</title>
   </programme>
-  <programme start="20210202160000 -0600" stop="20210202180500 -0600" channel="Cinecanal">
+  <programme start="20210201160000 -0600" stop="20210201180500 -0600" channel="Cinecanal">
     <title lang="es">Paranoia</title>
   </programme>
-  <programme start="20210202180500 -0600" stop="20210202195500 -0600" channel="Cinecanal">
+  <programme start="20210201180500 -0600" stop="20210201195500 -0600" channel="Cinecanal">
     <title lang="es">Brigada A: Los magníficos</title>
   </programme>
-  <programme start="20210202195500 -0600" stop="20210202220000 -0600" channel="Cinecanal">
+  <programme start="20210201195500 -0600" stop="20210201220000 -0600" channel="Cinecanal">
     <title lang="es">Búsqueda Implacable 3</title>
     <title lang="xx">Taken 3</title>
     <desc lang="es">Brian Mylls es acusado por el asesinato de su ex esposa Leonore, ahora deberá descubrir quien asesino a su ex mujer y proteger a su hija.</desc>
@@ -38351,12 +38818,116 @@
     <rating>
       <value>PG-13</value>
     </rating>
+  </programme>
+  <programme start="20210201220000 -0600" stop="20210202002000 -0600" channel="Cinecanal">
+    <title lang="es">Mision imposible III</title>
   </programme>
   <programme start="20210202220000 -0600" stop="20210203002000 -0600" channel="Cinecanal">
     <title lang="es">Mision imposible III</title>
   </programme>
+  <programme start="20210203002000 -0600" stop="20210203024500 -0600" channel="Cinecanal">
+    <title lang="es">Star Trek: En la Oscuridad</title>
+    <desc lang="es">El Capitán Kirk lidera una cacería en la zona de guerra para capturar a un hombre que es en realidad un arma masiva de destrucción.</desc>
+    <credits>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>John Cho</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <producer>J. J. Abrams</producer>
+      <producer>Bryan Burk</producer>
+      <composer>Michael Giacchino</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/star_trek_en_la_oscuridad.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210203024500 -0600" stop="20210203045500 -0600" channel="Cinecanal">
+    <title lang="es">Los Recolectores</title>
+    <desc lang="es">Jud Law y Forest Whitaker trabajan en una empresa multimillonaria de venta de órganos, donde el que no paga será a tiempo eliminado.</desc>
+    <date>2010</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_recolectores.jpg" />
+  </programme>
+  <programme start="20210203045500 -0600" stop="20210203074000 -0600" channel="Cinecanal">
+    <title lang="es">Frecuencia Mortal</title>
+  </programme>
+  <programme start="20210203074000 -0600" stop="20210203100000 -0600" channel="Cinecanal">
+    <title lang="es">Wedding March 5 My Boyfriend</title>
+  </programme>
+  <programme start="20210203100000 -0600" stop="20210203115500 -0600" channel="Cinecanal">
+    <title lang="es">Be Somebody</title>
+  </programme>
+  <programme start="20210203115500 -0600" stop="20210203134000 -0600" channel="Cinecanal">
+    <title lang="es">Bee Movie</title>
+  </programme>
+  <programme start="20210203134000 -0600" stop="20210203155000 -0600" channel="Cinecanal">
+    <title lang="es">Azul Extremo</title>
+    <title lang="xx">Into the Blue</title>
+    <desc lang="es">Un grupo de buceadores se encuentran en grabes problemas cuando ellos encuentran un cargamento ilícito que encuentran una nave naufragada.</desc>
+    <credits>
+      <actor>Paul Walker</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Scott Caan</actor>
+      <producer>David Zelon</producer>
+      <composer>Paul Haslinger</composer>
+    </credits>
+    <date>2005</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/azul_extremo.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210203155000 -0600" stop="20210203181500 -0600" channel="Cinecanal">
+    <title lang="es">Star Trek: En la Oscuridad</title>
+    <desc lang="es">El Capitán Kirk lidera una cacería en la zona de guerra para capturar a un hombre que es en realidad un arma masiva de destrucción.</desc>
+    <credits>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>John Cho</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <producer>J. J. Abrams</producer>
+      <producer>Bryan Burk</producer>
+      <composer>Michael Giacchino</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/star_trek_en_la_oscuridad.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210203181500 -0600" stop="20210203201500 -0600" channel="Cinecanal">
+    <title lang="es">Monster Trucks</title>
+    <desc lang="es">Tripp es un estudiante de secundaria que construye un vehículo automotor con partes del deshuesadero de automóviles y con la ayuda de un monstruo.</desc>
+    <credits>
+      <actor>Jane Levy</actor>
+      <actor>Lucas Till</actor>
+      <actor>Amy Ryan</actor>
+      <actor>Rob Lowe</actor>
+      <actor>Danny Glover</actor>
+      <actor>Barry Pepper</actor>
+      <actor>Holt McCallany</actor>
+      <actor>Tucker Albrizzi</actor>
+      <producer>Mary Parent</producer>
+      <composer>Dave Sardy</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/monster_trucks.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20210203201500 -0600" stop="20210203220000 -0600" channel="Cinecanal">
+    <title lang="es">Madagascar</title>
+  </programme>
   <programme start="20210203220000 -0600" stop="20210204002000 -0600" channel="Cinecanal">
-    <title lang="es">Mision imposible III</title>
+    <title lang="es">Miss Peregrine y los niños</title>
   </programme>
   <programme start="20210130003400 -0600" stop="20210130024800 -0600" channel="Cinemax">
     <title lang="es">360 oportunidades</title>
@@ -40231,110 +40802,161 @@
   <programme start="20210130220000 -0600" stop="20210131002800 -0600" channel="Isat TV">
     <title lang="es">The Devil's Advocate</title>
   </programme>
-  <programme start="20210131220000 -0600" stop="20210201002800 -0600" channel="Isat TV">
-    <title lang="es">The Devil's Advocate</title>
-  </programme>
-  <programme start="20210201002800 -0600" stop="20210201015300 -0600" channel="Isat TV">
+  <programme start="20210131002800 -0600" stop="20210131015300 -0600" channel="Isat TV">
     <title lang="es">The Gallows</title>
   </programme>
-  <programme start="20210201015300 -0600" stop="20210201030800 -0600" channel="Isat TV">
+  <programme start="20210131015300 -0600" stop="20210131030800 -0600" channel="Isat TV">
     <title lang="es">El sueño de una generación</title>
   </programme>
-  <programme start="20210201030800 -0600" stop="20210201051500 -0600" channel="Isat TV">
+  <programme start="20210131030800 -0600" stop="20210131051500 -0600" channel="Isat TV">
     <title lang="es">Pichuco</title>
   </programme>
-  <programme start="20210201051500 -0600" stop="20210201060000 -0600" channel="Isat TV">
+  <programme start="20210131051500 -0600" stop="20210131060000 -0600" channel="Isat TV">
     <title lang="es">Cuentos de terror</title>
   </programme>
-  <programme start="20210201060000 -0600" stop="20210201073400 -0600" channel="Isat TV">
+  <programme start="20210131060000 -0600" stop="20210131073400 -0600" channel="Isat TV">
     <title lang="es">Cuentos de terror</title>
   </programme>
-  <programme start="20210201073400 -0600" stop="20210201085500 -0600" channel="Isat TV">
+  <programme start="20210131073400 -0600" stop="20210131085500 -0600" channel="Isat TV">
     <title lang="es">Ónix</title>
   </programme>
-  <programme start="20210201085500 -0600" stop="20210201101200 -0600" channel="Isat TV">
+  <programme start="20210131085500 -0600" stop="20210131101200 -0600" channel="Isat TV">
     <title lang="es">Nada culmina en la vispera</title>
   </programme>
-  <programme start="20210201101200 -0600" stop="20210201113100 -0600" channel="Isat TV">
+  <programme start="20210131101200 -0600" stop="20210131113100 -0600" channel="Isat TV">
     <title lang="es">Buscando a Reynolds</title>
   </programme>
-  <programme start="20210201113100 -0600" stop="20210201124400 -0600" channel="Isat TV">
+  <programme start="20210131113100 -0600" stop="20210131124400 -0600" channel="Isat TV">
     <title lang="es">Juansebastián</title>
   </programme>
-  <programme start="20210201124400 -0600" stop="20210201141400 -0600" channel="Isat TV">
+  <programme start="20210131124400 -0600" stop="20210131141400 -0600" channel="Isat TV">
     <title lang="es">Gravity</title>
   </programme>
-  <programme start="20210201141400 -0600" stop="20210201153100 -0600" channel="Isat TV">
+  <programme start="20210131141400 -0600" stop="20210131153100 -0600" channel="Isat TV">
     <title lang="es">El mercado</title>
   </programme>
-  <programme start="20210201153100 -0600" stop="20210201170600 -0600" channel="Isat TV">
+  <programme start="20210131153100 -0600" stop="20210131170600 -0600" channel="Isat TV">
     <title lang="es">Construcción de una ciudad</title>
   </programme>
-  <programme start="20210201170600 -0600" stop="20210201182300 -0600" channel="Isat TV">
+  <programme start="20210131170600 -0600" stop="20210131182300 -0600" channel="Isat TV">
     <title lang="es">Here Kitty Kitty</title>
   </programme>
-  <programme start="20210201182300 -0600" stop="20210201195900 -0600" channel="Isat TV">
+  <programme start="20210131182300 -0600" stop="20210131195900 -0600" channel="Isat TV">
     <title lang="es">The Wedding</title>
   </programme>
-  <programme start="20210201195900 -0600" stop="20210201220000 -0600" channel="Isat TV">
+  <programme start="20210131195900 -0600" stop="20210131220000 -0600" channel="Isat TV">
     <title lang="es">The lost honour of Christopher</title>
   </programme>
-  <programme start="20210201220000 -0600" stop="20210201232200 -0600" channel="Isat TV">
+  <programme start="20210131220000 -0600" stop="20210131232200 -0600" channel="Isat TV">
     <title lang="es">The Gallows</title>
+  </programme>
+  <programme start="20210131232200 -0600" stop="20210201012600 -0600" channel="Isat TV">
+    <title lang="es">Room</title>
   </programme>
   <programme start="20210201232200 -0600" stop="20210202012600 -0600" channel="Isat TV">
     <title lang="es">Room</title>
   </programme>
-  <programme start="20210202232200 -0600" stop="20210203012600 -0600" channel="Isat TV">
-    <title lang="es">Room</title>
-  </programme>
-  <programme start="20210203012600 -0600" stop="20210203023900 -0600" channel="Isat TV">
+  <programme start="20210202012600 -0600" stop="20210202023900 -0600" channel="Isat TV">
     <title lang="es">La parte por el todo</title>
   </programme>
-  <programme start="20210203023900 -0600" stop="20210203043700 -0600" channel="Isat TV">
+  <programme start="20210202023900 -0600" stop="20210202043700 -0600" channel="Isat TV">
     <title lang="es">Carne propia</title>
   </programme>
-  <programme start="20210203043700 -0600" stop="20210203050900 -0600" channel="Isat TV">
+  <programme start="20210202043700 -0600" stop="20210202050900 -0600" channel="Isat TV">
     <title lang="es">Cuentos de terror</title>
   </programme>
-  <programme start="20210203050900 -0600" stop="20210203065800 -0600" channel="Isat TV">
+  <programme start="20210202050900 -0600" stop="20210202065800 -0600" channel="Isat TV">
     <title lang="es">Nafta</title>
   </programme>
-  <programme start="20210203065800 -0600" stop="20210203082000 -0600" channel="Isat TV">
+  <programme start="20210202065800 -0600" stop="20210202082000 -0600" channel="Isat TV">
     <title lang="es">El hombre Depaso Piedra</title>
   </programme>
-  <programme start="20210203082000 -0600" stop="20210203092500 -0600" channel="Isat TV">
+  <programme start="20210202082000 -0600" stop="20210202092500 -0600" channel="Isat TV">
     <title lang="es">Novias madrinas 15 años</title>
   </programme>
-  <programme start="20210203092500 -0600" stop="20210203104400 -0600" channel="Isat TV">
+  <programme start="20210202092500 -0600" stop="20210202104400 -0600" channel="Isat TV">
     <title lang="es">La Hora de la Siesta</title>
   </programme>
-  <programme start="20210203104400 -0600" stop="20210203122000 -0600" channel="Isat TV">
+  <programme start="20210202104400 -0600" stop="20210202122000 -0600" channel="Isat TV">
     <title lang="es">The Wedding</title>
   </programme>
-  <programme start="20210203122000 -0600" stop="20210203142100 -0600" channel="Isat TV">
+  <programme start="20210202122000 -0600" stop="20210202142100 -0600" channel="Isat TV">
     <title lang="es">The lost honour of Christopher</title>
   </programme>
-  <programme start="20210203142100 -0600" stop="20210203154300 -0600" channel="Isat TV">
+  <programme start="20210202142100 -0600" stop="20210202154300 -0600" channel="Isat TV">
     <title lang="es">Amateur</title>
   </programme>
-  <programme start="20210203154300 -0600" stop="20210203172000 -0600" channel="Isat TV">
+  <programme start="20210202154300 -0600" stop="20210202172000 -0600" channel="Isat TV">
     <title lang="es">The south korean girl</title>
   </programme>
-  <programme start="20210203172000 -0600" stop="20210203184000 -0600" channel="Isat TV">
+  <programme start="20210202172000 -0600" stop="20210202184000 -0600" channel="Isat TV">
     <title lang="es">El Almafuerte</title>
   </programme>
-  <programme start="20210203184000 -0600" stop="20210203200600 -0600" channel="Isat TV">
+  <programme start="20210202184000 -0600" stop="20210202200600 -0600" channel="Isat TV">
     <title lang="es">La mentirita blanca</title>
   </programme>
-  <programme start="20210203200600 -0600" stop="20210203220000 -0600" channel="Isat TV">
+  <programme start="20210202200600 -0600" stop="20210202220000 -0600" channel="Isat TV">
     <title lang="es">Personnal effects</title>
   </programme>
-  <programme start="20210203220000 -0600" stop="20210203235100 -0600" channel="Isat TV">
+  <programme start="20210202220000 -0600" stop="20210202235100 -0600" channel="Isat TV">
     <title lang="es">Un rubio</title>
   </programme>
-  <programme start="20210203235100 -0600" stop="20210204014200 -0600" channel="Isat TV">
+  <programme start="20210202235100 -0600" stop="20210203014200 -0600" channel="Isat TV">
     <title lang="es">Cold in july</title>
+  </programme>
+  <programme start="20210203014200 -0600" stop="20210203031900 -0600" channel="Isat TV">
+    <title lang="es">Un buen dia</title>
+  </programme>
+  <programme start="20210203031900 -0600" stop="20210203053700 -0600" channel="Isat TV">
+    <title lang="es">La salada</title>
+  </programme>
+  <programme start="20210203053700 -0600" stop="20210203060000 -0600" channel="Isat TV">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20210203060000 -0600" stop="20210203070600 -0600" channel="Isat TV">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20210203070600 -0600" stop="20210203081400 -0600" channel="Isat TV">
+    <title lang="es">Birrilata, una vuelta en tren</title>
+  </programme>
+  <programme start="20210203081400 -0600" stop="20210203092400 -0600" channel="Isat TV">
+    <title lang="es">La vida secreta de un vestido</title>
+  </programme>
+  <programme start="20210203092400 -0600" stop="20210203104100 -0600" channel="Isat TV">
+    <title lang="es">El mercado</title>
+  </programme>
+  <programme start="20210203104100 -0600" stop="20210203120600 -0600" channel="Isat TV">
+    <title lang="es">La mentirita blanca</title>
+  </programme>
+  <programme start="20210203120600 -0600" stop="20210203135900 -0600" channel="Isat TV">
+    <title lang="es">Personnal effects</title>
+  </programme>
+  <programme start="20210203135900 -0600" stop="20210203151100 -0600" channel="Isat TV">
+    <title lang="es">Bailar la sangre</title>
+  </programme>
+  <programme start="20210203151100 -0600" stop="20210203165900 -0600" channel="Isat TV">
+    <title lang="es">Soldado argentino</title>
+  </programme>
+  <programme start="20210203165900 -0600" stop="20210203181700 -0600" channel="Isat TV">
+    <title lang="es">El sueño de una generación</title>
+  </programme>
+  <programme start="20210203181700 -0600" stop="20210203183200 -0600" channel="Isat TV">
+    <title lang="es">A Ponte</title>
+  </programme>
+  <programme start="20210203183200 -0600" stop="20210203184700 -0600" channel="Isat TV">
+    <title lang="es">Narrativa de um crime</title>
+  </programme>
+  <programme start="20210203184700 -0600" stop="20210203202300 -0600" channel="Isat TV">
+    <title lang="es">Travessia</title>
+  </programme>
+  <programme start="20210203202300 -0600" stop="20210203220000 -0600" channel="Isat TV">
+    <title lang="es">Very good girls</title>
+  </programme>
+  <programme start="20210203220000 -0600" stop="20210203235000 -0600" channel="Isat TV">
+    <title lang="es">Cold in july</title>
+  </programme>
+  <programme start="20210203235000 -0600" stop="20210204000500 -0600" channel="Isat TV">
+    <title lang="es">La Donna</title>
   </programme>
   <programme start="20210130002500 -0600" stop="20210130022000 -0600" channel="Morbido TV">
     <title lang="es">Big bad wolves</title>
@@ -43142,6 +43764,31 @@
   <programme start="20210131210000 -0600" stop="20210131220000 -0600" channel="FOX Sports">
     <title lang="es">Fox gol México</title>
   </programme>
+  <programme start="20210131220000 -0600" stop="20210131230000 -0600" channel="FOX Sports">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
   <programme start="20210201010000 -0600" stop="20210201030000 -0600" channel="FOX Sports">
     <title lang="es">Santos Laguna vs. América</title>
     <desc lang="es">El Club Santos Laguna recibe al Club de Fútbol América en el estadio Corona en la ciudad de Torreón, Coahuila, México.</desc>
@@ -44386,6 +45033,25 @@
   </programme>
   <programme start="20210131210000 -0600" stop="20210131220000 -0600" channel="ESPN 2">
     <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210131220000 -0600" stop="20210131230000 -0600" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
   </programme>
   <programme start="20210201010000 -0600" stop="20210201030000 -0600" channel="ESPN 2">
     <title lang="es">Roma vs. Hellas Verona</title>
@@ -46066,6 +46732,9 @@
   <programme start="20210202190000 -0600" stop="20210202200000 -0600" channel="MTV Hits">
     <title lang="es">MTV Classic</title>
   </programme>
+  <programme start="20210202220000 -0600" stop="20210202223000 -0600" channel="MTV Hits">
+    <title lang="es">Hitlist</title>
+  </programme>
   <programme start="20210202230000 -0600" stop="20210203000000 -0600" channel="MTV Hits">
     <title lang="es">MTV Hits Playlistism</title>
   </programme>
@@ -46615,8 +47284,8 @@
   <programme start="20210130230000 -0600" stop="20210131000000 -0600" channel="Telehit Musica Plus">
     <title lang="es">Rock Me Plus</title>
   </programme>
-  <programme start="20210131210000 -0600" stop="20210131220000 -0600" channel="Telehit Musica Plus">
-    <title lang="es">Fcking Love Plus</title>
+  <programme start="20210131220000 -0600" stop="20210131230000 -0600" channel="Telehit Musica Plus">
+    <title lang="es">La calle suena plus</title>
   </programme>
   <programme start="20210130010000 -0600" stop="20210130020000 -0600" channel="Bandamax">
     <title lang="es">Trepale a la Cumbia</title>
@@ -46715,9 +47384,6 @@
     <title lang="es">Las 10+ Picudas de la cumbia</title>
   </programme>
   <programme start="20210131200000 -0600" stop="20210131210000 -0600" channel="Bandamax">
-    <title lang="es">Los patrones de Bandamax</title>
-  </programme>
-  <programme start="20210131210000 -0600" stop="20210131220000 -0600" channel="Bandamax">
     <title lang="es">Los patrones de Bandamax</title>
   </programme>
   <programme start="20210131220000 -0600" stop="20210131230000 -0600" channel="Bandamax">
@@ -47187,6 +47853,9 @@
   </programme>
   <programme start="20210201210000 -0600" stop="20210201220000 -0600" channel="Telemusica">
     <title lang="es">Last Night</title>
+  </programme>
+  <programme start="20210201220000 -0600" stop="20210201230000 -0600" channel="Telemusica">
+    <title lang="es">#Rockon</title>
   </programme>
   <programme start="20210202170000 -0600" stop="20210202180000 -0600" channel="Telemusica">
     <title lang="es">Quieren Rock</title>
@@ -48352,8 +49021,8 @@
   <programme start="20210131133000 -0600" stop="20210131140000 -0600" channel="NTN24">
     <title lang="es">CST</title>
   </programme>
-  <programme start="20210131210000 -0600" stop="20210131220000 -0600" channel="NTN24">
-    <title lang="es">Nuestra Tele Deportes</title>
+  <programme start="20210131220000 -0600" stop="20210131223000 -0600" channel="NTN24">
+    <title lang="es">Efecto Naím</title>
   </programme>
   <programme start="20210131230000 -0600" stop="20210201000100 -0600" channel="NTN24">
     <title lang="es">Informativo NTN</title>
@@ -49114,8 +49783,8 @@
   <programme start="20210131200000 -0600" stop="20210131210000 -0600" channel="CNN Español">
     <title lang="es">En Dialogo con Longobardi</title>
   </programme>
-  <programme start="20210131210000 -0600" stop="20210131220000 -0600" channel="CNN Español">
-    <title lang="es">Mirador Mundial</title>
+  <programme start="20210131220000 -0600" stop="20210131223000 -0600" channel="CNN Español">
+    <title lang="es">Deportes CNN En Vivo</title>
   </programme>
   <programme start="20210131223000 -0600" stop="20210131230000 -0600" channel="CNN Español">
     <title lang="es">Nuestro Mundo</title>
@@ -49662,6 +50331,9 @@
   </programme>
   <programme start="20210131213000 -0600" stop="20210131220000 -0600" channel="DW Español">
     <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210131220000 -0600" stop="20210131221500 -0600" channel="DW Español">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20210131221500 -0600" stop="20210131223000 -0600" channel="DW Español">
     <title lang="es">Patrimonio mundial</title>
