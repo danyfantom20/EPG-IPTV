@@ -772,8 +772,8 @@
   <programme start="20210211213000 -0600" stop="20210212003000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Exatlón Titanes vs. Héroes</title>
   </programme>
-  <programme start="20210212003000 -0600" stop="20210212011500 -0600" channel="Azteca Uno -2Hrs">
-    <title lang="es">Hechos de la noche</title>
+  <programme start="20210212011500 -0600" stop="20210212013000 -0600" channel="Azteca Uno -2Hrs">
+    <title lang="es">Hechos CDMX</title>
   </programme>
   <programme start="20210212170000 -0600" stop="20210212193000 -0600" channel="Azteca Uno -2Hrs">
     <title lang="es">Ventaneando</title>
@@ -8153,7 +8153,7 @@
   <programme start="20210211234000 -0600" stop="20210212003000 -0600" channel="E! Entertainment">
     <title lang="es">Mysteries and scandals</title>
   </programme>
-  <programme start="20210212003000 -0600" stop="20210212012000 -0600" channel="E! Entertainment">
+  <programme start="20210212012000 -0600" stop="20210212021000 -0600" channel="E! Entertainment">
     <title lang="es">Keeping up with Kardashians</title>
   </programme>
   <programme start="20210212021000 -0600" stop="20210212030000 -0600" channel="E! Entertainment">
@@ -11122,8 +11122,8 @@
   <programme start="20210212000000 -0600" stop="20210212003000 -0600" channel="Mas Chic">
     <title lang="es">De compras en España</title>
   </programme>
-  <programme start="20210212010000 -0600" stop="20210212013000 -0600" channel="Mas Chic">
-    <title lang="es">House &amp; Style</title>
+  <programme start="20210212013000 -0600" stop="20210212020000 -0600" channel="Mas Chic">
+    <title lang="es">Fondo de armario</title>
   </programme>
   <programme start="20210212023000 -0600" stop="20210212030000 -0600" channel="Mas Chic">
     <title lang="es">Cuerpo en Armonía</title>
@@ -11770,6 +11770,9 @@
   </programme>
   <programme start="20210212010000 -0600" stop="20210212013000 -0600" channel="El Gourmet">
     <title lang="es">Viajes con sabor Ecuador</title>
+  </programme>
+  <programme start="20210212013000 -0600" stop="20210212020000 -0600" channel="El Gourmet">
+    <title lang="es">A fuego</title>
   </programme>
   <programme start="20210212023000 -0600" stop="20210212030000 -0600" channel="El Gourmet">
     <title lang="es">Fogones tradicionales México</title>
@@ -14787,6 +14790,9 @@
     <category lang="es">Reality Show</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
   </programme>
+  <programme start="20210212012500 -0600" stop="20210212015000 -0600" channel="TruTV">
+    <title lang="es">Efecto carbonaro</title>
+  </programme>
   <programme start="20210211005500 -0600" stop="20210211023500 -0600" channel="TLNovelas">
     <title lang="es">Amarte Es Mi Pecado</title>
   </programme>
@@ -15025,8 +15031,8 @@
   <programme start="20210211230000 -0600" stop="20210212000000 -0600" channel="TVC">
     <title lang="es">A Fondo con Mayté Noriega, Eduardo Torreblanca</title>
   </programme>
-  <programme start="20210212003000 -0600" stop="20210212013000 -0600" channel="TVC">
-    <title lang="es">Meganoticias TVC con Paco Ramírez</title>
+  <programme start="20210212013000 -0600" stop="20210212020000 -0600" channel="TVC">
+    <title lang="es">Meganoticias Informa Edición Vespertina con Berenice Trujillo</title>
   </programme>
   <programme start="20210212053000 -0600" stop="20210212063000 -0600" channel="TVC">
     <title lang="es">A Fondo con Mayté Noriega, Eduardo Torreblanca</title>
@@ -16806,8 +16812,8 @@
   <programme start="20210211230000 -0600" stop="20210212000000 -0600" channel="Antena 3">
     <title lang="es">El chiringuito internacional</title>
   </programme>
-  <programme start="20210212000000 -0600" stop="20210212011500 -0600" channel="Antena 3">
-    <title lang="es">Zapeando</title>
+  <programme start="20210212011500 -0600" stop="20210212014500 -0600" channel="Antena 3">
+    <title lang="es">Noticias de la mañana</title>
   </programme>
   <programme start="20210212201500 -0600" stop="20210212230000 -0600" channel="Antena 3">
     <title lang="es">El desafío</title>
@@ -20023,9 +20029,6 @@
   <programme start="20210212003000 -0600" stop="20210212010000 -0600" channel="Ingenio TV">
     <title lang="es">Vida Saludable</title>
   </programme>
-  <programme start="20210212010000 -0600" stop="20210212013000 -0600" channel="Ingenio TV">
-    <title lang="es">Comunicación</title>
-  </programme>
   <programme start="20210212013000 -0600" stop="20210212020000 -0600" channel="Ingenio TV">
     <title lang="es">Educación y saberes Digitales</title>
   </programme>
@@ -20103,6 +20106,9 @@
   </programme>
   <programme start="20210212230000 -0600" stop="20210213000000 -0600" channel="Ingenio TV">
     <title lang="es">Historia de México I</title>
+  </programme>
+  <programme start="20210213013000 -0600" stop="20210213020000 -0600" channel="Ingenio TV">
+    <title lang="es">Pensamiento Matemático</title>
   </programme>
   <programme start="20210213020000 -0600" stop="20210213023000 -0600" channel="Ingenio TV">
     <title lang="es">Comunicación</title>
@@ -20257,7 +20263,7 @@
   <programme start="20210211233000 -0600" stop="20210212000000 -0600" channel="BabyFirst">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
-  <programme start="20210212010000 -0600" stop="20210212013000 -0600" channel="BabyFirst">
+  <programme start="20210212013000 -0600" stop="20210212020000 -0600" channel="BabyFirst">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
   <programme start="20210211003000 -0600" stop="20210211010000 -0600" channel="BabyTV">
@@ -20401,8 +20407,8 @@
   <programme start="20210211233000 -0600" stop="20210212000000 -0600" channel="BabyTV">
     <title lang="es">La luna y las estrellas</title>
   </programme>
-  <programme start="20210212010000 -0600" stop="20210212013000 -0600" channel="BabyTV">
-    <title lang="es">Abrazos de Buenas Noches</title>
+  <programme start="20210212013000 -0600" stop="20210212020000 -0600" channel="BabyTV">
+    <title lang="es">Noches de ensueño</title>
   </programme>
   <programme start="20210211002500 -0600" stop="20210211005000 -0600" channel="Discovery Kids">
     <title lang="es">Viva el rey Julien, en el exi</title>
@@ -20688,8 +20694,8 @@
   <programme start="20210211233500 -0600" stop="20210212000000 -0600" channel="Discovery Kids">
     <title lang="es">Jorge el curioso</title>
   </programme>
-  <programme start="20210212005000 -0600" stop="20210212011500 -0600" channel="Discovery Kids">
-    <title lang="es">Hi-5</title>
+  <programme start="20210212011500 -0600" stop="20210212014000 -0600" channel="Discovery Kids">
+    <title lang="es">Las aventuras del Gato</title>
   </programme>
   <programme start="20210212103700 -0600" stop="20210212110400 -0600" channel="Discovery Kids">
     <title lang="es">Esme y Roy</title>
@@ -21465,7 +21471,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20210212010000 -0600" stop="20210212013000 -0600" channel="Nick">
+  <programme start="20210212013000 -0600" stop="20210212020000 -0600" channel="Nick">
     <title lang="es">Henry Danger</title>
   </programme>
   <programme start="20210212180000 -0600" stop="20210212183000 -0600" channel="Nick">
@@ -22180,7 +22186,7 @@
   <programme start="20210211233000 -0600" stop="20210211235500 -0600" channel="TeenNick">
     <title lang="es">Big Time Rush</title>
   </programme>
-  <programme start="20210212010000 -0600" stop="20210212012000 -0600" channel="TeenNick">
+  <programme start="20210212012000 -0600" stop="20210212014000 -0600" channel="TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
     <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor.</desc>
@@ -22283,8 +22289,8 @@
   <programme start="20210211230000 -0600" stop="20210212010000 -0600" channel="Nickmusic">
     <title lang="es">Pop Royalty</title>
   </programme>
-  <programme start="20210212010000 -0600" stop="20210212013000 -0600" channel="Nickmusic">
-    <title lang="es">Heartfelt Hits</title>
+  <programme start="20210212013000 -0600" stop="20210212030000 -0600" channel="Nickmusic">
+    <title lang="es">Bumpin' Beats</title>
   </programme>
   <programme start="20210212050000 -0600" stop="20210212070000 -0600" channel="Nickmusic">
     <title lang="es">Weekend Vibes</title>
@@ -22707,8 +22713,8 @@
   <programme start="20210211233000 -0600" stop="20210212000000 -0600" channel="Nick JR">
     <title lang="es">Blaze and the Monster Machine</title>
   </programme>
-  <programme start="20210212010000 -0600" stop="20210212013000 -0600" channel="Nick JR">
-    <title lang="es">Dora y sus amigos en la cd</title>
+  <programme start="20210212013000 -0600" stop="20210212020000 -0600" channel="Nick JR">
+    <title lang="es">Butterbean's Café</title>
   </programme>
   <programme start="20210212050000 -0600" stop="20210212053000 -0600" channel="Nick JR">
     <title lang="es">Bubble Guppies</title>
@@ -28364,8 +28370,8 @@
   <programme start="20210211232000 -0600" stop="20210212000000 -0600" channel="NatGeo Kids">
     <title lang="es">Yoko</title>
   </programme>
-  <programme start="20210212011500 -0600" stop="20210212013000 -0600" channel="NatGeo Kids">
-    <title lang="es">Ready Jet Go</title>
+  <programme start="20210212013000 -0600" stop="20210212015500 -0600" channel="NatGeo Kids">
+    <title lang="es">Kingdom Force</title>
   </programme>
   <programme start="20210212183000 -0600" stop="20210212200000 -0600" channel="NatGeo Kids">
     <title lang="es">Kikoriki Equipo Invencible</title>
@@ -35256,9 +35262,6 @@
   <programme start="20210213235000 -0600" stop="20210214002000 -0600" channel="Adrenalina">
     <title lang="es">Desafío TDN</title>
   </programme>
-  <programme start="20210214002000 -0600" stop="20210214012000 -0600" channel="Adrenalina">
-    <title lang="es">Aventura Extrema 2015</title>
-  </programme>
   <programme start="20210214012000 -0600" stop="20210214043000 -0600" channel="Adrenalina">
     <title lang="es">Corrida de Toros</title>
   </programme>
@@ -38158,9 +38161,6 @@
   <programme start="20210211230000 -0600" stop="20210212000000 -0600" channel="Bandamax">
     <title lang="es">Bandamáximo Dolor</title>
   </programme>
-  <programme start="20210212000000 -0600" stop="20210212013000 -0600" channel="Bandamax">
-    <title lang="es">Las mas sonadas</title>
-  </programme>
   <programme start="20210212013000 -0600" stop="20210212023000 -0600" channel="Bandamax">
     <title lang="es">Trepale a la Cumbia</title>
   </programme>
@@ -38362,7 +38362,7 @@
   <programme start="20210211230000 -0600" stop="20210212000000 -0600" channel="La Mega Mundial">
     <title lang="es">Videos</title>
   </programme>
-  <programme start="20210212010000 -0600" stop="20210212013000 -0600" channel="La Mega Mundial">
+  <programme start="20210212013000 -0600" stop="20210212020000 -0600" channel="La Mega Mundial">
     <title lang="es">Infomercial</title>
   </programme>
   <programme start="20210212150000 -0600" stop="20210212160000 -0600" channel="La Mega Mundial">
@@ -38629,8 +38629,8 @@
   <programme start="20210211220000 -0600" stop="20210211230000 -0600" channel="Teleritmo">
     <title lang="es">Heavy</title>
   </programme>
-  <programme start="20210212010000 -0600" stop="20210212013000 -0600" channel="Teleritmo">
-    <title lang="es">Espacio publicitario</title>
+  <programme start="20210212013000 -0600" stop="20210212030000 -0600" channel="Teleritmo">
+    <title lang="es">Máquina del tiempo</title>
   </programme>
   <programme start="20210211004500 -0600" stop="20210211010000 -0600" channel="Milenio TV">
     <title lang="es">Bote Pronto con Carlos Puig</title>
@@ -39203,9 +39203,6 @@
   <programme start="20210212005500 -0600" stop="20210212010000 -0600" channel="BBC World">
     <title lang="es">Witness History</title>
   </programme>
-  <programme start="20210212010000 -0600" stop="20210212013000 -0600" channel="BBC World">
-    <title lang="es">BBC World News</title>
-  </programme>
   <programme start="20210212013000 -0600" stop="20210212020000 -0600" channel="BBC World">
     <title lang="es">Click</title>
   </programme>
@@ -39647,8 +39644,8 @@
   <programme start="20210211230000 -0600" stop="20210212000000 -0600" channel="NTN24">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20210212000000 -0600" stop="20210212013000 -0600" channel="NTN24">
-    <title lang="es">La Tarde</title>
+  <programme start="20210212013000 -0600" stop="20210212020000 -0600" channel="NTN24">
+    <title lang="es">CST</title>
   </programme>
   <programme start="20210212080000 -0600" stop="20210212083000 -0600" channel="NTN24">
     <title lang="es">Zoom a la Noticia</title>
@@ -41054,7 +41051,7 @@
   <programme start="20210212003000 -0600" stop="20210212010000 -0600" channel="Wobi">
     <title lang="es">Bolivia - Tronex</title>
   </programme>
-  <programme start="20210212010000 -0600" stop="20210212013000 -0600" channel="Wobi">
+  <programme start="20210212013000 -0600" stop="20210212020000 -0600" channel="Wobi">
     <title lang="es">Experts in Seven</title>
   </programme>
   <programme start="20210212020000 -0600" stop="20210212023000 -0600" channel="Wobi">
