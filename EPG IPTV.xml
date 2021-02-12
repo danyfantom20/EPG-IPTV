@@ -2614,9 +2614,6 @@
     <title lang="es">Noche, Boleros y Son</title>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20210212230000 -0600" stop="20210213000200 -0600" channel="Once TV">
-    <title lang="es">Noticiario Media Noche</title>
-  </programme>
   <programme start="20210213000200 -0600" stop="20210213021500 -0600" channel="Once TV">
     <title lang="es">La vida inútil de Pito Pérez</title>
   </programme>
@@ -3057,8 +3054,8 @@
   <programme start="20210212220000 -0600" stop="20210212230000 -0600" channel="Mexiquense TV">
     <title lang="es">Noches en vela</title>
   </programme>
-  <programme start="20210212230000 -0600" stop="20210213000500 -0600" channel="Mexiquense TV">
-    <title lang="es">Historias del Más Allá</title>
+  <programme start="20210213000500 -0600" stop="20210213020000 -0600" channel="Mexiquense TV">
+    <title lang="es">Pelicula del Cine Mexicano</title>
   </programme>
   <programme start="20210213020000 -0600" stop="20210213040000 -0600" channel="Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
@@ -16169,31 +16166,42 @@
   <programme start="20210212233000 -0600" stop="20210213001500 -0600" channel="TruTV">
     <title lang="es">Los vídeos mas tontos</title>
   </programme>
-  <programme start="20210213233000 -0600" stop="20210214001500 -0600" channel="TruTV">
-    <title lang="es">Los vídeos mas tontos</title>
+  <programme start="20210213001500 -0600" stop="20210213004000 -0600" channel="TruTV">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
   </programme>
-  <programme start="20210214043000 -0600" stop="20210214045500 -0600" channel="TruTV">
+  <programme start="20210213043000 -0600" stop="20210213045500 -0600" channel="TruTV">
     <title lang="es">Guerra de containers</title>
   </programme>
-  <programme start="20210214045500 -0600" stop="20210214051500 -0600" channel="TruTV">
+  <programme start="20210213045500 -0600" stop="20210213051500 -0600" channel="TruTV">
     <title lang="es">Guerra de containers</title>
   </programme>
-  <programme start="20210214103500 -0600" stop="20210214110000 -0600" channel="TruTV">
+  <programme start="20210213103500 -0600" stop="20210213110000 -0600" channel="TruTV">
     <title lang="es">Arréglame la vida especiales</title>
   </programme>
-  <programme start="20210214123000 -0600" stop="20210214125500 -0600" channel="TruTV">
+  <programme start="20210213123000 -0600" stop="20210213125500 -0600" channel="TruTV">
     <title lang="es">Guerra de containers</title>
   </programme>
-  <programme start="20210214125500 -0600" stop="20210214131500 -0600" channel="TruTV">
+  <programme start="20210213125500 -0600" stop="20210213131500 -0600" channel="TruTV">
     <title lang="es">Guerra de containers</title>
   </programme>
-  <programme start="20210214183500 -0600" stop="20210214190000 -0600" channel="TruTV">
+  <programme start="20210213183500 -0600" stop="20210213190000 -0600" channel="TruTV">
     <title lang="es">Arréglame la vida especiales</title>
   </programme>
-  <programme start="20210214203000 -0600" stop="20210214205500 -0600" channel="TruTV">
+  <programme start="20210213203000 -0600" stop="20210213205500 -0600" channel="TruTV">
     <title lang="es">Guerra de containers</title>
   </programme>
-  <programme start="20210214205500 -0600" stop="20210214211500 -0600" channel="TruTV">
+  <programme start="20210213205500 -0600" stop="20210213211500 -0600" channel="TruTV">
     <title lang="es">Guerra de containers</title>
   </programme>
   <programme start="20210212005500 -0600" stop="20210212023500 -0600" channel="TLNovelas">
@@ -31485,8 +31493,8 @@
   <programme start="20210212232000 -0600" stop="20210213000000 -0600" channel="NatGeo Kids">
     <title lang="es">Yoko</title>
   </programme>
-  <programme start="20210213000000 -0600" stop="20210213001500 -0600" channel="NatGeo Kids">
-    <title lang="es">Beat Bugs</title>
+  <programme start="20210213001500 -0600" stop="20210213004000 -0600" channel="NatGeo Kids">
+    <title lang="es">Opa Popa Dupa</title>
   </programme>
   <programme start="20210213070000 -0600" stop="20210213080000 -0600" channel="NatGeo Kids">
     <title lang="es">Gallina Pintadita Mini</title>
