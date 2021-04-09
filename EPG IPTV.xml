@@ -624,16 +624,13 @@
   <programme start="20210409234500 -0500" stop="20210410001500 -0500" channel="Azteca Uno">
     <title lang="es">Los protagonistas</title>
   </programme>
-  <programme start="20210410234500 -0500" stop="20210411001500 -0500" channel="Azteca Uno">
-    <title lang="es">Los protagonistas</title>
-  </programme>
-  <programme start="20210411053000 -0500" stop="20210411061500 -0500" channel="Azteca Uno">
+  <programme start="20210410053000 -0500" stop="20210410061500 -0500" channel="Azteca Uno">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20210411061500 -0500" stop="20210411080000 -0500" channel="Azteca Uno">
+  <programme start="20210410061500 -0500" stop="20210410080000 -0500" channel="Azteca Uno">
     <title lang="es">Azteca Uno</title>
   </programme>
-  <programme start="20210411080000 -0500" stop="20210411090000 -0500" channel="Azteca Uno">
+  <programme start="20210410080000 -0500" stop="20210410090000 -0500" channel="Azteca Uno">
     <title lang="es">Lo que callamos las mujeres</title>
     <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
     <credits>
@@ -644,29 +641,73 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
-  <programme start="20210411090000 -0500" stop="20210411110000 -0500" channel="Azteca Uno">
+  <programme start="20210410090000 -0500" stop="20210410110000 -0500" channel="Azteca Uno">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20210411110000 -0500" stop="20210411130000 -0500" channel="Azteca Uno">
+  <programme start="20210410110000 -0500" stop="20210410130000 -0500" channel="Azteca Uno">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20210411130000 -0500" stop="20210411140000 -0500" channel="Azteca Uno">
+  <programme start="20210410130000 -0500" stop="20210410140000 -0500" channel="Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20210410140000 -0500" stop="20210410150000 -0500" channel="Azteca Uno">
+    <title lang="es">Hechos Sábado</title>
+  </programme>
+  <programme start="20210410150000 -0500" stop="20210410160000 -0500" channel="Azteca Uno">
+    <title lang="es">Mimí Contigo</title>
+  </programme>
+  <programme start="20210410160000 -0500" stop="20210410180000 -0500" channel="Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20210410180000 -0500" stop="20210410200000 -0500" channel="Azteca Uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20210410200000 -0500" stop="20210410230000 -0500" channel="Azteca Uno">
+    <title lang="es">Corazón grupero</title>
+  </programme>
+  <programme start="20210410230000 -0500" stop="20210411000000 -0500" channel="Azteca Uno">
+    <title lang="es">La Resolana nius</title>
+  </programme>
+  <programme start="20210411000000 -0500" stop="20210411020000 -0500" channel="Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210411020000 -0500" stop="20210411040000 -0500" channel="Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210411040000 -0500" stop="20210411050000 -0500" channel="Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210411090000 -0500" stop="20210411100000 -0500" channel="Azteca Uno">
+    <title lang="es">Hechos Domingo</title>
+  </programme>
+  <programme start="20210411100000 -0500" stop="20210411140000 -0500" channel="Azteca Uno">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20210411140000 -0500" stop="20210411150000 -0500" channel="Azteca Uno">
-    <title lang="es">Hechos Sábado</title>
+    <title lang="es">Deezer Live</title>
   </programme>
   <programme start="20210411150000 -0500" stop="20210411160000 -0500" channel="Azteca Uno">
-    <title lang="es">Mimí Contigo</title>
+    <title lang="es">En sus Batallas</title>
   </programme>
   <programme start="20210411160000 -0500" stop="20210411180000 -0500" channel="Azteca Uno">
     <title lang="es">Lo que callamos las mujeres</title>
@@ -680,71 +721,33 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
   <programme start="20210411180000 -0500" stop="20210411200000 -0500" channel="Azteca Uno">
-    <title lang="es">Al extremo</title>
+    <title lang="es">Domingo Al Extremo</title>
   </programme>
-  <programme start="20210411200000 -0500" stop="20210411230000 -0500" channel="Azteca Uno">
-    <title lang="es">Corazón grupero</title>
+  <programme start="20210411200000 -0500" stop="20210411231500 -0500" channel="Azteca Uno">
+    <title lang="es">Survivor</title>
   </programme>
-  <programme start="20210411230000 -0500" stop="20210412000000 -0500" channel="Azteca Uno">
-    <title lang="es">La Resolana nius</title>
+  <programme start="20210411231500 -0500" stop="20210412001500 -0500" channel="Azteca Uno">
+    <title lang="es">La resolana</title>
   </programme>
-  <programme start="20210412000000 -0500" stop="20210412020000 -0500" channel="Azteca Uno">
+  <programme start="20210412001500 -0500" stop="20210412004500 -0500" channel="Azteca Uno">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20210412004500 -0500" stop="20210412024500 -0500" channel="Azteca Uno">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20210412020000 -0500" stop="20210412040000 -0500" channel="Azteca Uno">
+  <programme start="20210412024500 -0500" stop="20210412044500 -0500" channel="Azteca Uno">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20210412040000 -0500" stop="20210412050000 -0500" channel="Azteca Uno">
+  <programme start="20210412044500 -0500" stop="20210412050000 -0500" channel="Azteca Uno">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20210412090000 -0500" stop="20210412100000 -0500" channel="Azteca Uno">
-    <title lang="es">Hechos Domingo</title>
-  </programme>
-  <programme start="20210412100000 -0500" stop="20210412140000 -0500" channel="Azteca Uno">
+  <programme start="20210412090000 -0500" stop="20210412110000 -0500" channel="Azteca Uno">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20210412140000 -0500" stop="20210412150000 -0500" channel="Azteca Uno">
-    <title lang="es">Deezer Live</title>
-  </programme>
-  <programme start="20210412150000 -0500" stop="20210412160000 -0500" channel="Azteca Uno">
-    <title lang="es">En sus Batallas</title>
-  </programme>
-  <programme start="20210412160000 -0500" stop="20210412180000 -0500" channel="Azteca Uno">
-    <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
-    <credits>
-      <producer>Genoveva Martínez</producer>
-      <producer>María Eva Hernández</producer>
-    </credits>
-    <date>2001</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
-  </programme>
-  <programme start="20210412180000 -0500" stop="20210412200000 -0500" channel="Azteca Uno">
-    <title lang="es">Domingo Al Extremo</title>
-  </programme>
-  <programme start="20210412200000 -0500" stop="20210412231500 -0500" channel="Azteca Uno">
-    <title lang="es">Survivor</title>
-  </programme>
-  <programme start="20210412231500 -0500" stop="20210413001500 -0500" channel="Azteca Uno">
-    <title lang="es">La resolana</title>
-  </programme>
-  <programme start="20210413001500 -0500" stop="20210413004500 -0500" channel="Azteca Uno">
-    <title lang="es">Farmacias Similares</title>
-  </programme>
-  <programme start="20210413004500 -0500" stop="20210413024500 -0500" channel="Azteca Uno">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20210413024500 -0500" stop="20210413044500 -0500" channel="Azteca Uno">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20210413044500 -0500" stop="20210413050000 -0500" channel="Azteca Uno">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20210413193000 -0500" stop="20210413223000 -0500" channel="Azteca Uno">
+  <programme start="20210412193000 -0500" stop="20210412223000 -0500" channel="Azteca Uno">
     <title lang="es">La Voz Kids</title>
   </programme>
   <programme start="20210409003000 -0500" stop="20210409011500 -0500" channel="Azteca Uno -2Hrs">
@@ -823,16 +826,13 @@
   <programme start="20210409213000 -0500" stop="20210410003000 -0500" channel="Azteca Uno -2Hrs">
     <title lang="es">Survivor</title>
   </programme>
-  <programme start="20210410213000 -0500" stop="20210411003000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">Survivor</title>
-  </programme>
-  <programme start="20210411073000 -0500" stop="20210411081500 -0500" channel="Azteca Uno -2Hrs">
+  <programme start="20210410073000 -0500" stop="20210410081500 -0500" channel="Azteca Uno -2Hrs">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20210411081500 -0500" stop="20210411100000 -0500" channel="Azteca Uno -2Hrs">
+  <programme start="20210410081500 -0500" stop="20210410100000 -0500" channel="Azteca Uno -2Hrs">
     <title lang="es">Azteca Uno</title>
   </programme>
-  <programme start="20210411100000 -0500" stop="20210411110000 -0500" channel="Azteca Uno -2Hrs">
+  <programme start="20210410100000 -0500" stop="20210410110000 -0500" channel="Azteca Uno -2Hrs">
     <title lang="es">Lo que callamos las mujeres</title>
     <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
     <credits>
@@ -843,29 +843,73 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
-  <programme start="20210411110000 -0500" stop="20210411130000 -0500" channel="Azteca Uno -2Hrs">
+  <programme start="20210410110000 -0500" stop="20210410130000 -0500" channel="Azteca Uno -2Hrs">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20210411130000 -0500" stop="20210411150000 -0500" channel="Azteca Uno -2Hrs">
+  <programme start="20210410130000 -0500" stop="20210410150000 -0500" channel="Azteca Uno -2Hrs">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20210411150000 -0500" stop="20210411160000 -0500" channel="Azteca Uno -2Hrs">
+  <programme start="20210410150000 -0500" stop="20210410160000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20210410160000 -0500" stop="20210410170000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Hechos Sábado</title>
+  </programme>
+  <programme start="20210410170000 -0500" stop="20210410180000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Mimí Contigo</title>
+  </programme>
+  <programme start="20210410180000 -0500" stop="20210410200000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20210410200000 -0500" stop="20210410220000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20210410220000 -0500" stop="20210411010000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Corazón grupero</title>
+  </programme>
+  <programme start="20210411010000 -0500" stop="20210411020000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">La Resolana nius</title>
+  </programme>
+  <programme start="20210411020000 -0500" stop="20210411040000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210411040000 -0500" stop="20210411060000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210411060000 -0500" stop="20210411070000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210411110000 -0500" stop="20210411120000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Hechos Domingo</title>
+  </programme>
+  <programme start="20210411120000 -0500" stop="20210411160000 -0500" channel="Azteca Uno -2Hrs">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20210411160000 -0500" stop="20210411170000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">Hechos Sábado</title>
+    <title lang="es">Deezer Live</title>
   </programme>
   <programme start="20210411170000 -0500" stop="20210411180000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">Mimí Contigo</title>
+    <title lang="es">En sus Batallas</title>
   </programme>
   <programme start="20210411180000 -0500" stop="20210411200000 -0500" channel="Azteca Uno -2Hrs">
     <title lang="es">Lo que callamos las mujeres</title>
@@ -879,57 +923,62 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
   <programme start="20210411200000 -0500" stop="20210411220000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">Al extremo</title>
-  </programme>
-  <programme start="20210411220000 -0500" stop="20210412010000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">Corazón grupero</title>
-  </programme>
-  <programme start="20210412010000 -0500" stop="20210412020000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">La Resolana nius</title>
-  </programme>
-  <programme start="20210412020000 -0500" stop="20210412040000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20210412040000 -0500" stop="20210412060000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20210412060000 -0500" stop="20210412070000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20210412110000 -0500" stop="20210412120000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">Hechos Domingo</title>
-  </programme>
-  <programme start="20210412120000 -0500" stop="20210412160000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <date>2006</date>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
-  </programme>
-  <programme start="20210412160000 -0500" stop="20210412170000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">Deezer Live</title>
-  </programme>
-  <programme start="20210412170000 -0500" stop="20210412180000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">En sus Batallas</title>
-  </programme>
-  <programme start="20210412180000 -0500" stop="20210412200000 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc>
-    <credits>
-      <producer>Genoveva Martínez</producer>
-      <producer>María Eva Hernández</producer>
-    </credits>
-    <date>2001</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
-  </programme>
-  <programme start="20210412200000 -0500" stop="20210412220000 -0500" channel="Azteca Uno -2Hrs">
     <title lang="es">Domingo Al Extremo</title>
+  </programme>
+  <programme start="20210411220000 -0500" stop="20210412011500 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Survivor</title>
   </programme>
   <programme start="20210412220000 -0500" stop="20210413011500 -0500" channel="Azteca Uno -2Hrs">
     <title lang="es">Survivor</title>
   </programme>
-  <programme start="20210413220000 -0500" stop="20210414011500 -0500" channel="Azteca Uno -2Hrs">
-    <title lang="es">Survivor</title>
+  <programme start="20210413011500 -0500" stop="20210413021500 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20210413021500 -0500" stop="20210413024500 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20210413024500 -0500" stop="20210413044500 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210413044500 -0500" stop="20210413064500 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210413064500 -0500" stop="20210413070000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210413070000 -0500" stop="20210413073000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20210413073000 -0500" stop="20210413081500 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210413081500 -0500" stop="20210413090000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Primera Línea</title>
+  </programme>
+  <programme start="20210413090000 -0500" stop="20210413100000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20210413100000 -0500" stop="20210413110000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Hechos Aquí entre nos</title>
+  </programme>
+  <programme start="20210413160000 -0500" stop="20210413170000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20210413170000 -0500" stop="20210413183000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20210413183000 -0500" stop="20210413193000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Mimí Contigo</title>
+  </programme>
+  <programme start="20210413193000 -0500" stop="20210413213000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20210413213000 -0500" stop="20210414003000 -0500" channel="Azteca Uno -2Hrs">
+    <title lang="es">La Voz Kids</title>
   </programme>
   <programme start="20210409010000 -0500" stop="20210409023000 -0500" channel="AZ Cinema">
     <title lang="es">Deseada</title>
@@ -1363,9 +1412,6 @@
   <programme start="20210409223000 -0500" stop="20210410000000 -0500" channel="AZ Corazon">
     <title lang="es">Acorralada - Parte 2</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410013000 -0500" channel="AZ Corazon">
-    <title lang="es">La loba - Parte 2</title>
-  </programme>
   <programme start="20210410060000 -0500" stop="20210410064800 -0500" channel="AZ Corazon">
     <title lang="es">Mujer comprada - Parte 1</title>
   </programme>
@@ -1488,9 +1534,6 @@
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="AZ Mundo">
     <title lang="es">Latin Angels</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410020000 -0500" channel="AZ Mundo">
-    <title lang="es">Así en el barrio como en el cielo</title>
-  </programme>
   <programme start="20210410020000 -0500" stop="20210410030000 -0500" channel="AZ Mundo">
     <title lang="es">En sus Batallas</title>
   </programme>
@@ -1586,9 +1629,6 @@
   </programme>
   <programme start="20210409233000 -0500" stop="20210410000000 -0500" channel="A+">
     <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20210410000000 -0500" stop="20210410003000 -0500" channel="A+">
-    <title lang="es">Yetzali</title>
   </programme>
   <programme start="20210410003000 -0500" stop="20210410023000 -0500" channel="A+">
     <title lang="es">Infomerciales</title>
@@ -1846,9 +1886,6 @@
   <programme start="20210409233000 -0500" stop="20210410000000 -0500" channel="Las Estrellas">
     <title lang="es">Contacto deportivo En Vivo</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410010000 -0500" channel="Las Estrellas">
-    <title lang="es">Pare de sufrir</title>
-  </programme>
   <programme start="20210410050000 -0500" stop="20210410053000 -0500" channel="Las Estrellas">
     <title lang="es">Paid Programing</title>
   </programme>
@@ -2093,9 +2130,6 @@
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="Televisa Monterrey">
     <title lang="es">El Nuevo Show de Johnny y Nora Canales</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410003000 -0500" channel="Televisa Monterrey">
-    <title lang="es">Inova</title>
-  </programme>
   <programme start="20210410020000 -0500" stop="20210410023000 -0500" channel="Televisa Monterrey">
     <title lang="es">Noches de humor</title>
   </programme>
@@ -2198,6 +2232,17 @@
   </programme>
   <programme start="20210412030000 -0500" stop="20210412040000 -0500" channel="Televisa Monterrey">
     <title lang="es">Hazaña: El deporte vive</title>
+  </programme>
+  <programme start="20210412090000 -0500" stop="20210412110000 -0500" channel="Televisa Monterrey">
+    <title lang="es">Gente Regia</title>
+    <desc lang="es">Fernando Lozano, Mizada Mohamed y Silvia Elizondo.  Un programa de televisión, creado para informar al espectador de temas populares.</desc>
+    <credits>
+      <actor>Fernando Lozano</actor>
+      <actor>Mizada Mohamed</actor>
+      <actor>Silva Elizondo</actor>
+    </credits>
+    <date>2002</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/gente_regia.jpg" />
   </programme>
   <programme start="20210412220000 -0500" stop="20210412230000 -0500" channel="Televisa Monterrey">
     <title lang="es">Cecy contigo</title>
@@ -2870,6 +2915,9 @@
   <programme start="20210412074500 -0500" stop="20210412083000 -0500" channel="Azteca 7">
     <title lang="es">Plaza Sésamo</title>
   </programme>
+  <programme start="20210412093000 -0500" stop="20210412103000 -0500" channel="Azteca 7">
+    <title lang="es">My Little Pony Pony Life</title>
+  </programme>
   <programme start="20210412113000 -0500" stop="20210412123000 -0500" channel="Azteca 7">
     <title lang="es">Los Picapiedra</title>
     <title lang="xx">The Flintstones</title>
@@ -3359,10 +3407,6 @@
   <programme start="20210409223000 -0500" stop="20210410000000 -0500" channel="Nueve">
     <title lang="es">La dona</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410010000 -0500" channel="Nueve">
-    <title lang="es">Enemigo íntimo</title>
-    <episode-num system="onscreen">S2</episode-num>
-  </programme>
   <programme start="20210410043000 -0500" stop="20210410083000 -0500" channel="Nueve">
     <title lang="es">Infomerciales</title>
   </programme>
@@ -3530,9 +3574,6 @@
   </programme>
   <programme start="20210409220000 -0500" stop="20210409230000 -0500" channel="Mexiquense TV">
     <title lang="es">Noches en vela</title>
-  </programme>
-  <programme start="20210410000500 -0500" stop="20210410020000 -0500" channel="Mexiquense TV">
-    <title lang="es">Pelicula del Cine Mexicano</title>
   </programme>
   <programme start="20210410020000 -0500" stop="20210410040000 -0500" channel="Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
@@ -3789,50 +3830,98 @@
   <programme start="20210409230000 -0500" stop="20210410003000 -0500" channel="Foro TV">
     <title lang="es">Las noticias</title>
   </programme>
-  <programme start="20210410230000 -0500" stop="20210411003000 -0500" channel="Foro TV">
+  <programme start="20210410003000 -0500" stop="20210410020000 -0500" channel="Foro TV">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210410023000 -0500" stop="20210410060000 -0500" channel="Foro TV">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210410060000 -0500" stop="20210410063000 -0500" channel="Foro TV">
     <title lang="es">Las noticias</title>
   </programme>
-  <programme start="20210411003000 -0500" stop="20210411020000 -0500" channel="Foro TV">
+  <programme start="20210410063000 -0500" stop="20210410080000 -0500" channel="Foro TV">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210410080000 -0500" stop="20210410120000 -0500" channel="Foro TV">
+    <title lang="es">Sábados de Foro</title>
+  </programme>
+  <programme start="20210410120000 -0500" stop="20210410123000 -0500" channel="Foro TV">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210410123000 -0500" stop="20210410130000 -0500" channel="Foro TV">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20210410130000 -0500" stop="20210410133000 -0500" channel="Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210410133000 -0500" stop="20210410140000 -0500" channel="Foro TV">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20210410140000 -0500" stop="20210410143000 -0500" channel="Foro TV">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210410143000 -0500" stop="20210410150000 -0500" channel="Foro TV">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20210410150000 -0500" stop="20210410153000 -0500" channel="Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210410153000 -0500" stop="20210410163000 -0500" channel="Foro TV">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210410163000 -0500" stop="20210410170000 -0500" channel="Foro TV">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20210410170000 -0500" stop="20210410173000 -0500" channel="Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210410173000 -0500" stop="20210410180000 -0500" channel="Foro TV">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210410180000 -0500" stop="20210410183000 -0500" channel="Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210410183000 -0500" stop="20210410190000 -0500" channel="Foro TV">
+    <title lang="es">Creadores Universitarios</title>
+  </programme>
+  <programme start="20210410190000 -0500" stop="20210410220000 -0500" channel="Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210410220000 -0500" stop="20210410230000 -0500" channel="Foro TV">
+    <title lang="es">Clío TV</title>
+  </programme>
+  <programme start="20210410230000 -0500" stop="20210411000000 -0500" channel="Foro TV">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210411000000 -0500" stop="20210411003000 -0500" channel="Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210411010000 -0500" stop="20210411013000 -0500" channel="Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210411013000 -0500" stop="20210411020000 -0500" channel="Foro TV">
     <title lang="es">Paid Programing</title>
   </programme>
   <programme start="20210411023000 -0500" stop="20210411060000 -0500" channel="Foro TV">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20210411060000 -0500" stop="20210411063000 -0500" channel="Foro TV">
-    <title lang="es">Las noticias</title>
-  </programme>
-  <programme start="20210411063000 -0500" stop="20210411080000 -0500" channel="Foro TV">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20210411080000 -0500" stop="20210411120000 -0500" channel="Foro TV">
-    <title lang="es">Sábados de Foro</title>
-  </programme>
-  <programme start="20210411120000 -0500" stop="20210411123000 -0500" channel="Foro TV">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20210411123000 -0500" stop="20210411130000 -0500" channel="Foro TV">
-    <title lang="es">Cuide su Salud</title>
-  </programme>
-  <programme start="20210411130000 -0500" stop="20210411133000 -0500" channel="Foro TV">
+  <programme start="20210411080000 -0500" stop="20210411110000 -0500" channel="Foro TV">
     <title lang="es">Las noticias</title>
   </programme>
-  <programme start="20210411133000 -0500" stop="20210411140000 -0500" channel="Foro TV">
+  <programme start="20210411110000 -0500" stop="20210411120000 -0500" channel="Foro TV">
+    <title lang="es">Agenda Pública</title>
+  </programme>
+  <programme start="20210411120000 -0500" stop="20210411130000 -0500" channel="Foro TV">
+    <title lang="es">Clío TV</title>
+  </programme>
+  <programme start="20210411153000 -0500" stop="20210411160000 -0500" channel="Foro TV">
     <title lang="es">Cuide su Salud</title>
   </programme>
-  <programme start="20210411140000 -0500" stop="20210411143000 -0500" channel="Foro TV">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20210411143000 -0500" stop="20210411150000 -0500" channel="Foro TV">
-    <title lang="es">Cuide su Salud</title>
-  </programme>
-  <programme start="20210411150000 -0500" stop="20210411153000 -0500" channel="Foro TV">
+  <programme start="20210411160000 -0500" stop="20210411163000 -0500" channel="Foro TV">
     <title lang="es">Las noticias</title>
-  </programme>
-  <programme start="20210411153000 -0500" stop="20210411163000 -0500" channel="Foro TV">
-    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20210411163000 -0500" stop="20210411170000 -0500" channel="Foro TV">
-    <title lang="es">Cuide su Salud</title>
+    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20210411170000 -0500" stop="20210411173000 -0500" channel="Foro TV">
     <title lang="es">Las noticias</title>
@@ -3846,112 +3935,61 @@
   <programme start="20210411183000 -0500" stop="20210411190000 -0500" channel="Foro TV">
     <title lang="es">Creadores Universitarios</title>
   </programme>
-  <programme start="20210411190000 -0500" stop="20210411220000 -0500" channel="Foro TV">
+  <programme start="20210411190000 -0500" stop="20210411200000 -0500" channel="Foro TV">
     <title lang="es">Las noticias</title>
   </programme>
-  <programme start="20210411220000 -0500" stop="20210411230000 -0500" channel="Foro TV">
-    <title lang="es">Clío TV</title>
+  <programme start="20210411200000 -0500" stop="20210411210000 -0500" channel="Foro TV">
+    <title lang="es">Alebrijes, Águila o Sol</title>
   </programme>
-  <programme start="20210411230000 -0500" stop="20210412000000 -0500" channel="Foro TV">
+  <programme start="20210411210000 -0500" stop="20210412000000 -0500" channel="Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210412000000 -0500" stop="20210412010000 -0500" channel="Foro TV">
+    <title lang="es">Los mejores musicos.com</title>
+  </programme>
+  <programme start="20210412010000 -0500" stop="20210412030000 -0500" channel="Foro TV">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20210412000000 -0500" stop="20210412003000 -0500" channel="Foro TV">
-    <title lang="es">Las noticias</title>
-  </programme>
-  <programme start="20210412010000 -0500" stop="20210412013000 -0500" channel="Foro TV">
-    <title lang="es">Las noticias</title>
-  </programme>
-  <programme start="20210412013000 -0500" stop="20210412020000 -0500" channel="Foro TV">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20210412023000 -0500" stop="20210412060000 -0500" channel="Foro TV">
+  <programme start="20210412030000 -0500" stop="20210412050000 -0500" channel="Foro TV">
     <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210412050000 -0500" stop="20210412070000 -0500" channel="Foro TV">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20210412070000 -0500" stop="20210412080000 -0500" channel="Foro TV">
+    <title lang="es">Estrictamente Personal</title>
   </programme>
   <programme start="20210412080000 -0500" stop="20210412110000 -0500" channel="Foro TV">
-    <title lang="es">Las noticias</title>
+    <title lang="es">Expreso de la Mañana</title>
   </programme>
   <programme start="20210412110000 -0500" stop="20210412120000 -0500" channel="Foro TV">
-    <title lang="es">Agenda Pública</title>
+    <title lang="es">Por las mañanas</title>
   </programme>
   <programme start="20210412120000 -0500" stop="20210412130000 -0500" channel="Foro TV">
-    <title lang="es">Clío TV</title>
+    <title lang="es">Paralelo 23</title>
   </programme>
-  <programme start="20210412153000 -0500" stop="20210412160000 -0500" channel="Foro TV">
-    <title lang="es">Cuide su Salud</title>
+  <programme start="20210412130000 -0500" stop="20210412140000 -0500" channel="Foro TV">
+    <title lang="es">Las Noticias de las 1300 hrs</title>
   </programme>
-  <programme start="20210412160000 -0500" stop="20210412163000 -0500" channel="Foro TV">
+  <programme start="20210412140000 -0500" stop="20210412150000 -0500" channel="Foro TV">
+    <title lang="es">Noticias MX</title>
+  </programme>
+  <programme start="20210412150000 -0500" stop="20210412160000 -0500" channel="Foro TV">
+    <title lang="es">A las 3</title>
+  </programme>
+  <programme start="20210412160000 -0500" stop="20210412180000 -0500" channel="Foro TV">
     <title lang="es">Las noticias</title>
   </programme>
-  <programme start="20210412163000 -0500" stop="20210412170000 -0500" channel="Foro TV">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20210412170000 -0500" stop="20210412173000 -0500" channel="Foro TV">
-    <title lang="es">Las noticias</title>
-  </programme>
-  <programme start="20210412173000 -0500" stop="20210412180000 -0500" channel="Foro TV">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20210412180000 -0500" stop="20210412183000 -0500" channel="Foro TV">
-    <title lang="es">Las noticias</title>
-  </programme>
-  <programme start="20210412183000 -0500" stop="20210412190000 -0500" channel="Foro TV">
-    <title lang="es">Creadores Universitarios</title>
-  </programme>
-  <programme start="20210412190000 -0500" stop="20210412200000 -0500" channel="Foro TV">
+  <programme start="20210412180000 -0500" stop="20210412200000 -0500" channel="Foro TV">
     <title lang="es">Las noticias</title>
   </programme>
   <programme start="20210412200000 -0500" stop="20210412210000 -0500" channel="Foro TV">
-    <title lang="es">Alebrijes, Águila o Sol</title>
-  </programme>
-  <programme start="20210412210000 -0500" stop="20210413000000 -0500" channel="Foro TV">
     <title lang="es">Las noticias</title>
   </programme>
-  <programme start="20210413000000 -0500" stop="20210413010000 -0500" channel="Foro TV">
-    <title lang="es">Los mejores musicos.com</title>
-  </programme>
-  <programme start="20210413010000 -0500" stop="20210413030000 -0500" channel="Foro TV">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20210413030000 -0500" stop="20210413050000 -0500" channel="Foro TV">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20210413050000 -0500" stop="20210413070000 -0500" channel="Foro TV">
-    <title lang="es">Las noticias</title>
-  </programme>
-  <programme start="20210413070000 -0500" stop="20210413080000 -0500" channel="Foro TV">
-    <title lang="es">Estrictamente Personal</title>
-  </programme>
-  <programme start="20210413080000 -0500" stop="20210413110000 -0500" channel="Foro TV">
-    <title lang="es">Expreso de la Mañana</title>
-  </programme>
-  <programme start="20210413110000 -0500" stop="20210413120000 -0500" channel="Foro TV">
-    <title lang="es">Por las mañanas</title>
-  </programme>
-  <programme start="20210413120000 -0500" stop="20210413130000 -0500" channel="Foro TV">
-    <title lang="es">Paralelo 23</title>
-  </programme>
-  <programme start="20210413130000 -0500" stop="20210413140000 -0500" channel="Foro TV">
-    <title lang="es">Las Noticias de las 1300 hrs</title>
-  </programme>
-  <programme start="20210413140000 -0500" stop="20210413150000 -0500" channel="Foro TV">
-    <title lang="es">Noticias MX</title>
-  </programme>
-  <programme start="20210413150000 -0500" stop="20210413160000 -0500" channel="Foro TV">
-    <title lang="es">A las 3</title>
-  </programme>
-  <programme start="20210413160000 -0500" stop="20210413180000 -0500" channel="Foro TV">
-    <title lang="es">Las noticias</title>
-  </programme>
-  <programme start="20210413180000 -0500" stop="20210413200000 -0500" channel="Foro TV">
-    <title lang="es">Las noticias</title>
-  </programme>
-  <programme start="20210413200000 -0500" stop="20210413210000 -0500" channel="Foro TV">
-    <title lang="es">Las noticias</title>
-  </programme>
-  <programme start="20210413210000 -0500" stop="20210413220000 -0500" channel="Foro TV">
+  <programme start="20210412210000 -0500" stop="20210412220000 -0500" channel="Foro TV">
     <title lang="es">Hora 21</title>
   </programme>
-  <programme start="20210413220000 -0500" stop="20210413230000 -0500" channel="Foro TV">
+  <programme start="20210412220000 -0500" stop="20210412230000 -0500" channel="Foro TV">
     <title lang="es">Es la Hora de Opinar</title>
   </programme>
   <programme start="20210409003000 -0500" stop="20210409010000 -0500" channel="ADN 40">
@@ -4022,9 +4060,6 @@
   </programme>
   <programme start="20210409234500 -0500" stop="20210410000000 -0500" channel="ADN 40">
     <title lang="es">La de 8</title>
-  </programme>
-  <programme start="20210410000000 -0500" stop="20210410003000 -0500" channel="ADN 40">
-    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20210410053000 -0500" stop="20210410080000 -0500" channel="ADN 40">
     <title lang="es">Infomerciales</title>
@@ -4148,6 +4183,9 @@
   </programme>
   <programme start="20210412043000 -0500" stop="20210412053000 -0500" channel="ADN 40">
     <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210412100000 -0500" stop="20210412110000 -0500" channel="ADN 40">
+    <title lang="es">Noticias con Alejandra Molina</title>
   </programme>
   <programme start="20210412233000 -0500" stop="20210412234500 -0500" channel="ADN 40">
     <title lang="es">Primer Círculo</title>
@@ -7336,47 +7374,26 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20210410233000 -0500" stop="20210411010000 -0500" channel="Unicable">
-    <title lang="es">El Señor de los Cielos</title>
-    <desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc>
-    <credits>
-      <actor>Rafael Amaya</actor>
-      <actor>Ximena Herrera</actor>
-      <actor>Carmen Villalobos</actor>
-      <actor>Mauricio Ochmann</actor>
-      <actor>Raúl Méndez</actor>
-      <actor>Fernanda Castillo</actor>
-      <actor>Marlene Favela</actor>
-      <actor>Robinson Díaz</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Novela</category>
-    <category lang="es">Telenovela</category>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/el_senor_de_los_cielos.jpg" />
-    <country lang="es">México</country>
-    <country lang="es">Estados Unidos</country>
-    <country lang="es">Colombia</country>
-  </programme>
-  <programme start="20210411023000 -0500" stop="20210411030000 -0500" channel="Unicable">
+  <programme start="20210410023000 -0500" stop="20210410030000 -0500" channel="Unicable">
     <title lang="es">Consecuencias</title>
   </programme>
-  <programme start="20210411030000 -0500" stop="20210411040000 -0500" channel="Unicable">
+  <programme start="20210410030000 -0500" stop="20210410040000 -0500" channel="Unicable">
     <title lang="es">Netas divinas</title>
   </programme>
-  <programme start="20210411040000 -0500" stop="20210411050000 -0500" channel="Unicable">
+  <programme start="20210410040000 -0500" stop="20210410050000 -0500" channel="Unicable">
     <title lang="es">Montse &amp; Joe</title>
   </programme>
-  <programme start="20210411050000 -0500" stop="20210411060000 -0500" channel="Unicable">
+  <programme start="20210410050000 -0500" stop="20210410060000 -0500" channel="Unicable">
     <title lang="es">Con permiso</title>
   </programme>
-  <programme start="20210411060000 -0500" stop="20210411090000 -0500" channel="Unicable">
+  <programme start="20210410060000 -0500" stop="20210410090000 -0500" channel="Unicable">
     <title lang="es">Laura sin censura</title>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  <programme start="20210411090000 -0500" stop="20210411130000 -0500" channel="Unicable">
+  <programme start="20210410090000 -0500" stop="20210410130000 -0500" channel="Unicable">
     <title lang="es">El final del paraíso</title>
   </programme>
-  <programme start="20210411130000 -0500" stop="20210411170000 -0500" channel="Unicable">
+  <programme start="20210410130000 -0500" stop="20210410170000 -0500" channel="Unicable">
     <title lang="es">El Señor de los Cielos</title>
     <desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc>
     <credits>
@@ -7397,43 +7414,43 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20210411170000 -0500" stop="20210411210000 -0500" channel="Unicable">
+  <programme start="20210410170000 -0500" stop="20210410210000 -0500" channel="Unicable">
     <title lang="es">La 3era en discordia</title>
   </programme>
-  <programme start="20210411210000 -0500" stop="20210412000000 -0500" channel="Unicable">
+  <programme start="20210410210000 -0500" stop="20210411000000 -0500" channel="Unicable">
     <title lang="es">Laura sin censura</title>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  <programme start="20210412000000 -0500" stop="20210412010000 -0500" channel="Unicable">
+  <programme start="20210411000000 -0500" stop="20210411010000 -0500" channel="Unicable">
     <title lang="es">Miembros al aire</title>
   </programme>
-  <programme start="20210412010000 -0500" stop="20210412020000 -0500" channel="Unicable">
+  <programme start="20210411010000 -0500" stop="20210411020000 -0500" channel="Unicable">
     <title lang="es">La guarida del Mostro</title>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  <programme start="20210412020000 -0500" stop="20210412030000 -0500" channel="Unicable">
+  <programme start="20210411020000 -0500" stop="20210411030000 -0500" channel="Unicable">
     <title lang="es">La Última y Nos Vamos</title>
   </programme>
-  <programme start="20210412030000 -0500" stop="20210412040000 -0500" channel="Unicable">
+  <programme start="20210411030000 -0500" stop="20210411040000 -0500" channel="Unicable">
     <title lang="es">Crónicas de impacto</title>
   </programme>
-  <programme start="20210412040000 -0500" stop="20210412080000 -0500" channel="Unicable">
+  <programme start="20210411040000 -0500" stop="20210411080000 -0500" channel="Unicable">
     <title lang="es">El final del paraíso</title>
   </programme>
-  <programme start="20210412080000 -0500" stop="20210412110000 -0500" channel="Unicable">
+  <programme start="20210411080000 -0500" stop="20210411110000 -0500" channel="Unicable">
     <title lang="es">La 3era en discordia</title>
   </programme>
-  <programme start="20210412110000 -0500" stop="20210412140000 -0500" channel="Unicable">
+  <programme start="20210411110000 -0500" stop="20210411140000 -0500" channel="Unicable">
     <title lang="es">Laura sin censura</title>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  <programme start="20210412140000 -0500" stop="20210412160000 -0500" channel="Unicable">
+  <programme start="20210411140000 -0500" stop="20210411160000 -0500" channel="Unicable">
     <title lang="es">Luis Miguel La Serie</title>
   </programme>
-  <programme start="20210412160000 -0500" stop="20210412170000 -0500" channel="Unicable">
+  <programme start="20210411160000 -0500" stop="20210411170000 -0500" channel="Unicable">
     <title lang="es">Con permiso</title>
   </programme>
-  <programme start="20210412170000 -0500" stop="20210412210000 -0500" channel="Unicable">
+  <programme start="20210411170000 -0500" stop="20210411210000 -0500" channel="Unicable">
     <title lang="es">El Señor de los Cielos</title>
     <desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc>
     <credits>
@@ -7454,25 +7471,25 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20210412210000 -0500" stop="20210413000000 -0500" channel="Unicable">
+  <programme start="20210411210000 -0500" stop="20210412000000 -0500" channel="Unicable">
     <title lang="es">La 3era en discordia</title>
   </programme>
-  <programme start="20210413000000 -0500" stop="20210413010000 -0500" channel="Unicable">
+  <programme start="20210412000000 -0500" stop="20210412010000 -0500" channel="Unicable">
     <title lang="es">La Última y Nos Vamos</title>
   </programme>
-  <programme start="20210413020000 -0500" stop="20210413023000 -0500" channel="Unicable">
+  <programme start="20210412020000 -0500" stop="20210412023000 -0500" channel="Unicable">
     <title lang="es">Consecuencias</title>
   </programme>
-  <programme start="20210413023000 -0500" stop="20210413033000 -0500" channel="Unicable">
+  <programme start="20210412023000 -0500" stop="20210412033000 -0500" channel="Unicable">
     <title lang="es">La 3era en discordia</title>
   </programme>
-  <programme start="20210413033000 -0500" stop="20210413043000 -0500" channel="Unicable">
+  <programme start="20210412033000 -0500" stop="20210412043000 -0500" channel="Unicable">
     <title lang="es">Crónicas de impacto</title>
   </programme>
-  <programme start="20210413043000 -0500" stop="20210413060000 -0500" channel="Unicable">
+  <programme start="20210412043000 -0500" stop="20210412060000 -0500" channel="Unicable">
     <title lang="es">Victoria</title>
   </programme>
-  <programme start="20210413060000 -0500" stop="20210413073000 -0500" channel="Unicable">
+  <programme start="20210412060000 -0500" stop="20210412073000 -0500" channel="Unicable">
     <title lang="es">El Señor de los Cielos</title>
     <desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc>
     <credits>
@@ -7493,17 +7510,17 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20210413073000 -0500" stop="20210413083000 -0500" channel="Unicable">
+  <programme start="20210412073000 -0500" stop="20210412083000 -0500" channel="Unicable">
     <title lang="es">Laura sin censura</title>
   </programme>
-  <programme start="20210413083000 -0500" stop="20210413093000 -0500" channel="Unicable">
+  <programme start="20210412083000 -0500" stop="20210412093000 -0500" channel="Unicable">
     <title lang="es">Laura sin censura</title>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  <programme start="20210413093000 -0500" stop="20210413110000 -0500" channel="Unicable">
+  <programme start="20210412093000 -0500" stop="20210412110000 -0500" channel="Unicable">
     <title lang="es">El final del paraíso</title>
   </programme>
-  <programme start="20210413110000 -0500" stop="20210413123000 -0500" channel="Unicable">
+  <programme start="20210412110000 -0500" stop="20210412123000 -0500" channel="Unicable">
     <title lang="es">El Señor de los Cielos</title>
     <desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc>
     <credits>
@@ -7524,26 +7541,26 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20210413123000 -0500" stop="20210413143000 -0500" channel="Unicable">
+  <programme start="20210412123000 -0500" stop="20210412143000 -0500" channel="Unicable">
     <title lang="es">Reto 4 Elementos</title>
   </programme>
-  <programme start="20210413143000 -0500" stop="20210413160000 -0500" channel="Unicable">
+  <programme start="20210412143000 -0500" stop="20210412160000 -0500" channel="Unicable">
     <title lang="es">Victoria</title>
   </programme>
-  <programme start="20210413160000 -0500" stop="20210413170000 -0500" channel="Unicable">
+  <programme start="20210412160000 -0500" stop="20210412170000 -0500" channel="Unicable">
     <title lang="es">Primer impacto</title>
   </programme>
-  <programme start="20210413170000 -0500" stop="20210413180000 -0500" channel="Unicable">
+  <programme start="20210412170000 -0500" stop="20210412180000 -0500" channel="Unicable">
     <title lang="es">La 3era en discordia</title>
   </programme>
-  <programme start="20210413180000 -0500" stop="20210413190000 -0500" channel="Unicable">
+  <programme start="20210412180000 -0500" stop="20210412190000 -0500" channel="Unicable">
     <title lang="es">La 3era en discordia</title>
   </programme>
-  <programme start="20210413190000 -0500" stop="20210413200000 -0500" channel="Unicable">
+  <programme start="20210412190000 -0500" stop="20210412200000 -0500" channel="Unicable">
     <title lang="es">Laura sin censura</title>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  <programme start="20210413200000 -0500" stop="20210413213000 -0500" channel="Unicable">
+  <programme start="20210412200000 -0500" stop="20210412213000 -0500" channel="Unicable">
     <title lang="es">El Señor de los Cielos</title>
     <desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc>
     <credits>
@@ -7564,10 +7581,10 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20210413213000 -0500" stop="20210413223000 -0500" channel="Unicable">
+  <programme start="20210412213000 -0500" stop="20210412223000 -0500" channel="Unicable">
     <title lang="es">La Última y Nos Vamos</title>
   </programme>
-  <programme start="20210413223000 -0500" stop="20210413233000 -0500" channel="Unicable">
+  <programme start="20210412223000 -0500" stop="20210412233000 -0500" channel="Unicable">
     <title lang="es">La 3era en discordia</title>
   </programme>
   <programme start="20210409023000 -0500" stop="20210409041000 -0500" channel="Telemundo Internacional">
@@ -7708,6 +7725,9 @@
     <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png" />
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20210413100000 -0500" stop="20210413110000 -0500" channel="Telemundo Internacional">
+    <title lang="es">Lo mejor de caso cerrado</title>
   </programme>
   <programme start="20210409003900 -0500" stop="20210409012700 -0500" channel="Warner">
     <title lang="es">The Flash</title>
@@ -10305,6 +10325,10 @@
     <title lang="es">40 y 20</title>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
+  <programme start="20210413101500 -0500" stop="20210413113000 -0500" channel="Distrito Comedia">
+    <title lang="es">Vecinos</title>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
   <programme start="20210413134500 -0500" stop="20210413150000 -0500" channel="Distrito Comedia">
     <title lang="es">Nosotros los guapos</title>
     <episode-num system="onscreen">S1</episode-num>
@@ -11302,7 +11326,7 @@
   <programme start="20210409170000 -0500" stop="20210409210000 -0500" channel="Zee Mundo">
     <title lang="es">ZEE Mundo</title>
   </programme>
-  <programme start="20210409210000 -0500" stop="20210410010000 -0500" channel="Zee Mundo">
+  <programme start="20210410090000 -0500" stop="20210410130000 -0500" channel="Zee Mundo">
     <title lang="es">ZEE Mundo</title>
   </programme>
   <programme start="20210409003100 -0500" stop="20210409012000 -0500" channel="TNT Series">
@@ -15924,6 +15948,9 @@
   <programme start="20210412043000 -0500" stop="20210412050000 -0500" channel="HLN">
     <title lang="es">Forensic Files</title>
   </programme>
+  <programme start="20210412090000 -0500" stop="20210412180000 -0500" channel="HLN">
+    <title lang="es">The Death of George Floyd: Derek Chauvin on Trial</title>
+  </programme>
   <programme start="20210412180000 -0500" stop="20210412190000 -0500" channel="HLN">
     <title lang="es">Derek Chauvin on Trial: Today in Court</title>
   </programme>
@@ -19867,8 +19894,8 @@
   <programme start="20210409234500 -0500" stop="20210410003000 -0500" channel="TruTV">
     <title lang="es">Los vídeos mas tontos</title>
   </programme>
-  <programme start="20210410234500 -0500" stop="20210411003000 -0500" channel="TruTV">
-    <title lang="es">Los vídeos mas tontos</title>
+  <programme start="20210410102500 -0500" stop="20210410105000 -0500" channel="TruTV">
+    <title lang="es">Efecto carbonaro</title>
   </programme>
   <programme start="20210409005500 -0500" stop="20210409023500 -0500" channel="TLNovelas">
     <title lang="es">Piel de otoño</title>
@@ -19920,9 +19947,6 @@
   </programme>
   <programme start="20210409222500 -0500" stop="20210410000000 -0500" channel="TLNovelas">
     <title lang="es">Nunca te olvidare</title>
-  </programme>
-  <programme start="20210410000000 -0500" stop="20210410005500 -0500" channel="TLNovelas">
-    <title lang="es">Imperio de Cristal</title>
   </programme>
   <programme start="20210410005500 -0500" stop="20210410025500 -0500" channel="TLNovelas">
     <title lang="es">Contra viento y marea</title>
@@ -19984,6 +20008,9 @@
   </programme>
   <programme start="20210411213000 -0500" stop="20210412000000 -0500" channel="TLNovelas">
     <title lang="es">Fuego en la sangre</title>
+  </programme>
+  <programme start="20210412092000 -0500" stop="20210412110000 -0500" channel="TLNovelas">
+    <title lang="es">Piel de otoño</title>
   </programme>
   <programme start="20210412110000 -0500" stop="20210412123500 -0500" channel="TLNovelas">
     <title lang="es">Contra viento y marea</title>
@@ -20109,9 +20136,6 @@
     <title lang="es">Meganoticias con Yoelí Ramírez</title>
   </programme>
   <programme start="20210409233000 -0500" stop="20210410000000 -0500" channel="TVC">
-    <title lang="es">Televenta</title>
-  </programme>
-  <programme start="20210410000000 -0500" stop="20210410003000 -0500" channel="TVC">
     <title lang="es">Televenta</title>
   </programme>
   <programme start="20210410013000 -0500" stop="20210410033000 -0500" channel="TVC">
@@ -20303,6 +20327,9 @@
   </programme>
   <programme start="20210412070000 -0500" stop="20210412075800 -0500" channel="TVC">
     <title lang="es">Voto X México</title>
+  </programme>
+  <programme start="20210412100000 -0500" stop="20210412103000 -0500" channel="TVC">
+    <title lang="es">Televenta</title>
   </programme>
   <programme start="20210412165800 -0500" stop="20210412175800 -0500" channel="TVC">
     <title lang="es">Para Opinar con Francisco Ramírez En Vivo</title>
@@ -20696,6 +20723,9 @@
   </programme>
   <programme start="20210412043000 -0500" stop="20210412050000 -0500" channel="Multimedios Plus">
     <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210412100000 -0500" stop="20210412120000 -0500" channel="Multimedios Plus">
+    <title lang="es">Vivalavi</title>
   </programme>
   <programme start="20210412223000 -0500" stop="20210413000000 -0500" channel="Multimedios Plus">
     <title lang="es">Es show</title>
@@ -21171,9 +21201,6 @@
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="Glitz">
     <title lang="es">¿Quién tiene la razón</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410010000 -0500" channel="Glitz">
-    <title lang="es">¿Quién tiene la razón</title>
-  </programme>
   <programme start="20210410050000 -0500" stop="20210410060000 -0500" channel="Glitz">
     <title lang="es">Cartas del corazón</title>
   </programme>
@@ -21247,6 +21274,9 @@
     <title lang="es">Casos de Familia</title>
   </programme>
   <programme start="20210411090000 -0500" stop="20210411100000 -0500" channel="Glitz">
+    <title lang="es">Casos de Familia</title>
+  </programme>
+  <programme start="20210411100000 -0500" stop="20210411110000 -0500" channel="Glitz">
     <title lang="es">Casos de Familia</title>
   </programme>
   <programme start="20210411120000 -0500" stop="20210411130000 -0500" channel="Glitz">
@@ -26816,9 +26846,6 @@
   <programme start="20210409234000 -0500" stop="20210410000000 -0500" channel="Ingenio TV">
     <title lang="es">Historia de México II</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410003000 -0500" channel="Ingenio TV">
-    <title lang="es">Comunicación</title>
-  </programme>
   <programme start="20210410010000 -0500" stop="20210410013000 -0500" channel="Ingenio TV">
     <title lang="es">Educación y saberes Digitales</title>
   </programme>
@@ -26956,6 +26983,9 @@
   </programme>
   <programme start="20210411054000 -0500" stop="20210411060000 -0500" channel="Ingenio TV">
     <title lang="es">Ciencias de la Comunicación I</title>
+  </programme>
+  <programme start="20210411100000 -0500" stop="20210411103000 -0500" channel="Ingenio TV">
+    <title lang="es">Conciencia Histórica</title>
   </programme>
   <programme start="20210409003000 -0500" stop="20210409010000 -0500" channel="BabyFirst">
     <title lang="es">Programas para el desarrollo del bebé</title>
@@ -27098,10 +27128,10 @@
   <programme start="20210409233000 -0500" stop="20210410000000 -0500" channel="BabyFirst">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410003000 -0500" channel="BabyFirst">
-    <title lang="es">Programas para el desarrollo del bebé</title>
+  <programme start="20210410100000 -0500" stop="20210410103000 -0500" channel="BabyFirst">
+    <title lang="es">Favoritos de Baby First</title>
   </programme>
-  <programme start="20210410003000 -0500" stop="20210410020000 -0500" channel="BabyFirst">
+  <programme start="20210411003000 -0500" stop="20210411020000 -0500" channel="BabyFirst">
     <title lang="es">Programas para el desarrollo del bebé</title>
   </programme>
   <programme start="20210409003000 -0500" stop="20210409010000 -0500" channel="BabyTV">
@@ -27245,8 +27275,8 @@
   <programme start="20210409233000 -0500" stop="20210410000000 -0500" channel="BabyTV">
     <title lang="es">Noches de ensueño</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410003000 -0500" channel="BabyTV">
-    <title lang="es">Noches de ensueño</title>
+  <programme start="20210410100000 -0500" stop="20210410103000 -0500" channel="BabyTV">
+    <title lang="es">Explorando con BabyHood</title>
   </programme>
   <programme start="20210409002500 -0500" stop="20210409005000 -0500" channel="Discovery Kids">
     <title lang="es">Viva el rey Julien, en el exi</title>
@@ -28668,9 +28698,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410003000 -0500" channel="Nick">
-    <title lang="es">Spyders</title>
-  </programme>
   <programme start="20210410050000 -0500" stop="20210410053000 -0500" channel="Nick">
     <title lang="es">Henry Danger</title>
   </programme>
@@ -29614,9 +29641,6 @@
   <programme start="20210409233000 -0500" stop="20210409235500 -0500" channel="Teennick">
     <title lang="es">Big Time Rush</title>
   </programme>
-  <programme start="20210410002000 -0500" stop="20210410010000 -0500" channel="Teennick">
-    <title lang="es">The Bureau of Magical Things</title>
-  </programme>
   <programme start="20210410031000 -0500" stop="20210410033000 -0500" channel="Teennick">
     <title lang="es">Sam &amp; Cat</title>
   </programme>
@@ -29631,6 +29655,28 @@
   </programme>
   <programme start="20210410093000 -0500" stop="20210410094500 -0500" channel="Teennick">
     <title lang="es">The Bureau of Magical Things</title>
+  </programme>
+  <programme start="20210410101000 -0500" stop="20210410103500 -0500" channel="Teennick">
+    <title lang="es">The Thundermans</title>
+    <title lang="xx">The Thundermans</title>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor.</desc>
+    <credits>
+      <actor>Kira Kosarin</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Diego Velázquez</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Rosa Blasi</actor>
+      <actor>Maya Le Clark</actor>
+      <producer>Dan Cross</producer>
+      <producer>David Hoge</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_thundermans.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20210410150000 -0500" stop="20210410152000 -0500" channel="Teennick">
     <title lang="es">Sam &amp; Cat</title>
@@ -30088,9 +30134,6 @@
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="Nickmusic">
     <title lang="es">Bumpin' Beats</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410010000 -0500" channel="Nickmusic">
-    <title lang="es">Crushworthy</title>
-  </programme>
   <programme start="20210410050000 -0500" stop="20210410060000 -0500" channel="Nickmusic">
     <title lang="es">Weekend Vibes</title>
   </programme>
@@ -30162,6 +30205,9 @@
   </programme>
   <programme start="20210411040000 -0500" stop="20210411050000 -0500" channel="Nickmusic">
     <title lang="es">Videos We Heart</title>
+  </programme>
+  <programme start="20210411100000 -0500" stop="20210411110000 -0500" channel="Nickmusic">
+    <title lang="es">Pop Royalty</title>
   </programme>
   <programme start="20210409003000 -0500" stop="20210409010000 -0500" channel="Nick JR">
     <title lang="es">Top Wing</title>
@@ -30603,9 +30649,6 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20210410000000 -0500" stop="20210410003000 -0500" channel="Nick JR">
-    <title lang="es">Rainbow Rangers</title>
   </programme>
   <programme start="20210410050000 -0500" stop="20210410053000 -0500" channel="Nick JR">
     <title lang="es">Bubble Guppies</title>
@@ -31241,9 +31284,6 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410002500 -0500" channel="Cartoon Network">
-    <title lang="es">Dragon ball super</title>
-  </programme>
   <programme start="20210410040000 -0500" stop="20210410041500 -0500" channel="Cartoon Network">
     <title lang="es">Ed, Edd y Eddy</title>
   </programme>
@@ -31772,6 +31812,9 @@
   </programme>
   <programme start="20210412073500 -0500" stop="20210412080000 -0500" channel="Cartoon Network">
     <title lang="es">Viajes Pokémon</title>
+  </programme>
+  <programme start="20210412103000 -0500" stop="20210412110000 -0500" channel="Cartoon Network">
+    <title lang="es">DC Super Hero Girls</title>
   </programme>
   <programme start="20210412110000 -0500" stop="20210412113000 -0500" channel="Cartoon Network">
     <title lang="es">Barbie Dreamhouse Adventures</title>
@@ -33233,9 +33276,6 @@
   </programme>
   <programme start="20210411000000 -0500" stop="20210411002100 -0500" channel="Disney JR">
     <title lang="es">Bluey</title>
-  </programme>
-  <programme start="20210411002100 -0500" stop="20210411004600 -0500" channel="Disney JR">
-    <title lang="es">Mickey Mouse Mix de aventura</title>
   </programme>
   <programme start="20210411004600 -0500" stop="20210411011000 -0500" channel="Disney JR">
     <title lang="es">Art Attack</title>
@@ -34912,9 +34952,6 @@
   </programme>
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="Boomerang">
     <title lang="es">Bunnicula, el conejo vampiro</title>
-  </programme>
-  <programme start="20210410000000 -0500" stop="20210410010000 -0500" channel="Boomerang">
-    <title lang="es">El show de Tom y Jerry</title>
   </programme>
   <programme start="20210410010000 -0500" stop="20210410013000 -0500" channel="Boomerang">
     <title lang="es">Oddbods Oddbeard's curse</title>
@@ -38803,9 +38840,6 @@
   <programme start="20210409231000 -0500" stop="20210410000000 -0500" channel="NatGeo Kids">
     <title lang="es">Dino Dana</title>
   </programme>
-  <programme start="20210410001500 -0500" stop="20210410004000 -0500" channel="NatGeo Kids">
-    <title lang="es">Opa Popa Dupa</title>
-  </programme>
   <programme start="20210410064500 -0500" stop="20210410070000 -0500" channel="NatGeo Kids">
     <title lang="es">Mascotas en el Espacio La Fam</title>
   </programme>
@@ -39000,6 +39034,9 @@
   </programme>
   <programme start="20210411195000 -0500" stop="20210411205500 -0500" channel="NatGeo Kids">
     <title lang="es">Nat Geo Lab LatAm</title>
+  </programme>
+  <programme start="20210412101500 -0500" stop="20210412110000 -0500" channel="NatGeo Kids">
+    <title lang="es">Pablo</title>
   </programme>
   <programme start="20210412152500 -0500" stop="20210412154000 -0500" channel="NatGeo Kids">
     <title lang="es">Heidi 3D</title>
@@ -39775,9 +39812,6 @@
     <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20210409233900 -0500" stop="20210410000800 -0500" channel="Golden">
-    <title lang="es">Erotic Stories</title>
-  </programme>
-  <programme start="20210410000800 -0500" stop="20210410003700 -0500" channel="Golden">
     <title lang="es">Erotic Stories</title>
   </programme>
   <programme start="20210410003700 -0500" stop="20210410024400 -0500" channel="Golden">
@@ -48272,31 +48306,6 @@
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="FOX Sports">
     <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410010000 -0500" channel="FOX Sports">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
-    <date>1997</date>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">IndyCar Series</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Deporte</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">Fútbol Español</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">Noticia</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
-    <country lang="es">México</country>
-    <country lang="es">Argentina</country>
-  </programme>
   <programme start="20210410010000 -0500" stop="20210410030000 -0500" channel="FOX Sports">
     <title lang="es">Bayern Múnich vs. Paris Sai</title>
   </programme>
@@ -48477,6 +48486,9 @@
   </programme>
   <programme start="20210412010000 -0500" stop="20210412030000 -0500" channel="FOX Sports">
     <title lang="es">Manchester United vs. AC Milan</title>
+  </programme>
+  <programme start="20210412100000 -0500" stop="20210412110000 -0500" channel="FOX Sports">
+    <title lang="es">La última palabra</title>
   </programme>
   <programme start="20210412120000 -0500" stop="20210412125500 -0500" channel="FOX Sports">
     <title lang="es">Fox gol México</title>
@@ -49266,25 +49278,6 @@
   <programme start="20210411230000 -0500" stop="20210412000000 -0500" channel="ESPN">
     <title lang="es">Futbol Picante</title>
   </programme>
-  <programme start="20210412000000 -0500" stop="20210412010000 -0500" channel="ESPN">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
-    <category lang="es">Fútbol Americano</category>
-    <category lang="es">Baloncesto</category>
-    <category lang="es">Béisbol</category>
-    <category lang="es">Básquetbol</category>
-    <category lang="es">Fútbol Italiano</category>
-    <category lang="es">Major League Baseball</category>
-    <category lang="es">Fútbol Mexicano</category>
-    <category lang="es">MLB</category>
-    <category lang="es">NBA</category>
-    <category lang="es">Noticias</category>
-    <category lang="es">NFL</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">UEFA</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
   <programme start="20210412010000 -0500" stop="20210412030000 -0500" channel="ESPN">
     <title lang="es">Jaron Ennis vs. Sergey Lipine</title>
   </programme>
@@ -49811,9 +49804,6 @@
     <category lang="es">UEFA</category>
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
-  </programme>
-  <programme start="20210411000000 -0500" stop="20210411010000 -0500" channel="ESPN 2">
-    <title lang="es">Futbol Picante</title>
   </programme>
   <programme start="20210411060000 -0500" stop="20210411080000 -0500" channel="ESPN 2">
     <title lang="es">Rolex Monte-Carlo Masters</title>
@@ -50390,7 +50380,61 @@
   <programme start="20210409220000 -0500" stop="20210410010000 -0500" channel="NBC Golf">
     <title lang="es">Live From the Masters</title>
   </programme>
-  <programme start="20210410220000 -0500" stop="20210411010000 -0500" channel="NBC Golf">
+  <programme start="20210410070000 -0500" stop="20210410073000 -0500" channel="NBC Golf">
+    <title lang="es">School of Golf</title>
+  </programme>
+  <programme start="20210410073000 -0500" stop="20210410080000 -0500" channel="NBC Golf">
+    <title lang="es">School of Golf</title>
+  </programme>
+  <programme start="20210410080000 -0500" stop="20210410100000 -0500" channel="NBC Golf">
+    <title lang="es">Live From the Masters</title>
+  </programme>
+  <programme start="20210410100000 -0500" stop="20210410120000 -0500" channel="NBC Golf">
+    <title lang="es">Live From the Masters</title>
+  </programme>
+  <programme start="20210410120000 -0500" stop="20210410133000 -0500" channel="NBC Golf">
+    <title lang="es">Live From the Masters</title>
+  </programme>
+  <programme start="20210410133000 -0500" stop="20210410140000 -0500" channel="NBC Golf">
+    <title lang="es">Playing lessons</title>
+  </programme>
+  <programme start="20210410140000 -0500" stop="20210410143000 -0500" channel="NBC Golf">
+    <title lang="es">Playing lessons</title>
+  </programme>
+  <programme start="20210410143000 -0500" stop="20210410150000 -0500" channel="NBC Golf">
+    <title lang="es">Playing lessons</title>
+  </programme>
+  <programme start="20210410150000 -0500" stop="20210410153000 -0500" channel="NBC Golf">
+    <title lang="es">Playing lessons</title>
+  </programme>
+  <programme start="20210410153000 -0500" stop="20210410160000 -0500" channel="NBC Golf">
+    <title lang="es">Playing Lessons James Hahn</title>
+  </programme>
+  <programme start="20210410160000 -0500" stop="20210410163000 -0500" channel="NBC Golf">
+    <title lang="es">Playing lessons</title>
+  </programme>
+  <programme start="20210410163000 -0500" stop="20210410180000 -0500" channel="NBC Golf">
+    <title lang="es">2010 Caddy for Life</title>
+  </programme>
+  <programme start="20210410180000 -0500" stop="20210410183000 -0500" channel="NBC Golf">
+    <title lang="es">School of Golf</title>
+  </programme>
+  <programme start="20210410183000 -0500" stop="20210410213000 -0500" channel="NBC Golf">
+    <title lang="es">Live From the Masters</title>
+  </programme>
+  <programme start="20210410213000 -0500" stop="20210411003000 -0500" channel="NBC Golf">
+    <title lang="es">Live From the Masters</title>
+  </programme>
+  <programme start="20210411003000 -0500" stop="20210411033000 -0500" channel="NBC Golf">
+    <title lang="es">Live From the Masters</title>
+  </programme>
+  <programme start="20210411033000 -0500" stop="20210411043000 -0500" channel="NBC Golf">
+    <title lang="es">Live From the Masters</title>
+  </programme>
+  <programme start="20210411043000 -0500" stop="20210411050000 -0500" channel="NBC Golf">
+    <title lang="es">School of Golf</title>
+  </programme>
+  <programme start="20210411050000 -0500" stop="20210411070000 -0500" channel="NBC Golf">
     <title lang="es">Live From the Masters</title>
   </programme>
   <programme start="20210411070000 -0500" stop="20210411073000 -0500" channel="NBC Golf">
@@ -50405,32 +50449,26 @@
   <programme start="20210411100000 -0500" stop="20210411120000 -0500" channel="NBC Golf">
     <title lang="es">Live From the Masters</title>
   </programme>
-  <programme start="20210411120000 -0500" stop="20210411133000 -0500" channel="NBC Golf">
+  <programme start="20210411120000 -0500" stop="20210411123000 -0500" channel="NBC Golf">
     <title lang="es">Live From the Masters</title>
   </programme>
-  <programme start="20210411133000 -0500" stop="20210411140000 -0500" channel="NBC Golf">
-    <title lang="es">Playing lessons</title>
+  <programme start="20210411123000 -0500" stop="20210411133000 -0500" channel="NBC Golf">
+    <title lang="es">GOLF Films</title>
   </programme>
-  <programme start="20210411140000 -0500" stop="20210411143000 -0500" channel="NBC Golf">
-    <title lang="es">Playing lessons</title>
+  <programme start="20210411133000 -0500" stop="20210411143000 -0500" channel="NBC Golf">
+    <title lang="es">GOLF Films</title>
   </programme>
-  <programme start="20210411143000 -0500" stop="20210411150000 -0500" channel="NBC Golf">
-    <title lang="es">Playing lessons</title>
+  <programme start="20210411143000 -0500" stop="20210411153000 -0500" channel="NBC Golf">
+    <title lang="es">GOLF Films</title>
   </programme>
-  <programme start="20210411150000 -0500" stop="20210411153000 -0500" channel="NBC Golf">
-    <title lang="es">Playing lessons</title>
+  <programme start="20210411153000 -0500" stop="20210411163000 -0500" channel="NBC Golf">
+    <title lang="es">GOLF Films</title>
   </programme>
-  <programme start="20210411153000 -0500" stop="20210411160000 -0500" channel="NBC Golf">
-    <title lang="es">Playing Lessons James Hahn</title>
+  <programme start="20210411163000 -0500" stop="20210411173000 -0500" channel="NBC Golf">
+    <title lang="es">GOLF Films</title>
   </programme>
-  <programme start="20210411160000 -0500" stop="20210411163000 -0500" channel="NBC Golf">
-    <title lang="es">Playing lessons</title>
-  </programme>
-  <programme start="20210411163000 -0500" stop="20210411180000 -0500" channel="NBC Golf">
-    <title lang="es">2010 Caddy for Life</title>
-  </programme>
-  <programme start="20210411180000 -0500" stop="20210411183000 -0500" channel="NBC Golf">
-    <title lang="es">School of Golf</title>
+  <programme start="20210411173000 -0500" stop="20210411183000 -0500" channel="NBC Golf">
+    <title lang="es">2018 Go Down Swinging</title>
   </programme>
   <programme start="20210411183000 -0500" stop="20210411213000 -0500" channel="NBC Golf">
     <title lang="es">Live From the Masters</title>
@@ -50438,94 +50476,43 @@
   <programme start="20210411213000 -0500" stop="20210412003000 -0500" channel="NBC Golf">
     <title lang="es">Live From the Masters</title>
   </programme>
-  <programme start="20210412003000 -0500" stop="20210412033000 -0500" channel="NBC Golf">
+  <programme start="20210412050000 -0500" stop="20210412090000 -0500" channel="NBC Golf">
     <title lang="es">Live From the Masters</title>
   </programme>
-  <programme start="20210412033000 -0500" stop="20210412043000 -0500" channel="NBC Golf">
-    <title lang="es">Live From the Masters</title>
-  </programme>
-  <programme start="20210412043000 -0500" stop="20210412050000 -0500" channel="NBC Golf">
+  <programme start="20210412090000 -0500" stop="20210412093000 -0500" channel="NBC Golf">
     <title lang="es">School of Golf</title>
   </programme>
-  <programme start="20210412050000 -0500" stop="20210412070000 -0500" channel="NBC Golf">
-    <title lang="es">Live From the Masters</title>
-  </programme>
-  <programme start="20210412070000 -0500" stop="20210412073000 -0500" channel="NBC Golf">
+  <programme start="20210412093000 -0500" stop="20210412100000 -0500" channel="NBC Golf">
     <title lang="es">School of Golf</title>
   </programme>
-  <programme start="20210412073000 -0500" stop="20210412080000 -0500" channel="NBC Golf">
+  <programme start="20210412100000 -0500" stop="20210412103000 -0500" channel="NBC Golf">
     <title lang="es">School of Golf</title>
   </programme>
-  <programme start="20210412080000 -0500" stop="20210412100000 -0500" channel="NBC Golf">
-    <title lang="es">Live From the Masters</title>
-  </programme>
-  <programme start="20210412100000 -0500" stop="20210412120000 -0500" channel="NBC Golf">
-    <title lang="es">Live From the Masters</title>
-  </programme>
-  <programme start="20210412120000 -0500" stop="20210412123000 -0500" channel="NBC Golf">
-    <title lang="es">Live From the Masters</title>
-  </programme>
-  <programme start="20210412123000 -0500" stop="20210412133000 -0500" channel="NBC Golf">
-    <title lang="es">GOLF Films</title>
-  </programme>
-  <programme start="20210412133000 -0500" stop="20210412143000 -0500" channel="NBC Golf">
-    <title lang="es">GOLF Films</title>
-  </programme>
-  <programme start="20210412143000 -0500" stop="20210412153000 -0500" channel="NBC Golf">
-    <title lang="es">GOLF Films</title>
-  </programme>
-  <programme start="20210412153000 -0500" stop="20210412163000 -0500" channel="NBC Golf">
-    <title lang="es">GOLF Films</title>
-  </programme>
-  <programme start="20210412163000 -0500" stop="20210412173000 -0500" channel="NBC Golf">
-    <title lang="es">GOLF Films</title>
-  </programme>
-  <programme start="20210412173000 -0500" stop="20210412183000 -0500" channel="NBC Golf">
-    <title lang="es">2018 Go Down Swinging</title>
-  </programme>
-  <programme start="20210412183000 -0500" stop="20210412213000 -0500" channel="NBC Golf">
-    <title lang="es">Live From the Masters</title>
-  </programme>
-  <programme start="20210412213000 -0500" stop="20210413003000 -0500" channel="NBC Golf">
-    <title lang="es">Live From the Masters</title>
-  </programme>
-  <programme start="20210413050000 -0500" stop="20210413090000 -0500" channel="NBC Golf">
-    <title lang="es">Live From the Masters</title>
-  </programme>
-  <programme start="20210413090000 -0500" stop="20210413093000 -0500" channel="NBC Golf">
+  <programme start="20210412103000 -0500" stop="20210412110000 -0500" channel="NBC Golf">
     <title lang="es">School of Golf</title>
   </programme>
-  <programme start="20210413093000 -0500" stop="20210413100000 -0500" channel="NBC Golf">
-    <title lang="es">School of Golf</title>
-  </programme>
-  <programme start="20210413100000 -0500" stop="20210413103000 -0500" channel="NBC Golf">
-    <title lang="es">School of Golf</title>
-  </programme>
-  <programme start="20210413103000 -0500" stop="20210413110000 -0500" channel="NBC Golf">
-    <title lang="es">School of Golf</title>
-  </programme>
-  <programme start="20210413110000 -0500" stop="20210413140000 -0500" channel="NBC Golf">
+  <programme start="20210412110000 -0500" stop="20210412140000 -0500" channel="NBC Golf">
     <title lang="es">Golf Today</title>
   </programme>
-  <programme start="20210413140000 -0500" stop="20210413170000 -0500" channel="NBC Golf">
+  <programme start="20210412140000 -0500" stop="20210412170000 -0500" channel="NBC Golf">
     <title lang="es">Golf Today</title>
   </programme>
-  <programme start="20210413170000 -0500" stop="20210413173000 -0500" channel="NBC Golf">
+  <programme start="20210412170000 -0500" stop="20210412173000 -0500" channel="NBC Golf">
     <title lang="es">Golf Today</title>
   </programme>
-  <programme start="20210413173000 -0500" stop="20210413180000 -0500" channel="NBC Golf">
+  <programme start="20210412173000 -0500" stop="20210412180000 -0500" channel="NBC Golf">
     <title lang="es">College Central</title>
   </programme>
-  <programme start="20210413180000 -0500" stop="20210413210000 -0500" channel="NBC Golf">
+  <programme start="20210412180000 -0500" stop="20210412210000 -0500" channel="NBC Golf">
     <title lang="es">2021 Western Intercollegiate</title>
   </programme>
-  <programme start="20210413210000 -0500" stop="20210413220000 -0500" channel="NBC Golf">
+  <programme start="20210412210000 -0500" stop="20210412220000 -0500" channel="NBC Golf">
     <title lang="es">Golf central</title>
   </programme>
-  <programme start="20210413220000 -0500" stop="20210413230000 -0500" channel="NBC Golf">
+  <programme start="20210412220000 -0500" stop="20210412230000 -0500" channel="NBC Golf">
     <title lang="es">2019 Masters Patrick Reed</title>
   </programme>
-  <programme start="20210413230000 -0500" stop="20210414000000 -0500" channel="NBC Golf">
+  <programme start="20210412230000 -0500" stop="20210413000000 -0500" channel="NBC Golf">
     <title lang="es">2019 Masters Tiger Woods</title>
   </programme>
   <programme start="20210409003000 -0500" stop="20210409013000 -0500" channel="PX Sports">
@@ -50840,9 +50827,6 @@
   </programme>
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="Claro Sports">
     <title lang="es">Deportes en Claro</title>
-  </programme>
-  <programme start="20210410000000 -0500" stop="20210410010000 -0500" channel="Claro Sports">
-    <title lang="es">Olympic Channel</title>
   </programme>
   <programme start="20210410010000 -0500" stop="20210410030000 -0500" channel="Claro Sports">
     <title lang="es">Correcaminos vs. Club Celaya</title>
@@ -51218,9 +51202,6 @@
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="MTV Hits">
     <title lang="es">MTV Hits Playlistism</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410010000 -0500" channel="MTV Hits">
-    <title lang="es">MTV Hits Playlistism</title>
-  </programme>
   <programme start="20210410010000 -0500" stop="20210410020000 -0500" channel="MTV Hits">
     <title lang="es">Club MTV</title>
   </programme>
@@ -51470,58 +51451,55 @@
   <programme start="20210409223000 -0500" stop="20210410010000 -0500" channel="MTV Live">
     <title lang="es">Hot Right Now</title>
   </programme>
-  <programme start="20210410223000 -0500" stop="20210411010000 -0500" channel="MTV Live">
-    <title lang="es">Hot Right Now</title>
-  </programme>
-  <programme start="20210411060000 -0500" stop="20210411062000 -0500" channel="MTV Live">
+  <programme start="20210410060000 -0500" stop="20210410062000 -0500" channel="MTV Live">
     <title lang="es">Zara Larsson Late Night Concert</title>
   </programme>
-  <programme start="20210411062000 -0500" stop="20210411064000 -0500" channel="MTV Live">
+  <programme start="20210410062000 -0500" stop="20210410064000 -0500" channel="MTV Live">
     <title lang="es">Mabel and Friends</title>
   </programme>
-  <programme start="20210411064000 -0500" stop="20210411072500 -0500" channel="MTV Live">
+  <programme start="20210410064000 -0500" stop="20210410072500 -0500" channel="MTV Live">
     <title lang="es">World Stage</title>
   </programme>
-  <programme start="20210411072500 -0500" stop="20210411081000 -0500" channel="MTV Live">
+  <programme start="20210410072500 -0500" stop="20210410081000 -0500" channel="MTV Live">
     <title lang="es">MTV Essentials</title>
   </programme>
-  <programme start="20210411081000 -0500" stop="20210411083000 -0500" channel="MTV Live">
+  <programme start="20210410081000 -0500" stop="20210410083000 -0500" channel="MTV Live">
     <title lang="es">MTV Live from Fusion Festival 2019</title>
   </programme>
-  <programme start="20210411083000 -0500" stop="20210411085000 -0500" channel="MTV Live">
+  <programme start="20210410083000 -0500" stop="20210410085000 -0500" channel="MTV Live">
     <title lang="es">MTV Live from Fusion Festival 2019</title>
   </programme>
-  <programme start="20210411085000 -0500" stop="20210411104000 -0500" channel="MTV Live">
+  <programme start="20210410085000 -0500" stop="20210410104000 -0500" channel="MTV Live">
     <title lang="es">MTV Rewind</title>
   </programme>
-  <programme start="20210411104000 -0500" stop="20210411110000 -0500" channel="MTV Live">
+  <programme start="20210410104000 -0500" stop="20210410110000 -0500" channel="MTV Live">
     <title lang="es">MTV Asks</title>
   </programme>
-  <programme start="20210411110000 -0500" stop="20210411130000 -0500" channel="MTV Live">
+  <programme start="20210410110000 -0500" stop="20210410130000 -0500" channel="MTV Live">
     <title lang="es">Hot Right Now</title>
   </programme>
-  <programme start="20210411130000 -0500" stop="20210411154500 -0500" channel="MTV Live">
+  <programme start="20210410130000 -0500" stop="20210410154500 -0500" channel="MTV Live">
     <title lang="es">Hot Right Now! Top 50</title>
   </programme>
-  <programme start="20210411154500 -0500" stop="20210411160000 -0500" channel="MTV Live">
+  <programme start="20210410154500 -0500" stop="20210410160000 -0500" channel="MTV Live">
     <title lang="es">Hot Spot</title>
   </programme>
-  <programme start="20210411160000 -0500" stop="20210411162000 -0500" channel="MTV Live">
+  <programme start="20210410160000 -0500" stop="20210410162000 -0500" channel="MTV Live">
     <title lang="es">World Stage</title>
   </programme>
-  <programme start="20210411162000 -0500" stop="20210411164500 -0500" channel="MTV Live">
+  <programme start="20210410162000 -0500" stop="20210410164500 -0500" channel="MTV Live">
     <title lang="es">MTV Live @ Home</title>
   </programme>
-  <programme start="20210411164500 -0500" stop="20210411172500 -0500" channel="MTV Live">
+  <programme start="20210410164500 -0500" stop="20210410172500 -0500" channel="MTV Live">
     <title lang="es">Anne-Marie and Friends</title>
   </programme>
-  <programme start="20210411172500 -0500" stop="20210411181000 -0500" channel="MTV Live">
+  <programme start="20210410172500 -0500" stop="20210410181000 -0500" channel="MTV Live">
     <title lang="es">World Stage</title>
   </programme>
-  <programme start="20210411181000 -0500" stop="20210411185500 -0500" channel="MTV Live">
+  <programme start="20210410181000 -0500" stop="20210410185500 -0500" channel="MTV Live">
     <title lang="es">World Stage</title>
   </programme>
-  <programme start="20210411185500 -0500" stop="20210411190000 -0500" channel="MTV Live">
+  <programme start="20210410185500 -0500" stop="20210410190000 -0500" channel="MTV Live">
     <title lang="es">Justin Bieber Brand New Vid</title>
   </programme>
   <programme start="20210409010000 -0500" stop="20210409020000 -0500" channel="VH1 (HD)">
@@ -51557,43 +51535,43 @@
   <programme start="20210409220000 -0500" stop="20210410010000 -0500" channel="VH1 (HD)">
     <title lang="es">Hits Don't Lie</title>
   </programme>
-  <programme start="20210410220000 -0500" stop="20210411010000 -0500" channel="VH1 (HD)">
+  <programme start="20210410010000 -0500" stop="20210410050000 -0500" channel="VH1 (HD)">
+    <title lang="es">Top 50 00s Pop Hits</title>
+  </programme>
+  <programme start="20210410080000 -0500" stop="20210410090000 -0500" channel="VH1 (HD)">
+    <title lang="es">Class of 2006</title>
+  </programme>
+  <programme start="20210410090000 -0500" stop="20210410110000 -0500" channel="VH1 (HD)">
     <title lang="es">Hits Don't Lie</title>
   </programme>
-  <programme start="20210411010000 -0500" stop="20210411050000 -0500" channel="VH1 (HD)">
-    <title lang="es">Top 50 00s Pop Hits</title>
-  </programme>
-  <programme start="20210411080000 -0500" stop="20210411090000 -0500" channel="VH1 (HD)">
-    <title lang="es">Class of 2006</title>
-  </programme>
-  <programme start="20210411110000 -0500" stop="20210411140000 -0500" channel="VH1 (HD)">
+  <programme start="20210410110000 -0500" stop="20210410140000 -0500" channel="VH1 (HD)">
     <title lang="es">We Love The 00's</title>
   </programme>
-  <programme start="20210411140000 -0500" stop="20210411150000 -0500" channel="VH1 (HD)">
+  <programme start="20210410140000 -0500" stop="20210410150000 -0500" channel="VH1 (HD)">
     <title lang="es">Guess the Year</title>
   </programme>
-  <programme start="20210411150000 -0500" stop="20210411160000 -0500" channel="VH1 (HD)">
+  <programme start="20210410150000 -0500" stop="20210410160000 -0500" channel="VH1 (HD)">
     <title lang="es">Class of 2006</title>
   </programme>
-  <programme start="20210411160000 -0500" stop="20210411220000 -0500" channel="VH1 (HD)">
+  <programme start="20210410160000 -0500" stop="20210410220000 -0500" channel="VH1 (HD)">
     <title lang="es">VH1 Shuffle</title>
   </programme>
-  <programme start="20210412020000 -0500" stop="20210412030000 -0500" channel="VH1 (HD)">
+  <programme start="20210411020000 -0500" stop="20210411030000 -0500" channel="VH1 (HD)">
     <title lang="es">Class of 2006</title>
   </programme>
-  <programme start="20210412050000 -0500" stop="20210412090000 -0500" channel="VH1 (HD)">
+  <programme start="20210411050000 -0500" stop="20210411090000 -0500" channel="VH1 (HD)">
     <title lang="es">Top 50 00s Pop Hits</title>
   </programme>
-  <programme start="20210412150000 -0500" stop="20210412160000 -0500" channel="VH1 (HD)">
+  <programme start="20210411150000 -0500" stop="20210411160000 -0500" channel="VH1 (HD)">
     <title lang="es">Justin Timberlake The Hits</title>
   </programme>
-  <programme start="20210413020000 -0500" stop="20210413030000 -0500" channel="VH1 (HD)">
+  <programme start="20210412020000 -0500" stop="20210412030000 -0500" channel="VH1 (HD)">
     <title lang="es">Taylor Swift The Hits</title>
   </programme>
-  <programme start="20210413080000 -0500" stop="20210413090000 -0500" channel="VH1 (HD)">
+  <programme start="20210412080000 -0500" stop="20210412090000 -0500" channel="VH1 (HD)">
     <title lang="es">Taylor Swift The Hits</title>
   </programme>
-  <programme start="20210413150000 -0500" stop="20210413160000 -0500" channel="VH1 (HD)">
+  <programme start="20210412150000 -0500" stop="20210412160000 -0500" channel="VH1 (HD)">
     <title lang="es">Taylor Swift The Hits</title>
   </programme>
   <programme start="20210409010000 -0500" stop="20210409020000 -0500" channel="VH1">
@@ -51629,14 +51607,14 @@
   <programme start="20210409190000 -0500" stop="20210409220000 -0500" channel="VH1">
     <title lang="es">VH1 Shuffle</title>
   </programme>
-  <programme start="20210409220000 -0500" stop="20210410010000 -0500" channel="VH1">
-    <title lang="es">Hits Don't Lie</title>
-  </programme>
   <programme start="20210410010000 -0500" stop="20210410050000 -0500" channel="VH1">
     <title lang="es">Top 50 00s Pop Hits</title>
   </programme>
   <programme start="20210410080000 -0500" stop="20210410090000 -0500" channel="VH1">
     <title lang="es">Class of 2006</title>
+  </programme>
+  <programme start="20210410090000 -0500" stop="20210410110000 -0500" channel="VH1">
+    <title lang="es">Hits Don't Lie</title>
   </programme>
   <programme start="20210410110000 -0500" stop="20210410140000 -0500" channel="VH1">
     <title lang="es">We Love The 00s</title>
@@ -51848,7 +51826,7 @@
   <programme start="20210411230000 -0500" stop="20210412000000 -0500" channel="Telehit Musica">
     <title lang="es">OK Boomer Anglo Telehit</title>
   </programme>
-  <programme start="20210412000000 -0500" stop="20210412010000 -0500" channel="Telehit Musica">
+  <programme start="20210412100000 -0500" stop="20210412110000 -0500" channel="Telehit Musica">
     <title lang="es">OK Boomer Telehit</title>
   </programme>
   <programme start="20210412220000 -0500" stop="20210412230000 -0500" channel="Telehit Musica">
@@ -51902,8 +51880,8 @@
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="Telehit Musica Plus">
     <title lang="es">Rock Me Plus</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410030000 -0500" channel="Telehit Musica Plus">
-    <title lang="es">Playlist Telehit Plus</title>
+  <programme start="20210410100000 -0500" stop="20210410110000 -0500" channel="Telehit Musica Plus">
+    <title lang="es">La calle suena plus</title>
   </programme>
   <programme start="20210409013000 -0500" stop="20210409023000 -0500" channel="Bandamax">
     <title lang="es">Trepale a la Cumbia</title>
@@ -52067,8 +52045,8 @@
   <programme start="20210411220000 -0500" stop="20210411230000 -0500" channel="Bandamax">
     <title lang="es">Los Consagrados de Bandamax</title>
   </programme>
-  <programme start="20210412000000 -0500" stop="20210412013000 -0500" channel="Bandamax">
-    <title lang="es">Las mas sonadas</title>
+  <programme start="20210412090000 -0500" stop="20210412110000 -0500" channel="Bandamax">
+    <title lang="es">Buenos dias bandamax</title>
   </programme>
   <programme start="20210412170000 -0500" stop="20210412180000 -0500" channel="Bandamax">
     <title lang="es">El show del hombre</title>
@@ -52199,9 +52177,6 @@
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="La Mega Mundial">
     <title lang="es">Videos</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410003000 -0500" channel="La Mega Mundial">
-    <title lang="es">Infomerciales</title>
-  </programme>
   <programme start="20210410093000 -0500" stop="20210410100000 -0500" channel="La Mega Mundial">
     <title lang="es">Videos</title>
   </programme>
@@ -52301,6 +52276,9 @@
   <programme start="20210411230000 -0500" stop="20210412000000 -0500" channel="La Mega Mundial">
     <title lang="es">In Da House</title>
   </programme>
+  <programme start="20210412103000 -0500" stop="20210412110000 -0500" channel="La Mega Mundial">
+    <title lang="es">Infomerciales</title>
+  </programme>
   <programme start="20210412150000 -0500" stop="20210412160000 -0500" channel="La Mega Mundial">
     <title lang="es">In Da House</title>
   </programme>
@@ -52373,9 +52351,6 @@
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="Telemusica">
     <title lang="es">#Rockon</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410010000 -0500" channel="Telemusica">
-    <title lang="es">#Rockon</title>
-  </programme>
   <programme start="20210410060000 -0500" stop="20210410070000 -0500" channel="Telemusica">
     <title lang="es">#Rockon</title>
   </programme>
@@ -52441,6 +52416,9 @@
   </programme>
   <programme start="20210413090000 -0500" stop="20210413100000 -0500" channel="Telemusica">
     <title lang="es">Rock in TV</title>
+  </programme>
+  <programme start="20210413100000 -0500" stop="20210413120000 -0500" channel="Telemusica">
+    <title lang="es">Tu Ranking</title>
   </programme>
   <programme start="20210413120000 -0500" stop="20210413140000 -0500" channel="Telemusica">
     <title lang="es">Maratón Black and White</title>
@@ -52525,9 +52503,6 @@
   </programme>
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="Teleritmo">
     <title lang="es">Heavy</title>
-  </programme>
-  <programme start="20210410000000 -0500" stop="20210410020000 -0500" channel="Teleritmo">
-    <title lang="es">Máquina del tiempo</title>
   </programme>
   <programme start="20210410080000 -0500" stop="20210410083000 -0500" channel="Teleritmo">
     <title lang="es">Hits</title>
@@ -52734,6 +52709,9 @@
     <title lang="es">Milenio noticias</title>
   </programme>
   <programme start="20210412230000 -0500" stop="20210412234500 -0500" channel="Milenio TV">
+    <title lang="es">Milenio noticias</title>
+  </programme>
+  <programme start="20210413100000 -0500" stop="20210413104500 -0500" channel="Milenio TV">
     <title lang="es">Milenio noticias</title>
   </programme>
   <programme start="20210413104500 -0500" stop="20210413110000 -0500" channel="Milenio TV">
@@ -52977,7 +52955,7 @@
   <programme start="20210409170000 -0500" stop="20210409210000 -0500" channel="Excelsior TV">
     <title lang="es">Excelsior TV</title>
   </programme>
-  <programme start="20210409210000 -0500" stop="20210410010000 -0500" channel="Excelsior TV">
+  <programme start="20210410090000 -0500" stop="20210410130000 -0500" channel="Excelsior TV">
     <title lang="es">Excelsior TV</title>
   </programme>
   <programme start="20210410210000 -0500" stop="20210410230000 -0500" channel="Excelsior TV">
@@ -53138,9 +53116,6 @@
   </programme>
   <programme start="20210409233000 -0500" stop="20210410000000 -0500" channel="BBC World">
     <title lang="es">Forced to Face Sterilisation</title>
-  </programme>
-  <programme start="20210410000000 -0500" stop="20210410003000 -0500" channel="BBC World">
-    <title lang="es">BBC World News</title>
   </programme>
   <programme start="20210410003000 -0500" stop="20210410010000 -0500" channel="BBC World">
     <title lang="es">Newsnight</title>
@@ -53379,6 +53354,9 @@
   <programme start="20210412073000 -0500" stop="20210412080000 -0500" channel="BBC World">
     <title lang="es">Worklife India</title>
   </programme>
+  <programme start="20210412103000 -0500" stop="20210412105500 -0500" channel="BBC World">
+    <title lang="es">BBC World News</title>
+  </programme>
   <programme start="20210412105500 -0500" stop="20210412110000 -0500" channel="BBC World">
     <title lang="es">Click</title>
   </programme>
@@ -53462,9 +53440,6 @@
   </programme>
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="Fox News USA">
     <title lang="es">Tucker Carlson Tonight</title>
-  </programme>
-  <programme start="20210410000000 -0500" stop="20210410010000 -0500" channel="Fox News USA">
-    <title lang="es">Hannity</title>
   </programme>
   <programme start="20210410030000 -0500" stop="20210410040000 -0500" channel="Fox News USA">
     <title lang="es">Hannity</title>
@@ -53580,6 +53555,9 @@
   <programme start="20210412020000 -0500" stop="20210412030000 -0500" channel="Fox News USA">
     <title lang="es">The next revolution with Steve</title>
   </programme>
+  <programme start="20210412100000 -0500" stop="20210412110000 -0500" channel="Fox News USA">
+    <title lang="es">The Faulkner Focus</title>
+  </programme>
   <programme start="20210409010000 -0500" stop="20210409023000 -0500" channel="NTN24">
     <title lang="es">La Tarde</title>
   </programme>
@@ -53654,9 +53632,6 @@
   </programme>
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="NTN24">
     <title lang="es">La Noche</title>
-  </programme>
-  <programme start="20210410000000 -0500" stop="20210410010000 -0500" channel="NTN24">
-    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20210410070000 -0500" stop="20210410080000 -0500" channel="NTN24">
     <title lang="es">Nuestra Tele Deportes</title>
@@ -54234,8 +54209,8 @@
   <programme start="20210412234500 -0500" stop="20210413000000 -0500" channel="CNN USA">
     <title lang="es">World Sport</title>
   </programme>
-  <programme start="20210413000000 -0500" stop="20210413014500 -0500" channel="CNN USA">
-    <title lang="es">CNN Newsroom</title>
+  <programme start="20210413100000 -0500" stop="20210413110000 -0500" channel="CNN USA">
+    <title lang="es">Connect the world</title>
   </programme>
   <programme start="20210409010000 -0500" stop="20210409020000 -0500" channel="CNN Español">
     <title lang="es">Panorama Mundial</title>
@@ -54305,9 +54280,6 @@
   </programme>
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="CNN Español">
     <title lang="es">Perspectivas desde Mexico</title>
-  </programme>
-  <programme start="20210410000000 -0500" stop="20210410010000 -0500" channel="CNN Español">
-    <title lang="es">Directo USA con Juan Lopez</title>
   </programme>
   <programme start="20210410053000 -0500" stop="20210410060000 -0500" channel="CNN Español">
     <title lang="es">GloboEconomía</title>
@@ -55320,9 +55292,6 @@
   <programme start="20210409230000 -0500" stop="20210410000000 -0500" channel="Teleformula">
     <title lang="es">Ricardo Rocha en Formula</title>
   </programme>
-  <programme start="20210410000000 -0500" stop="20210410010000 -0500" channel="Teleformula">
-    <title lang="es">Todo para la Mujer con Maxine</title>
-  </programme>
   <programme start="20210410010000 -0500" stop="20210410020000 -0500" channel="Teleformula">
     <title lang="es">México Canta...y encanta</title>
   </programme>
@@ -56171,9 +56140,6 @@
   </programme>
   <programme start="20210411233000 -0500" stop="20210412000000 -0500" channel="EWTN">
     <title lang="es">Santo Rosario</title>
-  </programme>
-  <programme start="20210412000000 -0500" stop="20210412003000 -0500" channel="EWTN">
-    <title lang="es">EWTN Noticias</title>
   </programme>
   <programme start="20210412003000 -0500" stop="20210412010000 -0500" channel="EWTN">
     <title lang="es">Santa Teresa de los Andes</title>
